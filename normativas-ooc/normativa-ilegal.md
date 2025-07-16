@@ -66,6 +66,7 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 * No esta permitido el robo a jugadores sin motivo previo
 * No se podrán realizar robos 15 minutos antes del reinicio.
 * En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
+* No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehen en los robos.
 
 ### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerias, Talleres Mecanicos abandonados, Farmacias y Corales.)</mark>
 
@@ -73,11 +74,19 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
-* En los robos a Casas, ATM y Corales, se podra abandonar la zona una vez conseguido el botin.
+* En los robos a Casas, ATM y Corales, se podrá abandonar la zona una vez conseguido el botin.
 
 {% hint style="warning" %}
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
+
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria.)</mark>
+
+* Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un minimo de 2 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicoptero o 4 patrullas hasta 8 agentes.
+* Para llevar a cabo estos robos, se deberá portar un arma de fuego por cada integrante.
+* No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
+* No se podra abandonar la zona hasta que acuda la policia.
+* Antes de acudir a un bloqueo, deben pasar un minimo de 7 minutos de persecución.
 
 
 
