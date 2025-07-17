@@ -266,6 +266,9 @@ Para la resolución de conflicto se debe ser acorde y actuar en proporción, si 
 * **Roles Sexuales**: Los roles sexuales están permitidos con la discreción del jugador. Las parejas podrán existir y se permitirá la representación de intimidad siempre que sea consensuada y manejada de forma discreta.
 * Queda prohibido el uso de terminos ic y ooc como "Nigga" o "Maricón".
 * Queda terminante prohibido el uso de imágenes / videos de manera ic que impliquen a personas reales o famosos irl.
+* Esta prohibido el uso de aplicaciones como paginas amrillas, mercado, bidy,  spark, instapic o similares para la venta o compra de productos ilegales.
+
+
 
 {% hint style="danger" %}
 <mark style="color:red;">**RECUERDA**</mark> Queda totalmente <mark style="color:red;">**PROHIBIDO**</mark> cualquier comportamiento discriminatorio (racismo, machismo, etc.) o roles extremistas <mark style="color:red;">sin previa</mark> consulta y <mark style="color:red;">aprobación</mark> del equipo de <mark style="color:red;">administración</mark>. Las violaciones están estrictamente prohibidas bajo cualquier caso.
