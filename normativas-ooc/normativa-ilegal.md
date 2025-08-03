@@ -82,7 +82,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria.)</mark>
 
-* Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un minimo de 2 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicoptero o 4 patrullas hasta 8 agentes.
+* Deben realizarse con un mínimo de 3 delincuente y un máximo de 6 (Un minimo de 2 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicoptero o 4 patrullas hasta 8 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma de fuego por cada integrante.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podra abandonar la zona hasta que acuda la policia.
