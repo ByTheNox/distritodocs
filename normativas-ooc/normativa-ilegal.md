@@ -80,13 +80,20 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria.)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria, Ammunations, Contenedores...)</mark>
 
-* Deben realizarse con un mínimo de 3 delincuente y un máximo de 6 (Un minimo de 2 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicoptero o 4 patrullas hasta 8 agentes.
+* Deben realizarse con un mínimo de 3 delincuente y un máximo de 6 (Un mínimo de 3 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas hasta 8 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma de fuego por cada integrante.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
-* No se podra abandonar la zona hasta que acuda la policia.
-* Antes de acudir a un bloqueo, deben pasar un minimo de 7 minutos de persecución.
+* No se podra abandonar la zona hasta que acuda la policía.
+* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
+* Entre robo y robo deberán pasar mínimo 30 minutos de margen.\
+  \
+  **Robo a Contenedores:**\
+
+* No será necesario esperar a la policía en este robo
+* Podrán ser realizados con mínimo 4 ladrones y máximo 9, acudiendo de 6 a 11 policías, siempre dos más que los atracadores.
+* En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
 
 
 
