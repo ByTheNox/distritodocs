@@ -75,6 +75,7 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
 * En los robos a Casas, ATM y Corales, se podrá abandonar la zona una vez conseguido el botin.
+* En los robos menores, se podrá rolear los rehenes con el comando /dados cuando llegue la policía. El máximo de rehenes es de 3.
 
 {% hint style="warning" %}
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
@@ -87,7 +88,8 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podra abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
-* Entre robo y robo deberán pasar mínimo 30 minutos de margen.\
+* Entre robo y robo deberán pasar mínimo 30 minutos de margen.
+* En los robos medianos, se podrá rolear los rehenes con el comando /dados cuando llegue la policía. El máximo de rehenes es de 3.\
   \
   **Robo a Contenedores:**\
 
