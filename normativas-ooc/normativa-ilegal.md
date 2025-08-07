@@ -89,7 +89,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * No se podra abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
 * Entre robo y robo deberán pasar mínimo 30 minutos de margen.
-* En los robos medianos, se podrá rolear los rehenes con el comando /dados cuando llegue la policía. El máximo de rehenes es de 3.\
+* En los robos medianos, se podrá rolear los rehenes con el comando /dados cuando llegue la policía. El máximo de rehenes es de 6.\
   \
   **Robo a Contenedores:**\
 
