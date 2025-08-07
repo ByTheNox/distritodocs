@@ -30,7 +30,7 @@ Es obligatorio para cada local realizar al menos dos eventos mensuales. En caso 
 
 ### <mark style="color:blue;">**3.1 ¿Cuántos empleados puedo tener?**</mark>
 
-Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podrán asignar entre 1 y 2 gerentes y hasta 2 subjefes. Cada empleado podrá disfrutar de un descuento del 15% en los productos o servicios del local. Es importante gestionar los ascensos y la estructura de manera progresiva para garantizar un ambiente laboral justo y eficiente.
+Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podrán asignar entre 1 y 2 gerentes y hasta 2 supervisores. Cada empleado podrá disfrutar de un descuento del 15% en los productos o servicios del local. Es importante gestionar los ascensos y la estructura de manera progresiva para garantizar un ambiente laboral justo y eficiente.
 
 ### <mark style="color:blue;">**3.2 Bandas y actos ilegales**</mark>
 
