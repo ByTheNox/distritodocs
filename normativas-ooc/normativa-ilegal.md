@@ -96,6 +96,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * No será necesario esperar a la policía en este robo
 * Podrán ser realizados con mínimo 4 ladrones y máximo 9, acudiendo de 6 a 11 policías, siempre dos más que los atracadores.
 * En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
+* Todos los participantes del robo deberán permanecer en la zona hasta haber eliminado al último NPC, no podrán haber salido antes con o sin el botín.
 
 
 
