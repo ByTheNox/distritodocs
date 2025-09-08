@@ -84,7 +84,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria, Ammunations, Contenedores...)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuente y un máximo de 6 (Un mínimo de 3 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas hasta 8 agentes.
-* Para llevar a cabo estos robos, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
+* Para llevar a cabo estos robos la policia deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podra abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
