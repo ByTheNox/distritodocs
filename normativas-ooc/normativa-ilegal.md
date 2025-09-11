@@ -118,7 +118,8 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * Para vender droga debe tenerse un vehículo adecuado.
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periodica.( 2 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se debera enviar un entorno.
-* Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.\
+* Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.
+* Está prohibido vender droga en el norte al no haber departamento del Sheriff.\
 
 
 ***
@@ -204,7 +205,7 @@ Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entor
 Queda terminantemente prohibido realizar roles agresivos en el hospital y sus inmediaciones, salvo casos de fuerza mayor.
 {% endhint %}
 
-### <mark style="color:blue;">8.1. Definición de Puntos calientes.</mark>
+### <mark style="color:blue;">8.2. Definición de Puntos calientes.</mark>
 
 Se consideraran puntos calientes las siguientes zonas:
 
