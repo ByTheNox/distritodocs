@@ -119,8 +119,11 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periodica.( 2 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se debera enviar un entorno.
 * Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.
-* Está prohibido vender droga en el norte al no haber departamento del Sheriff.\
+* Está prohibido vender droga en el norte al no haber departamento del Sheriff.
 
+{% hint style="danger" %}
+El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Una vez enviado, se deberá enviar un entorno similar cada 3 ventas de droga, hayan sido rechazadas o aceptadas.
+{% endhint %}
 
 ***
 
