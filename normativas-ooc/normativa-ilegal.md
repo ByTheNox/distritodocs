@@ -74,19 +74,19 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
-* En los robos a Casas, ATM y Corales, se podrá abandonar la zona una vez conseguido el botin.
+* En los robos a Casas, ATM y Corales, se podrá abandonar la zona una vez conseguido el botín.
 * En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.
 
 {% hint style="warning" %}
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria, Ammunations, Contenedores...)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria, Ammunations, Contenedores, LifeInvader...)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuente y un máximo de 6 (Un mínimo de 3 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas hasta 8 agentes.
-* Para llevar a cabo estos robos la policia deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
+* Para llevar a cabo estos robos la policía deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
-* No se podra abandonar la zona hasta que acuda la policía.
+* No se podrá abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
 * Entre robo y robo deberán pasar mínimo 30 minutos de margen.
 * En los robos medianos, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.\
@@ -97,8 +97,18 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * Podrán ser realizados con mínimo 4 ladrones y máximo 9, acudiendo de 6 a 11 policías, siempre dos más que los atracadores.
 * En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
 * Todos los participantes del robo deberán permanecer en la zona hasta haber eliminado al último NPC, no podrán haber salido antes con o sin el botín.
+* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
 
 
+
+* **Robo a LifeInvader:**\
+
+* Es obligatorio esperar a la policía en este robo.
+* Deberán acudir mínimo 2 atracadores (recomendable 4) y máximo 8.  La policía puede participar con un máximo de 4 patrullas y 1 helicóptero o 5 patrullas, hasta 10 agentes.
+* En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
+* Para llevar a cabo estos robos la policia deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
+* No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
+* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
 
 ### <mark style="color:blue;">2.3. Robos de Vehículos</mark>
 
