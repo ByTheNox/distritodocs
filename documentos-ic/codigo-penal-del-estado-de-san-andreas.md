@@ -279,6 +279,28 @@ Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 
 
 **Artículo 7.** Malversar fondos estatales será castigado con cadena perpetua.
 
+**Artículo 8.** El uso excesivo o letal de la fuerza será sancionado con 35.000$ de multa y 15.000$ de abono al civil afectado como compensación.
+
+**Artículo 9.** La detención ilegal, ya sea sin causa o sin pruebas,  será sancionada con 20.000$ de multa y 15.000$ de abono al civil afectado como compensación.
+
+**Artículo 10.** La tortura, coacción o amenazas a un civil será sancionado con 150.000$ de multa y 75.000$ como compensación al civil afectado.
+
+**Artículo 11.** El uso de armamento no autorizado o fuera de protocolo será sancionado con 15.000$ y la retirada del permiso para portar dicho armamento.
+
+**Artículo 12.** El uso indebido de vehículos policiales será sancionado con una multa de 6.000$.
+
+**Artículo 13.** Filtrar información confidencial del Departamento será sancionado con una multa de 250.000$ y la expulsión inmediata del Departamento.
+
+**Artículo 14.** Las faltas de respeto, ya sea a un civil o un compañero, serán sancionadas con una multa de 2.500$.
+
+**Artículo 15.** El uso de uniformes o insignias oficiales fuera de servicio será sancionado con una multa de 4.000$
+
+**Artículo 16.** Publicar contenido interno del Departamento o burlas/faltas de respeto mediante RR.SS será sancionado con una multa de 10.000$.
+
+**Artículo 17.** El uso de un vehículo civil no autorizado mediante el servicio será sancionado con una multa de 5.000$.
+
+
+
 ***
 
 ## <mark style="color:yellow;">**Capítulo IX - Delitos contra la Moneda y Timbre**</mark> <a href="#bqxo1nehtglc" id="bqxo1nehtglc"></a>
