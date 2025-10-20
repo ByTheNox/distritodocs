@@ -51,7 +51,15 @@ Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá es
 
 ### <mark style="color:blue;">1.6. Drive-by</mark>
 
-Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado. Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehiculo.
+Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado. Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehiculo.\
+
+
+### <mark style="color:blue;">1.7. Crafteo de armas</mark>
+
+* La zona de crafteo se considera **punto caliente**, es decir, toda actividad ilegal es permitida sin necesidad de enviar entornos.
+* Está permitido robar y matar sin rol previo pero no se podrá secuestrar sin un motivo de peso.
+* Solo están permitidas las pasadas rápidas para limpiar la zona, no se permitirá el campeo ni dentro ni fuera del lugar.
+* No se permiten alianzas ni compañerismo entre diferentes bandas. Será sancionado gravemente.
 
 
 
@@ -62,9 +70,10 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 ### <mark style="color:blue;">2.1. Normativa General</mark>
 
 * No se permite realizar varios robos simultáneos por miembros de la misma banda en diferentes lugares.
+* Está prohibido realizar el mismo tipo de robo en un lapso de 15 minutos.
 * En caso de problemas de desincronización durante persecuciones, ambos bandos deberán volver al punto del error y continuar la persecución de manera justa.
-* No esta permitido el robo a jugadores sin motivo previo
-* No se podrán realizar robos 15 minutos antes del reinicio.
+* No esta permitido el robo a jugadores sin motivo previo.
+* No se podrán realizar robos 15 minutos antes y después del reinicio.
 * En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehen en los robos.
 
@@ -114,6 +123,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 
 * Está prohibido robar vehículos de organizaciones estatales o empresas, salvo en casos extremos donde sea imprescindible para la supervivencia del personaje.
 * Queda terminantemente prohibido el uso de vehículos para desguace / coches de importación para realizar cualquier acto ilegal.
+* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehiculo.
 
 ### <mark style="color:blue;">2.4. Boosting</mark>
 
@@ -130,6 +140,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * Si es necesario agredir a un NPC a la hora de vender droga, se debera enviar un entorno.
 * Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.
 * Está prohibido vender droga en el norte al no haber departamento del Sheriff.
+* No está permitido vender droga en tu propio barrio.
 
 {% hint style="danger" %}
 El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Una vez enviado, se deberá enviar un entorno similar cada 3 ventas de droga, hayan sido rechazadas o aceptadas.
@@ -154,6 +165,7 @@ El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Un
 * No estan permitidas las alianzas entre bandas de ningun tipo.
 * Unicamente podran realizar tratos de ventas o intercambio de informacion, siempre a cambio de dineros u otros productos.
 * No podran realizar alianzas entre Bandas y Racing-Crews, los miembros de una Racing Crew no podran involucrar los conflictos internos de sus bandas mientras esten con la Racing Crew.
+* Queda TOTALMENTE prohibido regalar objetos o dinero a otra organización.
 
 
 
@@ -226,6 +238,7 @@ Se consideraran puntos calientes las siguientes zonas:
 * Zona de drogas.
 * Zona de preparación de robos.
 * Cualquier zona que implique un NPC con contenido ilegal.
+* Zona de crafteo de armas.
 
 En estas zonas no es necesario enviar un entorno al realizar un acto delictivo ni se necesita un rol previo. Al igual que no se podrá usar el /auxilio en estas zonas.
 
