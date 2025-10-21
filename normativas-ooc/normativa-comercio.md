@@ -24,6 +24,13 @@ Los locales podrán establecer un máximo de cuatro convenios con otros comercio
 
 Es obligatorio para cada local realizar al menos dos eventos mensuales. En caso de no cumplir con esta obligación, el comercio podrá ser retirado. Los eventos pueden ser colaborativos, permitiendo la unión de varios locales para organizar actividades pero solo contabilizara al organizador principal como exposiciones de vehículos, sorteos, ferias temáticas, entre otros. Este tipo de iniciativas no solo enriquecen la experiencia de rol, sino que también ayudan a atraer más clientes y consolidar el prestigio del negocio.
 
+### <mark style="color:blue;">**2.3 Servicio de reparto**</mark>
+
+El servicio de reparto o 'delivery' es una función de los negocios de ocio y alimentación. Consiste en recibir pedidos de NPC y entragarlos a cambio de una propina. Este sistema tiene sus propias reglas;
+
+* Solamente los jefes y supervisores podrán realizar este servicio.
+* Debe haber mínimo 2 personas trabajando a la vez para poder ir a repartir, es decir, el local nunca se podrá dejar sin atender mientras haya alguien de servicio.
+
 ***
 
 ## <mark style="color:purple;">**3. Gestión Interna de Empleados**</mark>
