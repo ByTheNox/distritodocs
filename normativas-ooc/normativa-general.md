@@ -96,12 +96,11 @@ En un servidor de rol, cada acción tiene una reacción. Respetar esta dinámica
 El Powergaming también abarca acciones que no tendrían sentido o lógica en la vida real, pero que se hacen posibles debido a la naturaleza del juego. Incluye forzar situaciones a otros jugadores sin darles oportunidad de reaccionar. Recuerda que después de una acción siempre debe haber una reacción para mantener el rol equilibrado. Algunos ejemplos de PG:
 
 * Provocar a la policía sin un rol justificable con el único propósito de generar una persecución.
-* Queda prohibido rolear la amputación de miembros del cuerpo sin el consentimiento mutuo de las partes implicadas. Esto incluye brazos, piernas, lenguas, entre otros.
-* Está permitido conducir vehículos por cualquier terreno y realizar saltos con ellos, pero no se permite reconocer a los jugadores por la voz si llevan la cabeza completamente cubierta.
+* No se permite reconocer a los jugadores por la voz si llevan la cabeza completamente cubierta.
 * Está prohibido usar bugs de animaciones para atravesar paredes o usar el comando /cargar estando abatido.
 * No se permite circular con dos o más ruedas pinchadas.
 * No se puede acceder a aplicaciones de DarkChat aunque se robe el móvil de otro personaje, dado que se considera que son apps encriptadas para la seguridad de las comunicaciones.
-* Rolear rehenes ficticios utilizando /do está prohibido exceptuando robos pequeños. Todos los rehenes deben ser jugadores reales.
+* Rolear rehenes ficticios utilizando /do está prohibido exceptuando robos pequeños. Todos los rehenes deben ser jugadores reales o NPCs.
 * Solo se podrá llevar un chaleco adicional en el inventario y un máximo de cinco vendas en cualquier rol agresivo. El abuso de esto es sancionable.
 * Matizar que la liberación del PG es unica y exclusivamente durante el transcurso de persecuciones o roles agresivos.
 
