@@ -113,12 +113,11 @@ _**Enmienda 25.**_ Los derechos enumerados en esta Constitución no deben interp
 (d) Identificación de personas.
 
 **Artículo 7.** **Derechos del detenido:**\
-Toda persona detenida tendrá los siguientes derechos, que deberán ser comunicados de manera clara antes o durante su traslado:
+Toda persona detenida tendrá los siguientes derechos, que deberán ser comunicados de manera clara antes o durante su traslado. Si no se cumplen estas condiciones, el detenido podrá solicitar un hábeas corpus, obligando al funcionario a liberarlo y a aplicar las sanciones pertinentes:
 
 1. Derecho a ser informado de los delitos que se le imputan.
 2. Derecho a guardar silencio y no declarar contra sí mismo.
-3. Derecho a contar con la presencia de un abogado, salvo en caso de flagrante delito.\
-   Si no se cumplen estas condiciones, el detenido podrá solicitar un hábeas corpus, obligando al funcionario a liberarlo y a aplicar las sanciones pertinentes.
+3. Derecho a contar con la presencia de un abogado, salvo en caso de flagrante delito. En caso de no poder costearse uno, el Estado le asignará uno de oficio.
 
 **Artículo 8.** Solo el detenido o su abogado podrán solicitar un hábeas corpus.
 
