@@ -18,79 +18,79 @@
 
 **Artículo 1.** El uso indebido o excesivo del claxon será sancionado con una multa de 500 $. Este comportamiento altera la tranquilidad vial y deberá ser evitado.
 
-**Artículo 2.** Realizar giros indebidos, que pongan en riesgo la seguridad vial, conllevará una sanción de 250 $.
+**Artículo 2.** La realización de giros indebidos, que pongan en riesgo la seguridad vial, conllevará una sanción de 250 $.
 
-**Artículo 3.** Circular en sentido contrario será considerado una infracción grave, sancionada con 500 $.
+**Artículo 3.** La circulación en sentido contrario será considerado una infracción grave, sancionada con 500 $.
 
-**Artículo 4.** Estacionar en zonas no habilitadas o que obstruyan la circulación será multado con 250 $.
+**Artículo 4.** El estacionamiento en zonas no habilitadas o que obstruyan la circulación será multado con 250 $.
 
-**Artículo 5.** Ignorar las señales de tráfico verticales supone una infracción leve, sancionada con 100 $.
+**Artículo 5.** El caso omiso a las señales de tráfico verticales supone una infracción leve, sancionada con 100 $.
 
-**Artículo 6.** Saltarse un semáforo en rojo conlleva una multa de 400 $, debido al alto riesgo que implica para la seguridad vial.
+**Artículo 6.** La evasión de un semáforo en rojo conlleva una multa de 400 $, debido al alto riesgo que implica para la seguridad vial.
 
 **Artículo 7.** No ceder el paso a vehículos de emergencia será sancionado con 500 $. Este comportamiento puede dificultar la respuesta de los servicios esenciales.
 
-**Artículo 8.** Realizar adelantamientos indebidos en condiciones no permitidas será multado con 300 $.
+**Artículo 8.** La realización de adelantamientos indebidos en condiciones no permitidas será multado con 300 $.
 
-**Artículo 9.** Circular marcha atrás en vías urbanas será sancionado con 300 $.
+**Artículo 9.** La circulación en marcha atrás en vías urbanas será sancionado con 300 $.
 
-**Artículo 10.** Ignorar las señales o indicaciones de los agentes encargados de la circulación será sancionado con 500 $ y hasta 5 meses de prisión.
+**Artículo 10.** El caso omiso a las señales o indicaciones de los agentes encargados de la circulación será sancionado con 500 $ y hasta 5 meses de prisión.
 
-**Artículo 11.** Saltar u omitir un control de tráfico organizado por las autoridades será multado con 1.200 $ y hasta 5 meses de prisión.
+**Artículo 11.** La omisión de un control de tráfico organizado por las autoridades será multado con 1.200 $ y hasta 5 meses de prisión.
 
-**Artículo 12.** El exceso de velocidad en vías urbanas se sanciona con 400 $. Superar los 130 km/h conlleva una pena de hasta 5 meses de prisión.
+**Artículo 12.** El exceso de velocidad en vías urbanas será sancionado con 400 $. Superar los 130 km/h conllevará una pena de hasta 5 meses de prisión.
 
 **Artículo 13.** El exceso de velocidad en vías secundarias será multado con 300 $. Superar los 150 km/h conlleva una pena de hasta 5 meses de prisión.
 
-**Artículo 14.** El exceso de velocidad en autovías se sanciona con 350 $. Superar los 190 km/h conlleva una pena de hasta 5 meses de prisión.
+**Artículo 14.** El exceso de velocidad en autovías se sancionará con 350 $. Superar los 190 km/h conllevará una pena de hasta 5 meses de prisión.
 
-**Artículo 15.** Conducción temeraria o realización de maniobras agresivas será multada con 750 $.
+**Artículo 15.** La conducción temeraria o la realización de maniobras agresivas será multada con 750 $.
 
-**Artículo 16.** Conducir bajo los efectos de drogas o alcohol será sancionado con 800 $. En caso de derivar en un delito penal, se aplicará una pena de hasta 10 meses de prisión.
+**Artículo 16.** La conducción bajo los efectos de drogas o alcohol será sancionado con 800 $. En caso de derivar en un delito penal, se aplicará una pena de hasta 10 meses de prisión.
 
-**Artículo 17.** Circular por zonas no habilitadas para vehículos conlleva una multa de 300 $.
+**Artículo 17.** La circulación por zonas no habilitadas para vehículos conlleva una multa de 300 $.
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo II - Agresiones, Disturbios y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
 
-**Artículo 1.** Alterar el orden público mediante comportamientos que generen caos o peligro será multado con 800 $.
+**Artículo 1.** La alteración del orden público mediante comportamientos que generen caos o peligro será multado con 800 $.
 
-**Artículo 2.** Expresar actitudes o comentarios racistas será sancionado con 1.600 $, reflejando el compromiso del Estado contra cualquier forma de discriminación.
+**Artículo 2.** La expresión de actitudes o comentarios racistas será sancionado con 1.600 $, reflejando el compromiso del Estado contra cualquier forma de discriminación.
 
-**Artículo 3.** Realizar comentarios homofóbicos o de odio hacia personas por su orientación sexual será multado con 1.600 $.
+**Artículo 3.** La realización de comentarios homofóbicos o de odio hacia personas por su orientación sexual será multado con 1.600 $.
 
 **Artículo 4.** Las faltas de respeto hacia otro civil serán sancionadas con 800 $, en defensa del respeto mutuo entre ciudadanos.
 
-**Artículo 5.** Dañar mobiliario urbano tendrá una multa variable entre 200 $ y 850 $, dependiendo de la magnitud de los daños ocasionados.
+**Artículo 5.** El daño al mobiliario urbano tendrá una multa variable entre 200 $ y 850 $, dependiendo de la magnitud de los daños ocasionados.
 
 **Artículo 6.** El uso excesivo del claxon con fines de provocación o sin justificación será multado con 250 $.
 
-**Artículo 7.** Intentar cometer una violación será sancionado con una multa de entre 150.000 $ y  500.000 $ con hasta 90 meses de prisión.
+**Artículo 7.** El intento de cometer una violación será sancionado con una multa de entre 150.000 $ y  500.000 $ con una condena de 25 años a cadena perpetua.
 
-**Artículo 8.** Consumarse una violación será sancionado entre 400.000 $ y 950.000 $ con hasta 500 meses de prisión, en coherencia con la gravedad del acto.
+**Artículo 8.** La consumación de una violación será sancionado entre 400.000 $ y 950.000 $ con una condena 25 años a cadena perpetua., en coherencia con la gravedad del acto.
 
-**Artículo 9.** Acosar psicológicamente a otro civil será sancionado con 15.000 $ y hasta 15 meses de prisión.
+**Artículo 9.** El acoso psicológico a otro civil será sancionado con 15.000 $ y hasta 15 meses de prisión.
 
 **Artículo 10.** La suplantación de identidad será multada con 20.000 $ y castigada con hasta 20 meses de prisión.
 
-**Artículo 11.** Formar parte de una organización ilegal será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
+**Artículo 11.** Formar parte de una organización criminal será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
-**Artículo 12.** Circular en la vía pública con el rostro oculto será sancionado con 1.000 $ y hasta 5 meses de prisión en caso de reincidencia.
+**Artículo 12.** La circulación en la vía pública con el rostro oculto será sancionado con 1.000 $ y hasta 5 meses de prisión en caso de reincidencia.
 
-**Artículo 13.** Circular en la vía pública sin camiseta será sancionado con 200 $, conforme a las normas de decoro público.
+**Artículo 13.** La circulación en la vía pública sin camiseta será sancionado con 200 $, conforme a las normas de decoro público.
 
 **Artículo 14.** Cometer fraude o engaño será multado con 10.000 $ y hasta 15 meses de prisión.
 
 **Artículo 15.** Cometer acoso sexual será sancionado con una multa de 45.000 $ y hasta 60 meses de prisión.
 
-**Artículo 16.** Violar una orden de alejamiento dictada por sentencia firme será sancionado con 15.000 $ y hasta 15 meses de prisión.
+**Artículo 16.** La violación de una orden de alejamiento dictada por sentencia firme será sancionado con 15.000 $ y hasta 15 meses de prisión.
 
 **Artículo 17.** Negarse a identificarse ante las autoridades será sancionado con una multa de 1.500 $.
 
-**Artículo 18.** Obstruir la justicia será sancionado con 1.500 $ y hasta 10 meses de prisión.
+**Artículo 18.** La obstrucción a la justicia será sancionado con 1.500 $ y hasta 10 meses de prisión.
 
-**Artículo 19.** Violentar un perímetro policial establecido será sancionado con 10.000 $.
+**Artículo 19.** Sobrepasar un perímetro policial establecido será sancionado con 10.000 $.
 
 ***
 
@@ -100,7 +100,7 @@
 
 **Artículo 2.** El robo de un vehículo estatal será sancionado con 5.000 $ y hasta 10 meses de prisión, debido a la gravedad del daño hacia bienes públicos.
 
-**Artículo 3.** Asaltar a un civil será multado con 1.000 $ y hasta 5 meses de prisión.
+**Artículo 3.** El asalto a un civil será multado con 1.000 $ y hasta 5 meses de prisión.
 
 **Artículo 4.** Un asalto agravado a un civil, utilizando fuerza excesiva o causando daño significativo, será sancionado con 2.000 $ y hasta 8 meses de prisión.
 
@@ -142,7 +142,7 @@
 
 ## <mark style="color:yellow;">**Capítulo IV - Porte y Tenencia de Armas de Fuego y Objetos Ilegales**</mark> <a href="#lngzltpski3u" id="lngzltpski3u"></a>
 
-**Artículo 1.** Poseer un arma ilegal (blanca) será sancionado con 1.000 $ y la retirada inmediata del arma. Se consideran armas ilegales aquellas que no se venden legalmente o cuyo uso contravenga la normativa.
+**Artículo 1.** La posesión criminal de un arma blanca será sancionado con 1.000 $ y la retirada inmediata del arma. Se consideran armas ilegales aquellas que no se venden legalmente o cuyo uso contravenga la normativa.
 
 **Artículo 2.** Las siguientes armas blancas se consideran legales siempre que sean empleadas adecuadamente:
 
@@ -151,27 +151,27 @@
 * Palanca
 * Hacha
 
-**Artículo 3.** La posesión de armas de fuego legales utilizadas con fines ilegales conllevará una sanción de 5.000 $ y la retirada inmediata de la licencia de armas.
+**Artículo 3.** La posesión negligente de un arma de fuego legal utilizada con fines ilegales conllevará una sanción de 5.000 $ y la retirada inmediata de la licencia de armas.
 
-**Artículo 4.** La posesión de armas de fuego ilegales se sancionará acumulativamente según el calibre:
+**Artículo 4.** La posesión criminal de un arma de fuego ilegal se sancionará acumulativamente según el calibre:
 
 * Pistolas de bajo calibre: 5.000 $ y hasta 5 meses de prisión.
 * Armas automáticas de calibre medio: 10.000 $ y hasta 10 meses de prisión.
 * Armas automáticas de alto calibre: 20.000 $ y hasta 20 meses de prisión.
 
-**Artículo 5.** La posesión de munición ilegal será sancionada según las cantidades:
+**Artículo 5.** La posesión criminal de munición será sancionada según las cantidades:
 
 * 5 a 59 balas: 1.000 $.
 * 60 a 99 balas: 2.000 $.
 * Más de 100 balas: 5.000 $ y hasta 5 meses de prisión.
 
-**Artículo 6.** El tráfico de armas o munición, regulado por la Ley RICO, conllevará penas severas para quienes porten más de diez armas o acumulen grandes cantidades de munición en propiedades o vehículos.
+**Artículo 6.** El tráfico de armas o munición será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo V - Delitos contra la Salud Pública**</mark> <a href="#mai4936jhc4n" id="mai4936jhc4n"></a>
 
-**Artículo 1.** La posesión de sustancias estupefacientes será sancionada según las siguientes disposiciones:
+**Artículo 1.** La posesión criminal de sustancias controladas será sancionada según las siguientes disposiciones:
 
 1. **Para consumo propio:**
    * Hasta 4 unidades de porros son permitidos para consumo personal.
@@ -180,23 +180,23 @@
    * Drogas blandas: hasta 150 $ por unidad. Más de 15 bolsas: Pena de hasta 5 meses de prisión
    * Drogas duras: hasta 250 $ por unidad. Más de 10 bolsas: pena de hasta 10 meses de prisión.
 
-**Artículo 2.** Las sustancias destinadas exclusivamente para el consumo propio serán retiradas de forma inmediata por las autoridades sin cargos adicionales.
+**Artículo 2.** Las sustancias controladas destinadas exclusivamente para el consumo propio serán retiradas de forma inmediata por las autoridades sin cargos adicionales.
 
-**Artículo 3.** El tráfico de drogas será sancionado con hasta 20 meses de prisión. La definición de "tráfico" incluye el transporte, distribución o almacenamiento de estupefacientes en cantidades superiores a las permitidas.
+**Artículo 3.** El tráfico de sustancias controladas será sancionado con hasta 20 meses de prisión. La definición de "tráfico" incluye el transporte, distribución o almacenamiento de estupefacientes en cantidades superiores a las permitidas.
 
-**Artículo 4.** Consumir sustancias estupefacientes en la vía pública será sancionado con una multa de 1.500 $ y 15 meses de prisión.
+**Artículo 4.** Consumir sustancias controladas en la vía pública será sancionado con una multa de 1.500 $ y 15 meses de prisión.
 
-**Artículo 5.** El narcotráfico, regulado por la Ley RICO, se aplicará a quienes porten 250 o más unidades de sustancias ilegales o las almacenen en propiedades o vehículos. Las penas incluirán multas significativas y tiempo en prisión, dependiendo de la magnitud.
+**Artículo 5.** El delito de Narcotráfico se aplicará a quienes porten 250 o más unidades de sustancias ilegales o las almacenen en propiedades o vehículos. Será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo VI - Delitos contra la Integridad Física del Ciudadano**</mark> <a href="#wmttase05ait" id="wmttase05ait"></a>
 
-**Artículo 1.** Intentar secuestrar a un civil será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión. Este delito no incluirá cargos adicionales como "huir de la justicia" salvo circunstancias agravantes.
+**Artículo 1.** El intento de secuestro a un civil será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión. Este delito no incluirá cargos adicionales como "huir de la justicia" salvo circunstancias agravantes.
 
-**Artículo 2.** Secuestrar a un civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
+**Artículo 2.** El secuestro a un civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
 
-**Artículo 3.** Los intentos de homicidio serán sancionados de acuerdo con la gravedad del acto:\
+**Artículo 3.** El intento de homicidio a un civil será sancionado de acuerdo con la gravedad del acto:\
 \
 (a) **Tercer grado:** Acciones que no buscan intencionalmente matar pero ponen en riesgo la vida. Multa de 7.500 $ y hasta 15 meses de prisión.\
 \
@@ -204,7 +204,7 @@
 \
 (c) **Primer grado:** Actos premeditados para causar la muerte. Multa de 19.000 $ y hasta 30 meses de prisión.
 
-**Artículo 4.** Cometer homicidio será sancionado de acuerdo con el grado del delito:\
+**Artículo 4.** El homicidio homicidio será sancionado de acuerdo con el grado del delito:\
 \
 (a) **Tercer grado:** Muerte causada sin intención directa. Multa de 15.000 $ y hasta 20 meses de prisión.\
 \
@@ -212,54 +212,56 @@
 \
 (c) **Primer grado:** Muerte causada con premeditación. Multa de 40.000 $ y hasta 30 meses de prisión.
 
-**Artículo 5.** Amenazar o extorsionar a un ciudadano será sancionado de la siguiente manera:
+**Artículo 5.** La amenaza o extorsión a un ciudadano será sancionado de la siguiente manera:
 
 1. Sin uso de armas: Multa de 2.500 $ y hasta 5 meses en prisión.
 2. Con uso de armas: Multa de 5.000 $ y hasta 5 meses de prisión.
 
 **Artículo 6.** La omisión del deber de socorro a personas en peligro será sancionada con una multa de 1.000 $ y hasta 5 meses de prisión.
 
-**Artículo 7.** El terrorismo será sancionado con una multa de 40.000 $ y hasta 15 meses de prisión. Se considerará terrorismo cualquier acto que emplee explosivos o vehículos contra edificios o personas con la intención de causar daño o sembrar el terror.
+**Artículo 7.** El terrorismo será sancionado con una multa de 400.000 $ y una condena de 25 años a cadena perpetua según sea considerado por un Juez. Se considerará terrorismo cualquier acto que emplee explosivos o vehículos contra edificios o personas con la intención de causar daño o sembrar el terror.
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo VII - Delitos contra la Administración Pública**</mark> <a href="#y8xjsxb4n0bw" id="y8xjsxb4n0bw"></a>
 
-**Artículo 1.** Amenazar, insultar o desobedecer las órdenes de un funcionario público será sancionado según lo siguiente:\
+**Artículo 1.** Las amenazas, los insultos y las desobediencias a un funcionario público será sancionado según lo siguiente:\
 (a) Primera desobediencia: multa de 1.500 $.\
 (b) Por cada orden omitida adicional: incremento de hasta 5 meses de prisión.
 
-**Artículo 2.** Insultar a un funcionario público en el desempeño de sus funciones será sancionado con una multa de 750 $, siendo esta sanción acumulativa en función a la cantidad de insultos dirigidos hacia el agente.
+**Artículo 2.** Los insultos a un funcionario público en el desempeño de sus funciones será sancionado con una multa de 750 $, siendo esta sanción acumulativa en función a la cantidad de insultos dirigidos hacia el agente.
 
-**Artículo 3.** Dañar vehículos gubernamentales será sancionado con una multa de 750 $ y será acumulable según el nivel de los daños causados.
+**Artículo 3.** El daño a vehículos gubernamentales será sancionado con una multa de 750 $ y será acumulable según el nivel de los daños causados.
 
-**Artículo 4.** Agredir o amenazar de muerte a un funcionario público será sancionado con una multa de 5.000 $.
+**Artículo 4.** Las agresiones o amenazas de muerte a un funcionario público será sancionado con una multa de 5.000 $.
 
-**Artículo 5.** Resistirse al arresto será sancionado con una multa de 2.500 $ y hasta 5 meses de prisión.
+**Artículo 5.** La resistencia al arresto será sancionada con una multa de 2.500 $ y hasta 5 meses de prisión.
 
-**Artículo 6.** Difamar o distribuir grabaciones/imágenes de un funcionario público sin su consentimiento será sancionado con una multa de 500 $.
+**Artículo 6.** La difamación o distribución de grabaciones/imágenes de un funcionario público sin su consentimiento será sancionada con una multa de 500 $.
 
-**Artículo 7.** Secuestrar a un funcionario público será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.\
-\
-Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 7.500 $ y 15 meses de prisión.
+Artículo 7. El intento de secuestro a un funcionario público será sancionado con 7.500 $ y 15 meses de prisión.
 
-**Artículo 9.** Los intentos de homicidio contra funcionarios públicos serán sancionados según el grado del acto:\
+**Artículo 7.** El secuestro a un funcionario público será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
+
+**Artículo 9.** El intento de homicidio a un funcionario público será sancionado según el grado del acto:\
 (a) Tercer grado: multa de 19.000 $ y hasta 10 meses de prisión.\
 (b) Segundo grado: multa de 25.000 $ y hasta 15 meses de prisión.\
 (c) Primer grado: multa de 35.000 $ y hasta 20 meses de prisión.
 
-**Artículo 10.** Cometer homicidio contra un funcionario público será sancionado según el grado del acto:\
+**Artículo 10.** El homicidio contra un funcionario público será sancionado según el grado del acto:\
 (a) Tercer grado: multa de 25.000 $ y hasta 15 meses de prisión.\
 (b) Segundo grado: multa de 50.000 $ y hasta 25 meses de prisión.\
 (c) Primer grado: multa de 80.000 $ y hasta 35 meses de prisión.
 
-**Artículo 11.** Huir de la justicia será sancionado con una multa de 1.500 $ y hasta 5 meses de prisión.
+**Artículo 11.** La huida de la justicia será sancionado con una multa de 1.500 $ y hasta 5 meses de prisión.
 
-**Artículo 12.** Mentir o dar falso testimonio ante una autoridad será sancionado con 5.000 $ y hasta 5 meses de prisión.
+**Artículo 12.\~**&#x45;l falso testimonio ante una autoridad será sancionado con 5.000 $ y hasta 5 meses de prisión.
 
-**Artículo 13.** La suplantación de identidad será sancionada con una multa de 150.000 $ y hasta 50 meses de prisión.
+**Artículo 13.** La suplantación de identidad de un funcionario público será sancionada con una multa de 150.000 $ y hasta 50 meses de prisión.
 
 **Artículo 14.** Falsificar documentos será sancionado con una multa de 5.000 $.
+
+**Artículo 15.** La fuga de la custodia será sancionada con 3.000 $ y hasta 10 meses de prisión.
 
 ***
 
@@ -267,37 +269,39 @@ Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 
 
 **Artículo 1.** Los funcionarios públicos que cometan delitos descritos en los capítulos II, III, IV, V, VI o VII recibirán el doble de la pena establecida y serán sujetos a un expediente disciplinario.
 
-**Artículo 2.** Realizar un cacheo a un civil sin causa justificada será sancionado con una multa de 5.000 $.
+**Artículo 2.** La realización de un cacheo a un civil sin causa justificada será sancionado con una multa de 5.000 $.
 
-**Artículo 3.** Consumir drogas o alcohol durante el servicio será sancionado con una multa de 7.500 $ y hasta 20 meses de prisión.
+**Artículo 3.** La consumición de drogas o alcohol durante el servicio será sancionado con una multa de 7.500 $ y hasta 2 semanas de suspensión de empleo y sueldo.
 
-**Artículo 4.** Regalar o vender objetos y sustancias incautadas será sancionado con una multa de 145.000 $ y hasta 55 meses de prisión.
+**Artículo 4.** Regalar o vender objetos y sustancias incautadas será sancionado con una multa de 200.000 $, 55 meses de prisión y la suspensión definitiva del servicio activo.
 
-**Artículo 5.** Comprar sustancias químicas a civiles o miembros de bandas será sancionado con una multa de 25.000 $.
+**Artículo 5.** Comprar sustancias químicas a civiles o miembros de bandas será sancionado con una multa de 25.000 $ y 4 semanas de suspensión de empleo y sueldo.
 
-**Artículo 6.** Aliarse con una banda o mafia para cometer un acto ilegal será sancionado con una multa de 45.000 $ y hasta 15 meses de prisión.
+**Artículo 6.** Aliarse con una banda o mafia para cometer un acto ilegal será sancionado con una multa de 45.000 $ y una pena de cárcel de 25 años a cadena perpetua.
 
-**Artículo 7.** Malversar fondos estatales será castigado con cadena perpetua.
+**Artículo 7.** Malversar fondos estatales será castigado una pena de 25 años a cadena perpetua.
 
 **Artículo 8.** El uso excesivo o letal de la fuerza será sancionado con 35.000$ de multa y 15.000$ de abono al civil afectado como compensación.
 
-**Artículo 9.** La detención ilegal, ya sea sin causa o sin pruebas,  será sancionada con 20.000$ de multa y 15.000$ de abono al civil afectado como compensación.
+**Artículo 9.** La detención ilegal, ya sea sin causa o sin pruebas, será sancionada con 20.000$ de multa y 15.000$ de abono al civil afectado como compensación.
 
-**Artículo 10.** La tortura, coacción o amenazas a un civil será sancionado con 150.000$ de multa y 75.000$ como compensación al civil afectado.
+**Artículo 10.** Torturar o coaccionar a un civil será sancionado con 150.000$ de multa y 75.000$ como compensación al civil afectado. la suspensión de 8 semanas de empleo y sueldo.
 
-**Artículo 11.** El uso de armamento no autorizado o fuera de protocolo será sancionado con 15.000$ y la retirada del permiso para portar dicho armamento.
+**Artículo 11.** Las amenazas a un civil serán sancionadas con 150.000$ de multa y 75.000$ como compensación al civil afectado.
 
-**Artículo 12.** El uso indebido de vehículos policiales será sancionado con una multa de 6.000$.
+**Artículo 12.** El uso de armamento no autorizado o fuera de protocolo será sancionado con 15.000$ y la retirada del permiso para portar dicho armamento.
 
-**Artículo 13.** Filtrar información confidencial del Departamento será sancionado con una multa de 250.000$ y la expulsión inmediata del Departamento.
+**Artículo 13.** El uso indebido de vehículos policiales será sancionado con una multa de 6.000$.
 
-**Artículo 14.** Las faltas de respeto, ya sea a un civil o un compañero, serán sancionadas con una multa de 2.500$.
+**Artículo 14.** La filtración de información confidencial del Departamento será sancionado con una multa de 250.000$ y una condena de 25 años a cadena perpetua, además de la expulsión del departamento.
 
-**Artículo 15.** El uso de uniformes o insignias oficiales fuera de servicio será sancionado con una multa de 4.000$
+**Artículo 15.** Las faltas de respeto, ya sea a un civil o un compañero, serán sancionadas con una multa de 2.500$.
 
-**Artículo 16.** Publicar contenido interno del Departamento o burlas/faltas de respeto mediante RR.SS será sancionado con una multa de 10.000$.
+**Artículo 16.** El uso de uniformes o insignias oficiales fuera de servicio será sancionado con una multa de 4.000$
 
-**Artículo 17.** El uso de un vehículo civil no autorizado mediante el servicio será sancionado con una multa de 5.000$.
+**Artículo 17.** Publicar contenido interno del Departamento o burlas/faltas de respeto mediante RR.SS será sancionado con una multa de 10.000$.
+
+**Artículo 18.** El uso de un vehículo civil no autorizado mediante el servicio será sancionado con una multa de 5.000$.
 
 
 
@@ -305,11 +309,11 @@ Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 
 
 ## <mark style="color:yellow;">**Capítulo IX - Delitos contra la Moneda y Timbre**</mark> <a href="#bqxo1nehtglc" id="bqxo1nehtglc"></a>
 
-**Artículo 1.** Portar más de 4.999 $ en efectivo será sancionado con la retirada inmediata de la cantidad excedente.
+**Artículo 1.** La portación de más de 4.999 $ en efectivo será sancionado con la retirada inmediata de la cantidad excedente.
 
-**Artículo 2.** Portar más de 20.000 $ en efectivo será sancionado con la retirada de la cantidad excedente y una multa de 10.000 $ por cada 10.000 $ adicionales.
+**Artículo 2.** La portación de más de 20.000 $ en efectivo será sancionado con la retirada de la cantidad excedente y una multa de 10.000 $ por cada 10.000 $ adicionales.
 
-**Artículo 3.** Evasión de impuestos será sancionada con una multa de 20.000 $ y hasta 15 meses de prisión.\
+**Artículo 3.** La evasión de impuestos será sancionada con una multa de 20.000 $ y hasta 15 meses de prisión.\
 \
 **Artículo 4.** El blanqueo de capitales a partir de 100.000 $ será sancionado con 50.000 $ y 25 meses de prisión.
 
@@ -317,13 +321,13 @@ Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 
 
 ## <mark style="color:yellow;">**Capítulo X - Delitos contra el Medio Ambiente, Fauna y Flora**</mark> <a href="#s2f9tis0g3l7" id="s2f9tis0g3l7"></a>
 
-**Artículo 1.** Maltratar animales será sancionado con una multa de 5.000 $ y hasta 10 meses de prisión.
+**Artículo 1.** El maltrato a animales será sancionado con una multa de 5.000 $ y hasta 10 meses de prisión.
 
-**Artículo 2.** Abandonar un animal será sancionado con una multa de 2.500 $.
+**Artículo 2.** El abandono de un animal será sancionado con una multa de 2.500 $.
 
-**Artículo 3.** Contaminar el medio ambiente mediante acciones deliberadas será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
+**Artículo 3.** La contaminación del medio ambiente mediante acciones deliberadas será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
-**Artículo 4.** Cazar especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
+**Artículo 4.** La caza de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
 
 ***
 
@@ -331,35 +335,35 @@ Artículo 8. Intentar secuestrar a un funcionario público será sancionado con 
 
 **Artículo 1.** Negar, borrar o no disponer de grabaciones de CCTV requeridas por la policía será sancionado con multas entre 7.500 $ y 10 meses de prisión.
 
-**Artículo 2.** Denegar un servicio sin causa justificada será sancionado con una multa de 2.000 $.
+**Artículo 2.** La denegación de un servicio sin causa justificada será sancionado con una multa de 2.000 $.
 
 **Artículo 3.** Cometer estafa a través de un establecimiento será sancionado con multas entre 2.500 $ y 20.000 $, dependiendo de la magnitud del fraude.
 
-**Artículo 4.** Realizar actividad comercial sin registro mercantil será sancionado con una multa de 25.000 $ y hasta 15 meses de prisión.
+**Artículo 4.** La realización de una actividad comercial sin registro mercantil será sancionado con una multa de 25.000 $ y hasta 15 meses de prisión.
 
 **Artículo 5.** Operar sin la licencia correspondiente será sancionado con una multa de 15.000 $.
 
-**Artículo 6.** Contratar empleados sin registro será sancionado con una multa de 20.000 $.
+**Artículo 6.** La contratación de empleados sin registro será sancionado con una multa de 20.000 $.
 
-**Artículo 7.** Celebrar convenios sin registro mercantil será sancionado con una multa de 20.000 $.
+**Artículo 7.** La celebración de convenios sin registro mercantil será sancionado con una multa de 20.000 $.
 
-**Artículo 8.** Competencia desleal entre empresas o autónomos será sancionada con una multa de 25.000 $.
+**Artículo 8.** La competencia desleal entre empresas o autónomos será sancionada con una multa de 25.000 $.
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo XII - Delitos contra la Seguridad Aérea**</mark> <a href="#uuec5ckc5wl" id="uuec5ckc5wl"></a>
 
-**Artículo 1.** Volar sin permiso o licencia será sancionado con una multa de 50.000 $ y hasta 15 meses de prisión.
+**Artículo 1.** El vuelo sin permiso o licencia será sancionado con una multa de 50.000 $ y hasta 15 meses de prisión.
 
-**Artículo 2.** Entrar sin autorización a un aeródromo civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
+**Artículo 2.** La entrada sin autorización a un aeródromo civil será sancionada con una multa de 15.000 $ y hasta 15 meses de prisión.
 
-**Artículo 3.** Entrar sin autorización a un aeródromo internacional será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
+**Artículo 3.** La entrada sin autorización a un aeródromo internacional será sancionada con una multa de 20.000 $ y hasta 15 meses de prisión.
 
-**Artículo 4.** Violar el espacio aéreo de un aeródromo internacional será sancionado con una multa de 50.000 $ y hasta 15 meses de prisión.
+**Artículo 4.** La violación del espacio aéreo de un aeródromo internacional será sancionada con una multa de 50.000 $ y hasta 15 meses de prisión.
 
-**Artículo 5.** Intentar derribar una aeronave será sancionado con una multa de 80.000 $ y hasta 15 meses de prisión.
+**Artículo 5.** El intento de derribo a una aeronave será sancionado con una multa de 80.000 $ y hasta 15 meses de prisión.
 
-**Artículo 6.** Derribar una aeronave será sancionado con una multa de 150.000 $ y hasta 15 meses de prisión.
+**Artículo 6.** El derribo una aeronave será sancionado con una multa de 150.000 $ y hasta 15 meses de prisión.
 
 ***
 
