@@ -194,6 +194,7 @@ El CK supone la muerte definitiva del personaje junto con la pérdida de bienes 
 * **CK Voluntario**: Este ocurre cuando decides finalizar la historia de tu personaje de manera definitiva (ya sea con su muerte o una salida permanente de la ciudad). Si el personaje tiene roles pendientes, el CK voluntario podría ser sancionado como una evasión de rol. Esta decisión es completamente voluntaria y no se puede forzar a ningún jugador a tomarla.
 * **CK Policial**: Es un CK impuesto tras una investigación policial que presenta pruebas sólidas para justificar una condena perpetua. Si un jugador acumula más de 50.000 USD en deudas por facturas o multas, podrá ser puesto en búsqueda y captura para enfrentar una cadena perpetua. Esta sentencia puede ser evitada si el jugador salda sus deudas.
 * **CK Criminal**: Este CK se realiza cuando un miembro de una banda decide abandonarla, para evitar que toda la información y recursos obtenidos pase sin filtro alguno a otra organización. Si es el líder el que decide hacerse CK, este puede pasarle el mando a otro miembro para seguir llevando la organización.
+* **CK Médico:** Este CK se realiza cuando un personaje tiene roles continuos y repetitivos de suicidio u otras acciones que den una imagen de desequilibrio o incapacidad mental.&#x20;
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
@@ -260,12 +261,13 @@ Para la resolución de conflicto se debe ser acorde y actuar en proporción, si 
 ### <mark style="color:blue;">**7.2. Conducta en el Servidor**</mark>
 
 * **Discriminación, Roles Extremistas y Actos Inapropiados**: No se tolera ninguna forma de discriminación (racismo, machismo, etc.). Los roles extremistas están permitidos hasta cierto punto pero en caso de duda se deberá consultar con la Administración.
-* NO están permitidas las amputaciones, mutilaciones o realización de marcas ( cortes, tatuajes, etc ) Sin el consentimiento de todas las partes.
-* NO ESTAN PERMITIDOS LOS ROLES DE VIOLACION.
-* **Roles Sexuales**: Los roles sexuales están permitidos con la discreción del jugador. Las parejas podrán existir y se permitirá la representación de intimidad siempre que sea consensuada y manejada de forma discreta.
-* Queda prohibido el uso de terminos ic y ooc como "Nigga" o "Maricón".
-* Queda terminante prohibido el uso de imágenes / videos de manera ic que impliquen a personas reales o famosos irl.
-* Esta prohibido el uso de aplicaciones como paginas amrillas, mercado, bidy,  spark, instapic o similares para la venta o compra de productos ilegales.
+* NO están permitidas las amputaciones, mutilaciones o realización de marcas (cortes, tatuajes, etc) **sin el consentimiento de todas las partes**.
+* **NO ESTÁN PERMITIDOS LOS ROLES DE VIOLACIÓN.**
+* **Roles sexuales**: Los roles sexuales están permitidos con la discreción del jugador. Las parejas podrán existir y se permitirá la representación de intimidad siempre que sea consensuada y manejada de forma discreta.
+* **Roles de suicidio:** Los roles de suicido están permitidos siempre y cuando tengan un sentido a nivel IC y sean muy infrecuentes. En caso de que un jugador hiciese este tipo de roles de una forma continua, se podría realizar un CK Médico.
+* Queda prohibido el uso de términos como **"Nigga"** o **"Maricón"** de manera IC y OOC.
+* Queda terminante prohibido el uso de imágenes / videos de manera IC que impliquen a personas reales o famosos IRL.
+* Está **prohibido el uso de aplicaciones IC** como las Páginas Amarillas, Mercado, Birdy, Spark, Instapic o similares para la **venta o compra de productos ilegales.**
 
 
 
