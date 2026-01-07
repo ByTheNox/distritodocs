@@ -71,7 +71,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * En todos los robos en el norte, se debe realizar al menos 15 minutos de persecución por el norte antes de bajar al sur.
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
 
-### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulaques, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
+### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, Badulaques, Tiendas de Tattoo, Peluquerías)</mark>
 
 * Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
@@ -84,7 +84,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 <mark style="color:yellow;">**No se permite utilizar vehículos de alta gama**</mark> para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Ammunations, Contenedores, LifeInvader...)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería y Ammunations)</mark>
 
 * Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
 * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
@@ -126,13 +126,13 @@ El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:
 
 ### <mark style="color:blue;">3.1. Miembros de la Organización</mark>
 
+{% hint style="warning" %}
+**Las bandas oficiales tendrán un mínimo de 5 integrantes y no existirá limite de miembros, las PDB tendran un mínimo de 5 miembros y limite de 15 miembros.**
+{% endhint %}
 
-
-* Proyectos de Banda (PDB): Deben realizar una postulación a través del formulario disponible en discord.\
-  Esta categoria tendrá un minimo de 5 integrantes y un máximo de 15.
-* Banda Oficial: Este estatus deben ganárselo las PDB de manera IC.\
-  Esta categoría tendrá un mínimo de 8 integrantes y no tendrá limite de miembros.
-* Todos los integrantes de una banda deberán vestir sus colores característicos o vestimentas designadas siempre que actúen como banda.
+* **Proyectos de Banda (PDB):** Deben realizar una postulación a través del formulario disponible en discord.<br>
+* **Banda Oficial:** Este estatus deben ganárselo las PDB de manera IC.
+* Todos los integrantes de una banda deberán vestir sus colores característicos o vestimentas designadas seguir la Ia IDP de la banda.
 
 ### <mark style="color:blue;">3.2. Alianzas y Pacto de No Agresión</mark>
 
@@ -140,8 +140,6 @@ El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:
 * Únicamente podrán realizar tratos de ventas o intercambio de información, siempre a cambio de dineros u otros productos.
 * No podrán realizar alianzas entre Bandas y Racing-Crews, los miembros de una Racing Crew no podrán involucrar los conflictos internos de sus bandas mientras estén con la Racing Crew.
 * Queda **TOTALMENTE prohibido** regalar objetos o dinero a otra organización.
-
-
 
 ### <mark style="color:blue;">3.3. Obligaciones básicas como organización.</mark>
 
@@ -156,7 +154,7 @@ El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:
 
 ### <mark style="color:blue;">4.1. Uso del /entorno</mark>
 
-* Al cometer un acto delictivo, siempre se debe enviar previo al acto delictivo un comando /entorno describiendo los hechos, adaptando el detalle según la zona (ej. zonas transitadas versus áreas rurales).
+Antes de cometer un acto delictivo se debe mandar un comando **/entorno** describiendo los hechos, adaptando el detalle según la zona (ej. zonas transitadas versus áreas rurales).
 
 {% hint style="danger" %}
 Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entornos en cada situación, especialmente durante actos ilegales. Además, el envío de los entornos es <mark style="color:red;">**obligatorio en cualquier acto ilegal**</mark> para garantizar que el rol sea justo y facilitar el trabajo policial. <mark style="color:yellow;">**Se sancionará a cualquier usuario que no haga un buen uso de esto.**</mark>
@@ -181,9 +179,8 @@ Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entor
 
 ### <mark style="color:blue;">6.1. Rol de Entorno Favorable</mark>
 
-* En el territorio frecuentado por una banda, se asume un entorno favorable para sus miembros, implicando que las actividades delictivas realizadas en la zona podrían ser "ignoradas" por los habitantes, siempre que estas respeten la normativa.
+* Con el actual sistema de territorios el RDE favorable se aplica solo si se tiene el 100% de influencia en un territorio, este RDE favorable ayuda a que posibles llamados sobre actividades ilegales en esas zonas no ocurran y que personas ajenas a ese territorio deban ir con cuidado por esos territorios.
 * Para realizar un rol agresivo en un territorio controlado por otra banda, deben participar al menos 5 miembros y existir motivos claros para tomar el riesgo.
-* El rol de entorno favorable, deberá ganarse IC una vez se ascienda a banda oficial, las PDB no tendrán rol de entorno favorable.
 
 ***
 
