@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 ¡Bienvenido a la Biblioteca de Documentos de Distrito Roleplay!](README.md)
+* [🌟 ¡Bienvenido a la Biblioteca de Documentos de Distrito Reforged!](README.md)
 
 ## Normativas OOC
 
