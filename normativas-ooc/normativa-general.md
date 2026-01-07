@@ -49,7 +49,7 @@ Ejemplo:
 * **/me**: “se quita la gorra con la mano derecha y la deja sobre la mesa”.
 * **/do**: “Sobre la mesa se vería una gorra”.
 
-### <mark style="color:blue;">**1.6. Rol de entorno (RDE)**</mark>
+### <mark style="color:blue;">**1.4. Rol de entorno (RDE)**</mark>
 
 Con el objetivo de mantener una experiencia justa y equilibrada para todos los jugadores, queda ● Simula todo lo que nos rodea como si fuera una ciudad real.\
 \
