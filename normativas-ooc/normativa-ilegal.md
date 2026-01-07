@@ -1,4 +1,4 @@
-# 📗 Normativa ILEGAL
+# 📗 NORMATIVA ILEGAL
 
 ## <mark style="color:red;">INTRODUCCION</mark>
 
@@ -43,24 +43,12 @@ No está permitido iniciar un rol agresivo desde un vehículo, salvo en los caso
 
 Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá estar justificado con motivos claros y razonables. Es fundamental que la otra parte entienda los motivos del ajuste para asegurar un rol justo y realista.
 
-### <mark style="color:blue;">1.4. Zonas de banda</mark>
+### <mark style="color:blue;">1.4. Territorios de Bandas</mark>
 
-#### - Cada banda tiene sus propios barrios ( no confundir con territorios conquistados con grafitis), queda completamente prohibido entrar en zonas de otras bandas sin un rol previo y un motivo de peso, igual que el campeo del mismo. <a href="#id-1.4.-ajuste-de-cuentas-copia-1" id="id-1.4.-ajuste-de-cuentas-copia-1"></a>
-
--Queda terminante prohibido durante el transcurso de una persecución, entrar en el barrio de tu propia banda con el fin de terminar la persecución. La policía podrá acceder al barrio y tendrá sus respectivas consecuencias IC
+* Se podrá disputar cualquier barrio en el que la banda dominante tenga menos del 100% de influencia en esa zona, menos el barrio principal que solo se podrá disputar en caso de guerra autorizada por administración.
+* En barrios conquistados que no sean el inicial de la banda se podrá aplicar CK a personas externas a dicho grupo siempre y cuando se tenga el 100% de influencia en ese barrio. Estos CK deberán ser grabados y enviados a administración mediante ticket para su aprobación.
 
 ### <mark style="color:blue;">1.6. Drive-by</mark>
-
-Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado. Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehículo.<br>
-
-### <mark style="color:blue;">1.7. Crafteo de armas</mark>
-
-* La zona de crafteo se considera **punto caliente**, es decir, toda actividad ilegal es permitida sin necesidad de enviar entornos.
-* Está permitido robar y matar sin rol previo pero no se podrá secuestrar sin un motivo de peso.
-* Solo están permitidas las pasadas rápidas para limpiar la zona, no se permitirá el campeo ni dentro ni fuera del lugar.
-* No se permiten alianzas ni compañerismo entre diferentes bandas. Será sancionado gravemente.
-
-
 
 ***
 
@@ -68,53 +56,24 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 
 ### <mark style="color:blue;">2.1. Normativa General</mark>
 
-* No se permite realizar varios robos simultáneos por miembros de la misma banda en diferentes lugares.
-* Está prohibido realizar el mismo tipo de robo en un lapso de 15 minutos.
-* En caso de problemas de desincronización durante persecuciones, ambos bandos deberán volver al punto del error y continuar la persecución de manera justa.
-* No esta permitido el robo a jugadores sin motivo previo.
-* No se podrán realizar robos 15 minutos antes y después del reinicio.
-* En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
-* No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
-
-### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
-
 * Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
-* En los robos a Casas, ATM y Corales, se podrá abandonar la zona una vez conseguido el botín.
+* En los robos a Casas, se podrá abandonar la zona una vez conseguido el botín.
 * En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.
 
 {% hint style="warning" %}
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Ammunations, Contenedores, LifeInvader...)</mark>
-
 * Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
-* Para llevar a cabo estos robos la policía deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
+* Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podrá abandonar la zona hasta que acuda la policía.
-* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
-* Entre robo y robo deberán pasar mínimo 30 minutos de margen.
-* En los robos medianos, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.\
-  \
-  **Robo a Contenedores:**<br>
-* No será necesario esperar a la policía en este robo
-* Podrán ser realizados con mínimo 4 ladrones y máximo 9, acudiendo de 6 a 11 policías, siempre dos más que los atracadores.
-* En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
-* Todos los participantes del robo deberán permanecer en la zona hasta haber eliminado al último NPC, no podrán haber salido antes con o sin el botín.
-* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
-
-
-
-* **Robo a LifeInvader:**<br>
-* Es obligatorio esperar a la policía en este robo.
-* Deberán acudir mínimo 2 atracadores (recomendable 4) y máximo 6.  La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas, hasta 8 agentes.
-* En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
-* Para llevar a cabo estos robos la policia deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
-* No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
-* Antes de acudir a un bloqueo, deben pasar un mínimo de 7 minutos de persecución.
+* Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
+* Entre robo y robo deberán pasar mínimo 1 hora de margen.
+* NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.
 
 ### <mark style="color:blue;">2.3. Robos de Vehículos</mark>
 
@@ -130,14 +89,12 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * **Envío de entorno**: Es imprescindible enviar un entorno detallado al momento del robo
 * **Dispositivo de boosting**: Todos los integrantes deben portar el dispositivo de boosting correspondiente durante la realización del robo y estar en el mismo grupo.
 
-### <mark style="color:blue;">2.5. Venta de drogas</mark>
+### <mark style="color:blue;">2.5. Venta de drogas y Plantaciones</mark>
 
-* Para vender droga debe tenerse un vehículo adecuado.
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periodica.( 2 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se debera enviar un entorno.
 * Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.
-* Está prohibido vender droga en el norte al no haber departamento del Sheriff.
-* No está permitido vender droga en tu propio barrio.
+* En caso de encontrar una plantacion controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
 
 {% hint style="danger" %}
 El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Una vez enviado, se deberá enviar un entorno similar cada 3 ventas de droga, hayan sido rechazadas o aceptadas.
@@ -185,7 +142,7 @@ El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Un
 
 ### <mark style="color:blue;">5.1. Uso del /entorno</mark>
 
-* Al cometer un acto delictivo, siempre se debe enviar un comando /entorno describiendo los hechos, adaptando el detalle según la zona (ej. zonas transitadas versus áreas rurales).
+* Al cometer un acto delictivo, siempre se debe enviar previo al acto delictivo un comando /entorno describiendo los hechos, adaptando el detalle según la zona (ej. zonas transitadas versus áreas rurales).
 
 {% hint style="danger" %}
 Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entornos en cada situación, especialmente durante actos ilegales. Además, el envío de los entornos es <mark style="color:red;">**OBLIGATORIO**</mark> en cualquier acto ilegal para garantizar que el rol sea justo y facilitar el trabajo policial. <mark style="color:yellow;">Se sancionará a cualquier usuario que no haga un buen uso de esto.</mark>
@@ -231,15 +188,14 @@ Queda terminantemente prohibido realizar roles agresivos en el hospital y sus in
 
 Se consideraran puntos calientes las siguientes zonas:
 
-* Zonas de venta de armas o utiles para robos.
+* Zonas de venta de armas ilegales o utiles para robos.
 * Zona de drogas.
-* Zona de preparación de robos.
 * Cualquier zona que implique un NPC con contenido ilegal.
 * Zona de crafteo de armas.
 
 En estas zonas no es necesario enviar un entorno al realizar un acto delictivo ni se necesita un rol previo. Al igual que no se podrá usar el /auxilio en estas zonas.
 
-Las pawnshop al igual que las zonas de desguace, no se consideran puntos calientes, por ende para realizar un acto delictivo en el estas se necesita de un rol previo con su correspondiente /entorno.
+Las pawnshop al igual que las zonas de desguace y tiendas legales de cultivos no se consideran puntos calientes, por ende para realizar un acto delictivo en estas se necesita de un rol previo con su correspondiente /entorno y un motivo de peso.
 
 {% hint style="danger" %}
 Queda completamente prohibido el campeo o control de cualquiera de estas zonas.
