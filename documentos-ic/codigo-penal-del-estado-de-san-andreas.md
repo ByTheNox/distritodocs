@@ -239,9 +239,9 @@
 
 **Artículo 6.** La difamación o distribución de grabaciones/imágenes de un funcionario público sin su consentimiento será sancionada con una multa de 500 $.
 
-Artículo 7. El intento de secuestro a un funcionario público será sancionado con 7.500 $ y 15 meses de prisión.
+**Artículo 7.** El intento de secuestro a un funcionario público será sancionado con 15.000 $ y 15 meses de prisión.
 
-**Artículo 7.** El secuestro a un funcionario público será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
+**Artículo 8.** El secuestro a un funcionario público será sancionado con una multa de 30.000 $ y hasta 30 meses de prisión.
 
 **Artículo 9.** El intento de homicidio a un funcionario público será sancionado según el grado del acto:\
 (a) Tercer grado: multa de 19.000 $ y hasta 10 meses de prisión.\
