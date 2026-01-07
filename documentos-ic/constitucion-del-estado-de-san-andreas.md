@@ -281,10 +281,10 @@ Toda persona detenida tendrá los siguientes derechos, que deberán ser comunica
 
 1. **Alerta Táctica:** Protocolo de seguridad que permite a las fuerzas del orden redistribuir recursos y personal para enfrentar situaciones excepcionales.
 2. **Detención preventiva:** Retención temporal de un ciudadano por parte de las autoridades mientras se investigan los hechos relacionados con un posible delito.
-3. **Hábeas corpus:** Procedimiento legal que garantiza que una persona detenida pueda comparecer ante un juez para verificar la legalidad de su detención.
+3. **Habeas corpus:** Procedimiento legal que garantiza que una persona detenida pueda comparecer ante un juez para verificar la legalidad de su detención.
 4. **Número de serie de armas:** Identificador único grabado en las armas de fuego para registrar su propiedad y legalidad.
 5. **Presunción de veracidad:** Principio jurídico que establece que el testimonio de un funcionario público, en el ejercicio de sus funciones, se presume cierto salvo prueba en contrario.
 6. **Registro corporal:** Inspección superficial de una persona realizada por las autoridades para buscar objetos ilegales o evidencia.
-7. **S.A.S.F:** Siglas de las "San Andreas Security Forces," entidad policial que opera dentro del Estado de San Andreas.
+7. **S.A.S.F:** Siglas de las "San Andreas Security Forces", entidad policial que opera dentro del Estado de San Andreas y que incluye a los siguientes departamentos: Los Santos Police Department (LSPD), Blaine County Sheriff Office (BCSO) y San Andreas Highway Patrol (SAHP)
 8. **Subrepticio:** Acto realizado de manera oculta o disimulada, a menudo con la intención de evadir la atención.
 9. **Videovigilancia:** Sistema de grabación mediante cámaras para supervisar áreas públicas o privadas con fines de seguridad.
