@@ -2,26 +2,26 @@
 description: Distrito Reforged Content Creator
 ---
 
-# 📕 Normativa DTCC
+# 📕 NORMATIVA DTCC
 
 {% hint style="warning" %}
-📢 **Importante para Todos los Streamers**
+<mark style="color:yellow;">📢</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Importante para Todos los Streamers**</mark>
 
-Cualquier persona que haga directos, ya sea con o sin el rango de DTCC, debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.
+<mark style="color:yellow;">**Cualquier persona que haga directos, ya sea con o sin el rango de DTCC, debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.**</mark>
 
-Recuerden, el cumplimiento de la normativa es obligatorio para todos y garantiza que el contenido generado refleje el ambiente de rol justo y entretenido que todos deseamos.&#x20;
+<mark style="color:yellow;">**Recuerden, el cumplimiento de la normativa es obligatorio para todos y garantiza que el contenido generado refleje el ambiente de rol justo y entretenido que todos deseamos.**</mark>&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Para solicitar el rango de DTCC debes de cumplir los siguientes requisitos:
+<mark style="color:blue;">**Para solicitar el rango de DTCC debes de cumplir los siguientes requisitos:**</mark>
 
-* Debes tener un promedio de al menos 5 espectadores concurrentes en Twitch.
-* Es necesario que tengas el estatus de afiliado en Twitch.
-* Debes haber realizado al menos dos transmisiones de nuestro servidor antes de hacer la solicitud para el rango de Streamer.
-* Debes contar con al menos una semana de actividad regular en nuestro servidor.
-* No se permite que los solicitantes tengan sanciones graves en su historial dentro del servidor.
-* La calidad del canal es fundamental. Tus transmisiones deben ser de al menos 720p con 30 FPS o superior.
-* Se requiere que mantengas una buena calidad de rol durante todas tus transmisiones.
+* <mark style="color:blue;">**Debes tener un promedio de al menos 5 espectadores concurrentes en Twitch.**</mark>
+* <mark style="color:blue;">**Es necesario que tengas el estatus de afiliado en Twitch.**</mark>
+* <mark style="color:blue;">**Debes haber realizado al menos dos transmisiones de nuestro servidor antes de hacer la solicitud para el rango de Streamer.**</mark>
+* <mark style="color:blue;">**Debes contar con al menos una semana de actividad regular en nuestro servidor.**</mark>
+* <mark style="color:blue;">**No se permite que los solicitantes tengan sanciones graves en su historial dentro del servidor.**</mark>
+* <mark style="color:blue;">**La calidad del canal es fundamental. Tus transmisiones deben ser de al menos 720p con 30 FPS o superior.**</mark>
+* <mark style="color:blue;">**Se requiere que mantengas una buena calidad de rol durante todas tus transmisiones.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
@@ -51,5 +51,5 @@ Al hacer directo de Distrito, es <mark style="color:red;">**OBLIGATORIO**</mark>
 * **Conflictos OOC**: En caso de disputas fuera del rol entre streamers, será necesario presentar pruebas contundentes a la Administración (clips, tweets, etc.) para poder evaluar la situación adecuadamente.
 
 {% hint style="warning" %}
-La administración se reserva el derecho de revocar permisos sin necesidad de ofrecer explicación alguna.
+<mark style="color:yellow;">**La administración se reserva el derecho de revocar permisos sin necesidad de ofrecer explicación alguna.**</mark>
 {% endhint %}
