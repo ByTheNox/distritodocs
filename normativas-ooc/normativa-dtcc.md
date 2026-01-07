@@ -1,5 +1,5 @@
 ---
-description: Distrito Roleplay Content Creator.
+description: Distrito Reforged Content Creator
 ---
 
 # 📕 Normativa DTCC
@@ -39,7 +39,7 @@ Para solicitar el rango de DTCC debes de cumplir los siguientes requisitos:
 ***
 
 {% hint style="danger" %}
-Al hacer directo de Distrito, es <mark style="color:red;">**OBLIGATORIO**</mark> colocar en el título del directo: <mark style="color:blue;">**Distrito Roleplay +18**</mark>. Además, es opcional pero **recomendado** incluir un **!distrito** para que, al colocarlo en el chat, aparezca nuestro Discord: [discord.gg/distritoroleplay](https://discord.gg/distritoroleplay).
+Al hacer directo de Distrito, es <mark style="color:red;">**OBLIGATORIO**</mark> colocar en el título del directo: <mark style="color:blue;">**Distrito Reforged +18**</mark>. Además, es opcional pero **recomendado** incluir un **!distrito** para que, al colocarlo en el chat, aparezca nuestro Discord: [discord.gg/distritoroleplay](https://discord.gg/distritoroleplay).
 {% endhint %}
 
 ### <mark style="color:blue;">**2. Sanciones**</mark>
