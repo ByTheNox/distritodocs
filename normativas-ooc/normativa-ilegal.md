@@ -2,7 +2,7 @@
 
 ## <mark style="color:red;">INTRODUCCION</mark>
 
-Esta sección te guiará por el lado más oscuro de Distrito. Aquí aprenderás cómo llevar a cabo actividades ilegales respetando siempre el rol y el fairplay. Recuerda, lo importante es contar una buena historia y mantener el juego emocionante y justo para todos.
+Esta sección te guiará por el lado más oscuro de Distrito Reforged. Aquí aprenderás cómo llevar a cabo actividades ilegales respetando siempre el rol y el fairplay. Recuerda, lo importante es contar una buena historia y mantener el juego emocionante y justo para todos.
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,12 +47,11 @@ Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá es
 
 #### - Cada banda tiene sus propios barrios ( no confundir con territorios conquistados con grafitis), queda completamente prohibido entrar en zonas de otras bandas sin un rol previo y un motivo de peso, igual que el campeo del mismo. <a href="#id-1.4.-ajuste-de-cuentas-copia-1" id="id-1.4.-ajuste-de-cuentas-copia-1"></a>
 
--Queda terminante prohibido durante el transcurso de una persecucion, entrar en el barrio de tu propia banda con el fin de terminar la persecucion. La policia podrá acceder al barrio y tendra sus respectivas consecuencias IC
+-Queda terminante prohibido durante el transcurso de una persecución, entrar en el barrio de tu propia banda con el fin de terminar la persecución. La policía podrá acceder al barrio y tendrá sus respectivas consecuencias IC
 
 ### <mark style="color:blue;">1.6. Drive-by</mark>
 
-Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado. Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehiculo.\
-
+Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado. Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehículo.<br>
 
 ### <mark style="color:blue;">1.7. Crafteo de armas</mark>
 
@@ -75,9 +74,9 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 * No esta permitido el robo a jugadores sin motivo previo.
 * No se podrán realizar robos 15 minutos antes y después del reinicio.
 * En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
-* No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehen en los robos.
+* No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
 
-### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerias, Talleres Mecanicos abandonados, Farmacias y Corales.)</mark>
+### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
 
 * Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
@@ -90,7 +89,7 @@ Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas 
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyeria, Ammunations, Contenedores, LifeInvader...)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Ammunations, Contenedores, LifeInvader...)</mark>
 
 * Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
 * Para llevar a cabo estos robos la policía deberá haber dado el visto bueno por el comando /pid, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
@@ -100,8 +99,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * Entre robo y robo deberán pasar mínimo 30 minutos de margen.
 * En los robos medianos, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.\
   \
-  **Robo a Contenedores:**\
-
+  **Robo a Contenedores:**<br>
 * No será necesario esperar a la policía en este robo
 * Podrán ser realizados con mínimo 4 ladrones y máximo 9, acudiendo de 6 a 11 policías, siempre dos más que los atracadores.
 * En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
@@ -110,8 +108,7 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 
 
 
-* **Robo a LifeInvader:**\
-
+* **Robo a LifeInvader:**<br>
 * Es obligatorio esperar a la policía en este robo.
 * Deberán acudir mínimo 2 atracadores (recomendable 4) y máximo 6.  La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas, hasta 8 agentes.
 * En el entorno deberá estar indicado explícitamente cuántos ladrones hay y el armamento que poseen.
