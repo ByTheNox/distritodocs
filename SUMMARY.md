@@ -4,10 +4,10 @@
 
 ## Normativas OOC
 
-* [📚 Normativa General](normativas-ooc/normativa-general.md)
-* [📕 Normativa DTCC](normativas-ooc/normativa-dtcc.md)
+* [📚 NORMATIVA GENERAL](normativas-ooc/normativa-general.md)
+* [📕 NORMATIVA DTCC](normativas-ooc/normativa-dtcc.md)
 * [📗 NORMATIVA ILEGAL](normativas-ooc/normativa-ilegal.md)
-* [📘 Normativa COMERCIO](normativas-ooc/normativa-comercio.md)
+* [📘 NORMATIVA COMERCIO](normativas-ooc/normativa-comercio.md)
 * [Términos y Condiciones de la Tienda de Distrito Reforged](normativas-ooc/terminos-y-condiciones-de-la-tienda-de-distrito-reforged.md)
 
 ## DOCUMENTOS IC

@@ -8,10 +8,13 @@ Esta sección te guiará por el lado más oscuro de Distrito Reforged. Aquí apr
 
 ## <mark style="color:purple;">1. Roles Agresivos</mark>
 
-El acto de matar a otro player debe ser siempre la ultima opción, se debe buscar otras alternativas antes de llegar a esos conflictos, buscamos realizar roles, no pvp.\
-\- El numero máximo de participantes en roles agresivos es de 8 por cada bando. ( Salvo atracos )
+El acto de matar a otro player debe ser siempre la ultima opción, se debe buscar otras alternativas antes de llegar a esos conflictos, buscamos realizar roles, no PVP.
 
-TODOS LOS USUARIOS TIENEN LA OBLIGACION DE GRABAR TODOS LOS ROLES AGRESIVOS EN LOS QUE PARTICIPEN.
+* El numero máximo de participantes en roles agresivos es de 8 por cada bando. (Salvo atracos)
+
+{% hint style="danger" %}
+Todos los usuarios tienen la <mark style="color:red;">**obligación**</mark> de grabar los <mark style="color:red;">**roles agresivos en los que participen, incluyendo tanto vídeo como audio.**</mark>
+{% endhint %}
 
 ### <mark style="color:blue;">1.1. Roles Agresivos hacia Comercio</mark>
 
@@ -43,7 +46,7 @@ No está permitido iniciar un rol agresivo desde un vehículo, salvo en los caso
 
 Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá estar justificado con motivos claros y razonables. Es fundamental que la otra parte entienda los motivos del ajuste para asegurar un rol justo y realista.
 
-### <mark style="color:blue;">1.4. Territorios de Bandas</mark>
+### <mark style="color:blue;">1.5. Territorios de Bandas</mark>
 
 * Se podrá disputar cualquier barrio en el que la banda dominante tenga menos del 100% de influencia en esa zona, menos el barrio principal que solo se podrá disputar en caso de guerra autorizada por administración.
 * En barrios conquistados que no sean el inicial de la banda se podrá aplicar CK a personas externas a dicho grupo siempre y cuando se tenga el 100% de influencia en ese barrio. Estos CK deberán ser grabados y enviados a administración mediante ticket para su aprobación.
