@@ -50,11 +50,25 @@ Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá es
 
 ### <mark style="color:blue;">1.6. Drive-by</mark>
 
+Se considera drive-by el acto de ir a un barrio/comercio/zona con la que tengas conflicto en vehiculos con la intención de disparar armas de fuego hacia los edificios del mismo sin herir a ninguna persona. Estos deben realizarse con motivos de peso y un máximo de una vez al día. Antes de realizarlo debe enviarse el entorno correspondiente detallando al máximo los detalles del vehículo y el tipo de armamento usado.&#x20;
+
+Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un entorno posterior indicando por donde se huye. Si se esta sufriendo un drive-by queda terminantemente prohibido disparar a matar a las personas del interior de dicho vehículo
+
 ***
 
 ## <mark style="color:purple;">2. Robos</mark>
 
 ### <mark style="color:blue;">2.1. Normativa General</mark>
+
+* No se permite realizar varios robos simultáneos por miembros de la misma banda en diferentes lugares.
+* Está prohibido realizar el mismo tipo de robo en un lapso de 15 minutos.
+* En caso de problemas de desincronización durante persecuciones, ambos bandos deberán volver al punto del error y continuar la persecución de manera justa.
+* No esta permitido el robo a jugadores sin motivo previo.
+* No se podrán realizar robos 15 minutos antes y después del reinicio.
+* En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
+* No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
+
+### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
 
 * Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
@@ -66,6 +80,8 @@ Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá es
 {% hint style="warning" %}
 No se permite utilizar vehículos de alta gama para la realización de robos menores.
 {% endhint %}
+
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Ammunations, Contenedores, LifeInvader...)</mark>
 
 * Deben realizarse con un mínimo de 2 delincuente y un máximo de 4 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
 * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
