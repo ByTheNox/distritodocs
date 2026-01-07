@@ -8,7 +8,7 @@ Esta sección te guiará por el lado más oscuro de Distrito Reforged. Aquí apr
 
 ## <mark style="color:purple;">1. Roles Agresivos</mark>
 
-El acto de matar a otro player debe ser siempre la ultima opción, se debe buscar otras alternativas antes de llegar a esos conflictos, buscamos realizar roles, no PVP.
+El acto de matar a otro jugador debe ser siempre la ultima opción, se debe buscar otras alternativas antes de llegar a esos conflictos, buscamos realizar roles, no PVP.
 
 * El numero máximo de participantes en roles agresivos es de 8 por cada bando. (Salvo atracos)
 
@@ -31,7 +31,7 @@ Toda acción agresiva hacia comercios u otros eventos del servidor deberá conta
 * Queda terminantemente prohibido el campeo y robo en zonas de trabajos, puntos calientes, barrios de otras BANDAS o negocios.
 
 {% hint style="danger" %}
-No está permitido iniciar un rol agresivo desde un vehículo, salvo en los casos de drive-bys, los cuales deberán ser realizados sin intención de matar, sino como parte del desarrollo de la narrativa de rol.
+<mark style="color:red;">**No está permitido iniciar un rol agresivo desde un vehículo**</mark>, salvo en los casos de <mark style="color:red;">**drive-bys**</mark>, los cuales deberán ser realizados <mark style="color:red;">**sin intención de matar**</mark>, sino como parte del desarrollo de la narrativa de rol.
 {% endhint %}
 
 ### <mark style="color:blue;">1.3. Desarrollo de Tiroteos</mark>
@@ -71,17 +71,17 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * En todos los robos en el norte, se debe realizar al menos 15 minutos de persecución por el norte antes de bajar al sur.
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
 
-### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
+### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulaques, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
 
 * Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
 * En los robos a Casas, se podrá abandonar la zona una vez conseguido el botín.
-* En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.
+* En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
 
 {% hint style="warning" %}
-No se permite utilizar vehículos de alta gama para la realización de robos menores.
+<mark style="color:yellow;">**No se permite utilizar vehículos de alta gama**</mark> para la realización de robos menores.
 {% endhint %}
 
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Ammunations, Contenedores, LifeInvader...)</mark>
@@ -92,13 +92,13 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 * No se podrá abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
 * Entre robo y robo deberán pasar mínimo 1 hora de margen.
-* NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente players o NPCs.
+* NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
 
 ### <mark style="color:blue;">2.3. Robos de Vehículos</mark>
 
 * Está prohibido robar vehículos de organizaciones estatales o empresas, salvo en casos extremos donde sea imprescindible para la supervivencia del personaje.
 * Queda terminantemente prohibido el uso de vehículos para desguace / coches de importación para realizar cualquier acto ilegal.
-* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehiculo.
+* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehículo.
 
 ### <mark style="color:blue;">2.4. Boosting</mark>
 
@@ -110,13 +110,14 @@ No se permite utilizar vehículos de alta gama para la realización de robos men
 
 ### <mark style="color:blue;">2.5. Venta de drogas y Plantaciones</mark>
 
-* En caso de vender droga enmascarado, se debería enviar entorno de forma periodica.( 2 minutos)
-* Si es necesario agredir a un NPC a la hora de vender droga, se debera enviar un entorno.
-* Se podrá realizar venta de drogas con vehiculos robados y vehiculos personales.
-* En caso de encontrar una plantacion controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
+* En caso de vender droga enmascarado, se debería enviar entorno de forma periódica. \
+  (2 minutos)
+* Si es necesario agredir a un NPC a la hora de vender droga, se deberá enviar un entorno.
+* Se podrá realizar venta de drogas con vehículos robados y vehículos personales.
+* En caso de encontrar una plantación controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
 
 {% hint style="danger" %}
-El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Una vez enviado, se deberá enviar un entorno similar cada 3 ventas de droga, hayan sido rechazadas o aceptadas.
+El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:red;">**obligatoriamente antes de empezar la venta de droga.**</mark> Una vez enviado, se deberá enviar un <mark style="color:red;">**entorno similar cada 3 ventas de droga, hayan sido rechazadas o aceptadas.**</mark>
 {% endhint %}
 
 ***
@@ -127,95 +128,89 @@ El /entorno se debe usar OBLIGATORIAMENTE antes de empezar la venta de droga. Un
 
 
 
-* Proyectos de Banda (PDB): Deben realizar una postulacion a través del formulario disponible en discord.\
-  Esta categoria tendra un minimo de 5 integrantes y un máximo de 15.
-* Banda Oficial: Este estatus deben ganarselo las PDB de manera ic.\
-  Esta categoria tendra un mínimo de 8 integrantes y no tendra limite de miembros.
-* Todos los integrantes de una banda deberán vestir sus colores caracteristicos o vestimentas designadas siempre que actuen como banda.
+* Proyectos de Banda (PDB): Deben realizar una postulación a través del formulario disponible en discord.\
+  Esta categoria tendrá un minimo de 5 integrantes y un máximo de 15.
+* Banda Oficial: Este estatus deben ganárselo las PDB de manera IC.\
+  Esta categoría tendrá un mínimo de 8 integrantes y no tendrá limite de miembros.
+* Todos los integrantes de una banda deberán vestir sus colores característicos o vestimentas designadas siempre que actúen como banda.
 
 ### <mark style="color:blue;">3.2. Alianzas y Pacto de No Agresión</mark>
 
-* No estan permitidas las alianzas entre bandas de ningun tipo.
-* Unicamente podran realizar tratos de ventas o intercambio de informacion, siempre a cambio de dineros u otros productos.
-* No podran realizar alianzas entre Bandas y Racing-Crews, los miembros de una Racing Crew no podran involucrar los conflictos internos de sus bandas mientras esten con la Racing Crew.
-* Queda TOTALMENTE prohibido regalar objetos o dinero a otra organización.
+* No están permitidas las alianzas entre bandas de ningún tipo.
+* Únicamente podrán realizar tratos de ventas o intercambio de información, siempre a cambio de dineros u otros productos.
+* No podrán realizar alianzas entre Bandas y Racing-Crews, los miembros de una Racing Crew no podrán involucrar los conflictos internos de sus bandas mientras estén con la Racing Crew.
+* Queda **TOTALMENTE prohibido** regalar objetos o dinero a otra organización.
 
 
 
 ### <mark style="color:blue;">3.3. Obligaciones básicas como organización.</mark>
 
-
-
 1. **Actualización de Canales**\
    Es obligatorio que todas las bandas mantengan actualizados sus respectivos canales de Discord. Esto incluye información relevante sobre actividades, roles y otros detalles necesarios para la organización del grupo.
 2. **Respetar todos y cada uno de los puntos de la normativa.** \
-   Si una banda alcanza 3 strikes, sera realizado un disband.
+   Si una banda alcanza 3 strikes, será realizado un disband.
 
 ***
 
+## <mark style="color:purple;">4. Uso de Comandos en Roles Delictivos</mark>
 
-
-***
-
-## <mark style="color:purple;">5. Uso de Comandos en Roles Delictivos</mark>
-
-### <mark style="color:blue;">5.1. Uso del /entorno</mark>
+### <mark style="color:blue;">4.1. Uso del /entorno</mark>
 
 * Al cometer un acto delictivo, siempre se debe enviar previo al acto delictivo un comando /entorno describiendo los hechos, adaptando el detalle según la zona (ej. zonas transitadas versus áreas rurales).
 
 {% hint style="danger" %}
-Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entornos en cada situación, especialmente durante actos ilegales. Además, el envío de los entornos es <mark style="color:red;">**OBLIGATORIO**</mark> en cualquier acto ilegal para garantizar que el rol sea justo y facilitar el trabajo policial. <mark style="color:yellow;">Se sancionará a cualquier usuario que no haga un buen uso de esto.</mark>
+Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entornos en cada situación, especialmente durante actos ilegales. Además, el envío de los entornos es <mark style="color:red;">**obligatorio en cualquier acto ilegal**</mark> para garantizar que el rol sea justo y facilitar el trabajo policial. <mark style="color:yellow;">**Se sancionará a cualquier usuario que no haga un buen uso de esto.**</mark>
 {% endhint %}
 
 ***
 
-## <mark style="color:purple;">6. Secuestros y Robos a Usuarios</mark>
+## <mark style="color:purple;">5. Secuestros y Robos a Usuarios</mark>
 
-### <mark style="color:blue;">6.1. Secuestros</mark>
+### <mark style="color:blue;">5.1. Secuestros</mark>
 
 * Se permite el secuestro de civiles sin necesidad de un número mínimo de policías en servicio, siempre y cuando tenga sentido dentro de la narrativa del personaje.
 * No se permite secuestrar a personal de EMS que esté de servicio, salvo en situaciones excepcionales que así lo justifiquen.
 * Secuestrar a policías solo estará permitido en situaciones muy específicas, y debe ser siempre bajo un rol con suficiente justificación.
-* No se permite el robo de equipamiento policial salvo situaciones justificadas ( no tener munición / chaleco durante un tiroteo, etc )
+* No se permite el robo de equipamiento policial salvo situaciones justificadas (no tener munición/ chaleco durante un tiroteo, etc)
 * No esta permitido el robo de comida o bebida a los usuarios salvo caso de extrema emergencia.
 * Los secuestros a jugadores deben realizarse por motivo de peso, no a la ligera, el abuso de secuestros será duramente sancionado
 
 ***
 
-## <mark style="color:purple;">7. Uso de Territorios</mark>
+## <mark style="color:purple;">6. Uso de Territorios</mark>
 
-### <mark style="color:blue;">7.1. Rol de Entorno Favorable</mark>
+### <mark style="color:blue;">6.1. Rol de Entorno Favorable</mark>
 
 * En el territorio frecuentado por una banda, se asume un entorno favorable para sus miembros, implicando que las actividades delictivas realizadas en la zona podrían ser "ignoradas" por los habitantes, siempre que estas respeten la normativa.
 * Para realizar un rol agresivo en un territorio controlado por otra banda, deben participar al menos 5 miembros y existir motivos claros para tomar el riesgo.
-* El rol de entorno favorable, debera ganarse ic una vez se ascienda a banda oficial, las PDB no tendran rol de entorno favorable.
+* El rol de entorno favorable, deberá ganarse IC una vez se ascienda a banda oficial, las PDB no tendrán rol de entorno favorable.
 
 ***
 
-## <mark style="color:purple;">8. Zonas Seguras</mark>
+## <mark style="color:purple;">7. Zonas Seguras</mark>
 
-### <mark style="color:blue;">8.1. Definición de Zonas Seguras</mark>
+### <mark style="color:blue;">7.1. Definición de Zonas Seguras</mark>
 
 * Algunas ubicaciones del servidor, como bancos, tiendas, negocios y áreas de servicios, son consideradas zonas seguras. No se permite cometer actos delictivos en estas áreas sin la aprobación explícita de la administración.
 * Las zonas seguras solo podrán perder esta condición bajo circunstancias justificadas y con aprobación administrativa.
 
 {% hint style="danger" %}
-Queda terminantemente prohibido realizar roles agresivos en el hospital y sus inmediaciones, salvo casos de fuerza mayor.
+Queda <mark style="color:red;">**terminantemente prohibido realizar roles agresivos en el hospital y sus inmediaciones**</mark>, salvo casos de fuerza mayor.
 {% endhint %}
 
-### <mark style="color:blue;">8.2. Definición de Puntos calientes.</mark>
+### <mark style="color:blue;">7.2. Definición de Puntos calientes.</mark>
 
 Se consideraran puntos calientes las siguientes zonas:
 
-* Zonas de venta de armas ilegales o utiles para robos.
+* Zonas de venta de armas ilegales o útiles para robos.
 * Zona de drogas.
 * Cualquier zona que implique un NPC con contenido ilegal.
 * Zona de crafteo de armas.
 
 En estas zonas no es necesario enviar un entorno al realizar un acto delictivo ni se necesita un rol previo. Al igual que no se podrá usar el /auxilio en estas zonas.
 
-Las pawnshop al igual que las zonas de desguace y tiendas legales de cultivos no se consideran puntos calientes, por ende para realizar un acto delictivo en estas se necesita de un rol previo con su correspondiente /entorno y un motivo de peso.
+Las pawnshop, al igual que las zonas de desguace y tiendas legales de cultivos, no se consideran puntos calientes, por ende para realizar un acto delictivo en estas se necesita de un rol previo con su correspondiente /entorno y un motivo de peso.
 
 {% hint style="danger" %}
-Queda completamente prohibido el campeo o control de cualquiera de estas zonas.
+Queda <mark style="color:red;">**completamente prohibido el campeo o control de cualquiera de estas zonas.**</mark>
 {% endhint %}
