@@ -250,8 +250,8 @@ Artículo 7. El intento de secuestro a un funcionario público será sancionado 
 
 **Artículo 10.** El homicidio contra un funcionario público será sancionado según el grado del acto:\
 (a) Tercer grado: multa de 25.000 $ y hasta 15 meses de prisión.\
-(b) Segundo grado: multa de 50.000 $ y hasta 25 meses de prisión.\
-(c) Primer grado: multa de 80.000 $ y hasta 35 meses de prisión.
+(b) Segundo grado: multa de 50.000 $ y una condena de 25 años a cadena perpetua.\
+(c) Primer grado: multa de 80.000 $ y una condena de 25 años a cadena perpetua.
 
 **Artículo 11.** La huida de la justicia será sancionado con una multa de 1.500 $ y hasta 5 meses de prisión.
 
@@ -380,13 +380,13 @@ Artículo 7. El intento de secuestro a un funcionario público será sancionado 
 
 ## <mark style="color:yellow;">**Capítulo XIV - Delitos Federales**</mark> <a href="#id-6urm8rpsy1cc" id="id-6urm8rpsy1cc"></a>
 
-**Artículo 1.** Introducirse sin autorización en una instalación con estatus federal será sancionado con cadena perpetua.
+**Artículo 1.** Introducirse sin autorización en una instalación con estatus federal será sancionado con una condena de 25 años a cadena perpetua.
 
-**Artículo 2.** Cometer homicidio o intento de homicidio contra un agente federal será sancionado con cadena perpetua.
+**Artículo 2.** Cometer homicidio o intento de homicidio contra un agente federal será sancionado con una condena de 25 años a cadena perpetua.
 
-**Artículo 3.** Cometer homicidio o intento de homicidio contra varios agentes federales será sancionado con dos cadenas perpetuas.
+**Artículo 3.** Cometer homicidio o intento de homicidio contra varios agentes federales será sancionado con una condena de 25 años a cadena perpetua.
 
-**Artículo 4.** Desobedecer una orden judicial por incumplimiento de condena aplazada será sancionado con cadena perpetua.
+**Artículo 4.** Desobedecer una orden judicial por incumplimiento de condena aplazada será sancionado con una condena de 25 años a cadena perpetua.
 
 ***
 
