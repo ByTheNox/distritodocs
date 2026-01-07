@@ -38,8 +38,6 @@ chino”, etc.\
 justificación.\
 ● Usar términos como “músculo”, “mente”, o cortar roles mediante chat de voz OOC.
 
-
-
 ### <mark style="color:blue;">**1.3. Uso del /me y /do**</mark>
 
 El uso de los comandos /me y /do no es obligatorio, pero se recomienda para enriquecer la experiencia de rol. **No se permite** el uso para forzar el rol de otros jugadores **ni expresar sentimientos**, **pensamientos** o **emociones** internas.
@@ -75,7 +73,7 @@ El metagaming implica utilizar información obtenida de manera OOC en la trama d
 
 El powergaming consiste en acciones imposibles o ilógicas en la vida real. La realización de estas acciones (salvo en roles agresivos) está completamente prohibida y puede conllevar a un baneo del servidor.
 
-### <mark style="color:blue;">**2.3. Definición extendida de Powergaming (PG)**</mark>
+### <mark style="color:blue;">**2.2.1 Definición extendida de Powergaming (PG)**</mark>
 
 {% hint style="info" %}
 En un servidor de rol, cada acción tiene una reacción. Respetar esta dinámica asegura un desarrollo realista y justo para todos los jugadores
@@ -96,7 +94,7 @@ El Powergaming también abarca acciones que no tendrían sentido o lógica en la
 Está <mark style="color:green;">**PERMITIDO**</mark> conducir vehículos por cualquier terreno y realizar saltos con ellos, siempre que tenga sentido dentro del contexto del rol.
 {% endhint %}
 
-### <mark style="color:blue;">**2.4 Uso de Armas o Violencia**</mark>
+### <mark style="color:blue;">**2.3 Uso de Armas o Violencia**</mark>
 
 Para utilizar armas o violencia siempre debe haber un rol previo que lo justifique, salvo en las zonas ilegales o en las bases de bandas. En caso de amenaza con un arma, se debe permitir a la otra persona la oportunidad de acatar las peticiones antes de abrir fuego.
 
@@ -116,7 +114,7 @@ Para utilizar armas o violencia siempre debe haber un rol previo que lo justifiq
 Todos los usuarios tienen la <mark style="color:red;">**obligación**</mark> de grabar los <mark style="color:red;">**roles agresivos en los que participen, incluyendo tanto vídeo como audio.**</mark>
 {% endhint %}
 
-### <mark style="color:blue;">**2.5 Estado de Coma**</mark>
+### <mark style="color:blue;">**2.4 Estado de Coma**</mark>
 
 ● En coma solo se puede usar /do para describir heridas.\
 ● Si no hay jugadores, se puede llamar EMS por /auxilio.
@@ -125,13 +123,13 @@ Todos los usuarios tienen la <mark style="color:red;">**obligación**</mark> de 
 En el servidor no existe el PK ni el PKT, por lo que podréis recordar todo lo sucedido hasta el momento en el que vuestro PJ se queda inconsciente.
 {% endhint %}
 
-### <mark style="color:blue;">**2.6 Uso de Vehículos Estatales**</mark>
+### <mark style="color:blue;">**2.5 Uso de Vehículos Estatales**</mark>
 
 ● Solo se pueden usar si perteneces a la facción correspondiente.
 
 ● En caso de robo, debe ser última opción y se debe enviar entorno periódicamente.
 
-### <mark style="color:blue;">**2.7 Fairplay y Actitudes Competitivas**</mark>
+### <mark style="color:blue;">**2.6 Fairplay y Actitudes Competitivas**</mark>
 
 Los jugadores deben actuar con integridad, evitando el uso de trampas, exploits u otros métodos que proporcionen ventajas injustas. Este servidor no tolera actitudes competitivas extremas. El enfoque debe ser la creación de historias y la colaboración entre personajes, no la competición o la dominación de situaciones. Queda prohibido:
 
@@ -144,7 +142,7 @@ Los jugadores deben actuar con integridad, evitando el uso de trampas, exploits 
 Siempre busca crear una experiencia de rol equilibrada y divertida para todos. Mantén una actitud colaborativa y evita el afán de ganar a toda costa
 {% endhint %}
 
-### <mark style="color:blue;">**2.8 Actualización de Normas**</mark>
+### <mark style="color:blue;">**2.7 Actualización de Normas**</mark>
 
 Las normas del servidor se actualizan con frecuencia. Los jugadores deben revisar la normativa regularmente para estar al tanto de los cambios.
 

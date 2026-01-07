@@ -65,7 +65,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * En caso de problemas de desincronización durante persecuciones, ambos bandos deberán volver al punto del error y continuar la persecución de manera justa.
 * No esta permitido el robo a jugadores sin motivo previo.
 * No se podrán realizar robos 15 minutos antes y después del reinicio.
-* En todos los robos en el norte, se debe realizar al menos 10 minutos de persecución por el norte antes de bajar al sur.
+* En todos los robos en el norte, se debe realizar al menos 15 minutos de persecución por el norte antes de bajar al sur.
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
 
 ### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, ATM, Badulakes, Tiendas de Tattoo, Peluquerías, Talleres Mecánicos abandonados, Farmacias y Corales.)</mark>
