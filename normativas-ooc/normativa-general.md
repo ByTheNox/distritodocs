@@ -69,23 +69,11 @@ Uso obligatorio del comando /entorno:\
 
 ### <mark style="color:blue;">**2.1. Metagaming (MG)**</mark>
 
-El metagaming implica utilizar información obtenida de manera OOC en la trama del personaje IC. Esto está prohibido y puede conllevar el baneo del servidor.
+El metagaming implica utilizar información obtenida de manera OOC en la trama del personaje IC. Esto está prohibido y puede conllevar a un baneo del servidor.
 
 ### <mark style="color:blue;">**2.2. Powergaming (PG)**</mark>
 
-● Acciones imposibles o ilógicas en la vida real.\
-● No se permite:\
-● Reconocer por voz con la cabeza cubierta.\
-● Hablar por radio estando herido o esposado.\
-● Usar /do para fingir rehenes (salvo en robos pequeños).\
-● Llevar cámaras/bodycams salvo la policia.\
-● Usar bugs de animación para atravesar muros o cargar abatido.\
-● Circular con más de dos ruedas pinchadas.\
-● Entrar a apps como DarkChat tras robar un móvil.\
-● Llevar más de un chaleco o más de 5 vendas en roles agresivos.\
-● Amputaciones sin consentimiento mutuo.\
-● Está permitido conducir por cualquier terreno y hacer saltos durante persecuciones.\
-● El PG solo se permite durante roles agresivos, carreras o persecuciones de forma liberada.
+El powergaming consiste en acciones imposibles o ilógicas en la vida real. La realización de estas acciones (salvo en roles agresivos) está completamente prohibida y puede conllevar a un baneo del servidor.
 
 ### <mark style="color:blue;">**2.3. Definición extendida de Powergaming (PG)**</mark>
 
@@ -102,7 +90,7 @@ El Powergaming también abarca acciones que no tendrían sentido o lógica en la
 * No se puede acceder a aplicaciones de DarkChat aunque se robe el móvil de otro personaje, dado que se considera que son apps encriptadas para la seguridad de las comunicaciones.
 * Rolear rehenes ficticios utilizando /do está prohibido exceptuando robos pequeños. Todos los rehenes deben ser jugadores reales o NPCs.
 * Solo se podrá llevar un chaleco adicional en el inventario y un máximo de cinco vendas en cualquier rol agresivo. El abuso de esto es sancionable.
-* Matizar que la liberación del PG es unica y exclusivamente durante el transcurso de persecuciones o roles agresivos.
+* Matizar que la liberación del PG es única y exclusivamente durante el transcurso de persecuciones o roles agresivos.
 
 {% hint style="success" %}
 Está <mark style="color:green;">**PERMITIDO**</mark> conducir vehículos por cualquier terreno y realizar saltos con ellos, siempre que tenga sentido dentro del contexto del rol.
@@ -112,17 +100,20 @@ Está <mark style="color:green;">**PERMITIDO**</mark> conducir vehículos por cu
 
 Para utilizar armas o violencia siempre debe haber un rol previo que lo justifique, salvo en las zonas ilegales o en las bases de bandas. En caso de amenaza con un arma, se debe permitir a la otra persona la oportunidad de acatar las peticiones antes de abrir fuego.
 
-* El cuerpo policial está autorizado a disparar a matar desde el helicóptero si han recibido fuego previamente mientras este se mantenga estatico en el aire, nunca en movimiento y valorando el entorno en el que se encuentra.
-* Disparar desde un vehículo está permitido, el conductor del vehiculo solo podra disparar con el vehiculo completamente detenido. Solo esta permitido disparar a los neumáticos.
-* No esta permitido disparar a matar a una persona en el interior de un vehiculo, salvo que este se haya subido al vehiculo durante un tiroteo.
+* El cuerpo policial está autorizado a disparar a matar desde el helicóptero si han recibido fuego previamente mientras este se mantenga estático en el aire, nunca en movimiento y valorando el entorno en el que se encuentra.
+* Disparar desde un vehículo está permitido, pero el conductor del vehículo solo podrá disparar con el vehículo completamente detenido. Solo está permitido disparar a los neumáticos, NUNCA a los ocupantes.
+* No esta permitido disparar a matar a una persona en el interior de un vehículo, salvo que este se haya subido al vehículo durante un tiroteo.
 * No está permitido usar vehículos como arma contra jugadores a pie.
-* TODOS LOS USUARIOS TIENEN LA OBLIGACION DE GRABAR TODOS LOS ROLES AGRESIVOS EN LOS QUE PARTICIPEN INCLUYENDO TANTO AUDIO COMO VIDEO.
-* Escala de conflicto: Debe existe una escala de conflicto, no esta permitido por un insulto o un puñetazo, sacar un arma de fuego, debe existir una coherencia y proporcionalidad a la hora de desenvolver los conflictos de manera ic.
+* Escala de conflicto: Debe existe una escala de conflicto, no esta permitido por un insulto o un puñetazo, sacar un arma de fuego, debe existir una coherencia y proporcionalidad a la hora de desenvolver los conflictos de manera IC.
 
 
 
 {% hint style="warning" %}
 <mark style="color:yellow;">**Recuerda**</mark> dar suficiente tiempo a la otra persona para reaccionar antes de utilizar un arma. El fairplay es fundamental para mantener la experiencia de rol.
+{% endhint %}
+
+{% hint style="danger" %}
+Todos los usuarios tienen la <mark style="color:red;">**obligación**</mark> de grabar los <mark style="color:red;">**roles agresivos en los que participen, incluyendo tanto vídeo como audio.**</mark>
 {% endhint %}
 
 ### <mark style="color:blue;">**2.5 Estado de Coma**</mark>
@@ -131,15 +122,14 @@ Para utilizar armas o violencia siempre debe haber un rol previo que lo justifiq
 ● Si no hay jugadores, se puede llamar EMS por /auxilio.
 
 {% hint style="info" %}
-En el servidor no existe el PK ni el PKT, por lo que podreis recordar todo lo sucedido hasta el momento en el que vuestro pj se queda insconciente.
+En el servidor no existe el PK ni el PKT, por lo que podréis recordar todo lo sucedido hasta el momento en el que vuestro PJ se queda inconsciente.
 {% endhint %}
 
 ### <mark style="color:blue;">**2.6 Uso de Vehículos Estatales**</mark>
 
 ● Solo se pueden usar si perteneces a la facción correspondiente.
 
-\
-● En caso de robo, debe ser última opción y se debe enviar entorno periódicamente.
+● En caso de robo, debe ser última opción y se debe enviar entorno periódicamente.
 
 ### <mark style="color:blue;">**2.7 Fairplay y Actitudes Competitivas**</mark>
 
@@ -172,7 +162,7 @@ El uso de saltos continuos para moverse más rápido está prohibido y es sancio
 
 ### <mark style="color:blue;">**3.2. Deathmatch (DM)**</mark>
 
-Agredir o matar a otros usuarios sin un motivo aparente, incluyendo Vehicular Deathmatch (VDM), está prohibido.
+Agredir o matar a otros usuarios sin un motivo aparente, incluyendo el Vehicular Deathmatch (VDM), está prohibido.
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
@@ -185,8 +175,8 @@ El CK supone la muerte definitiva del personaje junto con la pérdida de bienes 
 * Queda terminante prohibido tras sufrir un CK ingresar nuevamente a la misma banda.
 * No esta permitido traspasar los bienes a otro jugador o grupo antes de sufrir un CK
 * Tras sufrir un CK debe de crearse un PJ completamente diferente, no esta permitido rolear de familiar, amigo o conocido de tu anterior personaje.
-* Antes de realizar / rolear un ck hacia otro jugador, este debe ser solicitado y aprobado anteriormente por la administracion.
-* Tras abandonar una faccion, banda, policia o ems, se debera de esperar 1 semana para ingresar a una nueva faccion.
+* Antes de realizar / rolear un CK hacia otro jugador, este debe ser solicitado y aprobado anteriormente por la administracion.
+* Tras abandonar una facción, ya sea bandas, policía o EMS, se deberá de esperar 1 semana para ingresar a una nueva facción.
 
 ### <mark style="color:blue;">**4.2 Tipos de CK**</mark>
 
