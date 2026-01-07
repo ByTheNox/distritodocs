@@ -2,13 +2,13 @@
 
 ## <mark style="color:red;">INTRODUCCION</mark>
 
-Aquí en Distrito Roleplay, cada personaje tiene una historia, y cada historia merece ser vivida al máximo. Crea un rol auténtico para tu personaje y mantente fiel a él, imaginando siempre cómo actuaría si fuera real. Este es el corazón del roleplay: darle vida a tu personaje de la manera más coherente y divertida posible. ¡Que empiece la aventura!
+Aquí en Distrito Reforged, cada personaje tiene una historia, y cada historia merece ser vivida al máximo. Crea un rol auténtico para tu personaje y mantente fiel a él, imaginando siempre cómo actuaría si fuera real. Este es el corazón del roleplay: darle vida a tu personaje de la manera más coherente y divertida posible. ¡Que empiece la aventura!
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">0.0 SENTIDO COMÚN</mark>
 
-En Distrito Roleplay, recordamos que, al final del día, todos somos personas y formamos parte de una comunidad. Por eso, la primera y más importante norma es el sentido común. Actúa de forma razonable y considera siempre las consecuencias de tus acciones. Puedes leer más sobre el concepto aquí: [El sentido común](https://es.wikipedia.org/wiki/El_sentido_com%C3%BAn).
+En Distrito Reforged, recordamos que, al final del día, todos somos personas y formamos parte de una comunidad. Por eso, la primera y más importante norma es el sentido común. Actúa de forma razonable y considera siempre las consecuencias de tus acciones. Puedes leer más sobre el concepto aquí: [El sentido común](https://es.wikipedia.org/wiki/El_sentido_com%C3%BAn).
 
 ## <mark style="color:purple;">1. NORMATIVA BÁSICA</mark>
 
@@ -28,8 +28,7 @@ anteriores puntos.
 ### <mark style="color:blue;">1.2. In Character (IC) y Out of Character (OOC)</mark>
 
 ● IC: Toda interacción que realizamos con nuestro personaje en la ciudad.\
-● OOC: Todo lo que se habla desde nuestra persona fuera del personaje.\
-
+● OOC: Todo lo que se habla desde nuestra persona fuera del personaje.<br>
 
 _**Prohibiciones:**_\
 ● Usar programas externos como Discord, TeamSpeak3 o similares durante el rol.\
