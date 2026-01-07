@@ -117,8 +117,7 @@ Toda persona detenida tendrá los siguientes derechos, que deberán ser comunica
 
 1. Derecho a ser informado de los delitos que se le imputan.
 2. Derecho a guardar silencio y no declarar contra sí mismo.
-3. Derecho a asistencia médica, alimentos y bebida.
-4. Derecho a contar con la presencia de un abogado, salvo en caso de flagrante delito.\
+3. Derecho a contar con la presencia de un abogado, salvo en caso de flagrante delito.\
    Si no se cumplen estas condiciones, el detenido podrá solicitar un hábeas corpus, obligando al funcionario a liberarlo y a aplicar las sanciones pertinentes.
 
 **Artículo 8.** Solo el detenido o su abogado podrán solicitar un hábeas corpus.
