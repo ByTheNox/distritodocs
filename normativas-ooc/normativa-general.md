@@ -1,4 +1,4 @@
-# 📚 Normativa General
+# 📚 NORMATIVA GENERAL
 
 ## <mark style="color:red;">INTRODUCCION</mark>
 
@@ -107,7 +107,7 @@ Para utilizar armas o violencia siempre debe haber un rol previo que lo justifiq
 
 
 {% hint style="warning" %}
-<mark style="color:yellow;">**Recuerda**</mark> dar suficiente tiempo a la otra persona para reaccionar antes de utilizar un arma. El fairplay es fundamental para mantener la experiencia de rol.
+<mark style="color:yellow;">**Recuerda**</mark> dar suficiente tiempo a la otra persona para reaccionar antes de utilizar un arma. <mark style="color:yellow;">**El fairplay es fundamental para mantener la experiencia de rol.**</mark>
 {% endhint %}
 
 {% hint style="danger" %}
@@ -120,7 +120,7 @@ Todos los usuarios tienen la <mark style="color:red;">**obligación**</mark> de 
 ● Si no hay jugadores, se puede llamar EMS por /auxilio.
 
 {% hint style="info" %}
-En el servidor no existe el PK ni el PKT, por lo que podréis recordar todo lo sucedido hasta el momento en el que vuestro PJ se queda inconsciente.
+En el servidor <mark style="color:blue;">**no existe el PK ni el PKT**</mark>, por lo que podréis <mark style="color:blue;">**recordar**</mark> todo lo sucedido <mark style="color:blue;">**hasta el momento en el que vuestro PJ se queda inconsciente.**</mark>
 {% endhint %}
 
 ### <mark style="color:blue;">**2.5 Uso de Vehículos Estatales**</mark>
@@ -139,7 +139,7 @@ Los jugadores deben actuar con integridad, evitando el uso de trampas, exploits 
 * Acudir directamente a un bloqueo al iniciar una persecución para terminarla de forma rápida.
 
 {% hint style="success" %}
-Siempre busca crear una experiencia de rol equilibrada y divertida para todos. Mantén una actitud colaborativa y evita el afán de ganar a toda costa
+Siempre busca crear una <mark style="color:green;">**experiencia de rol equilibrada y divertida**</mark> para todos. Mantén una <mark style="color:green;">**actitud colaborativa y evita el afán de ganar a toda costa.**</mark>
 {% endhint %}
 
 ### <mark style="color:blue;">**2.7 Actualización de Normas**</mark>
@@ -147,7 +147,7 @@ Siempre busca crear una experiencia de rol equilibrada y divertida para todos. M
 Las normas del servidor se actualizan con frecuencia. Los jugadores deben revisar la normativa regularmente para estar al tanto de los cambios.
 
 {% hint style="warning" %}
-Las normas del servidor se actualizan con frecuencia. Se otorgará un plazo de 24 horas tras una actualización para que todos los jugadores se informen antes de aplicar rigurosamente las nuevas reglas.
+Las normas del servidor se <mark style="color:yellow;">**actualizan con frecuencia.**</mark> Se otorgará un <mark style="color:yellow;">**plazo de 24 horas tras una actualización para que todos los jugadores se informen antes de aplicar rigurosamente las nuevas reglas.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
@@ -173,7 +173,7 @@ El CK supone la muerte definitiva del personaje junto con la pérdida de bienes 
 * Queda terminante prohibido tras sufrir un CK ingresar nuevamente a la misma banda.
 * No esta permitido traspasar los bienes a otro jugador o grupo antes de sufrir un CK
 * Tras sufrir un CK debe de crearse un PJ completamente diferente, no esta permitido rolear de familiar, amigo o conocido de tu anterior personaje.
-* Antes de realizar / rolear un CK hacia otro jugador, este debe ser solicitado y aprobado anteriormente por la administracion.
+* Antes de realizar / rolear un CK hacia otro jugador, este debe ser solicitado y aprobado anteriormente por la administración.
 * Tras abandonar una facción, ya sea bandas, policía o EMS, se deberá de esperar 1 semana para ingresar a una nueva facción.
 
 ### <mark style="color:blue;">**4.2 Tipos de CK**</mark>
@@ -191,12 +191,15 @@ El CK supone la muerte definitiva del personaje junto con la pérdida de bienes 
 
 Valorar siempre la vida del personaje. Esto significa no asumir riesgos innecesarios que en la vida real nadie tomaría. Por ejemplo, ignorar amenazas directas durante un secuestro está considerado como una falta a esta norma.
 
-Valorar la vida del personaje implica evitar riesgos innecesarios. Actúa siempre con la lógica y precaución que tendrías en una situación real.\
-&#x20;\* La no valoracion de vida puede desenvocar en un CK si administracion asi lo considera.
+Valorar la vida del personaje implica evitar riesgos innecesarios. Actúa siempre con la lógica y precaución que tendrías en una situación real.<br>
+
+{% hint style="warning" %}
+La <mark style="color:yellow;">**no valoración de vida**</mark> puede llevar a un <mark style="color:yellow;">**CK,**</mark> <mark style="color:yellow;">**si la administración lo considera.**</mark>
+{% endhint %}
 
 ### <mark style="color:blue;">**5.2. Fairplay**</mark>
 
-Ningún usuario se aprovechará de errores o exploits para beneficiarse. El incumplimiento conlleva sanciones severas o permaban.
+Ningún usuario se aprovechará de errores o exploits para beneficiarse. El incumplimiento conlleva sanciones severas o un baneo permanente.
 
 &#x20;**Reglas técnicas, uso de modificaciones y/o trampas**
 
@@ -215,7 +218,7 @@ Ningún usuario se aprovechará de errores o exploits para beneficiarse. El incu
 
 &#x20;**Uso de trampas**
 
-* Está completamente prohibido utilizar **cualquier tipo de trampa, cheat, exploder, etc** en el servidor. Esto incluye, pero no se limita, al uso del **speedboost** en los tiroteos, de **formas de caminar** o **animaciones** con las que se pretenda generar desincronización (desync) para evitar recibir daño, o cualquier otra mecánica que de una ventaja injusta en tiroteos o en situaciones de PVP en el servidor. En caso de detectar que un jugador haga uso de ello será **sancionada muy duramente**.
+* Está completamente prohibido utilizar **cualquier tipo de trampa, cheat, exploder, etc** en el servidor. Esto incluye, pero no se limita, al uso del **speedboost** en los tiroteos, de **formas de caminar** o **animaciones** con las que se pretenda generar desincronización (**desync**) para evitar recibir daño, o cualquier otra mecánica que de una ventaja injusta en tiroteos o en situaciones de PVP en el servidor. En caso de detectar que un jugador haga uso de ello será **sancionada muy duramente**.
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
@@ -225,13 +228,17 @@ Ningún usuario se aprovechará de errores o exploits para beneficiarse. El incu
 
 Antes de que se cometa un acto delictivo se deberá enviar un comando /entorno describiendo los hechos. Las zonas de entorno deben ser valoradas de acuerdo al contexto (por ejemplo, una zona poco transitada en la montaña vs. una calle concurrida).
 
-Ejemplo: **"/entorno Ayuda!! Un señor con una mascara de mono y vestido con ropa de color negra y amarilla esta robando el badulake de alado de mi casa! Tiene un vehiculo de 4 ruedas deportivo color azul en la puerta, no alcanzo a ver la matricula"**
+{% hint style="info" %}
+<mark style="color:blue;">**Ejemplo:**</mark> <mark style="color:$info;">**/entorno Ayuda!! Un señor con una mascara de mono y vestido con ropa de color negra y amarilla esta robando el badulaque de alado de mi casa! Tiene un vehículo de 4 ruedas deportivo color azul en la puerta, no alcanzo a ver la matricula**</mark>
+{% endhint %}
 
 ### <mark style="color:blue;">**6.2 Uso del /auxilio**</mark>
 
 El /auxilio se utilizará para enviar un aviso a los cuerpos médicos cuando sea necesario y siempre en áreas con movimiento de personas.
 
-Ejemplo: "**/auxilio Estoy viendo desde mi ventana a un hombre desangrándose en el suelo, parece que le han atropellado, necesita una ambulancia seguro!**
+{% hint style="info" %}
+<mark style="color:blue;">**Ejemplo**</mark>: <mark style="color:$info;">**/auxilio Estoy viendo desde mi ventana a un hombre desangrándose en el suelo, parece que le han atropellado, necesita una ambulancia seguro!**</mark>
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
 
@@ -241,15 +248,14 @@ Ejemplo: "**/auxilio Estoy viendo desde mi ventana a un hombre desangrándose en
 
 Ningún jugador podrá parar o evadir un rol en curso. Si se requiere asistencia administrativa, se deberá hacer vía ticket o privado sin interrumpir el rol.
 
-No se atendera nigun tipo de report – queja sobre roles si no es por el canal correspondiente.
+No se atenderá ningún tipo de reporte o queja sobre roles si no es por el canal correspondiente.
 
-Para la resolución de conflicto se debe ser acorde y actuar en proporción, si te insultan verbalmente o agreden fisicamente deberas actuar en consecuencia.
+Para la resolución de conflicto se debe ser acorde y actuar en proporción, si te insultan verbalmente o agreden físicamente deberás actuar en consecuencia.
 
 ### <mark style="color:blue;">**7.2. Conducta en el Servidor**</mark>
 
-* **Discriminación, Roles Extremistas y Actos Inapropiados**: No se tolera ninguna forma de discriminación (racismo, machismo, etc.). Los roles extremistas están permitidos hasta cierto punto pero en caso de duda se deberá consultar con la Administración.
-* NO están permitidas las amputaciones, mutilaciones o realización de marcas (cortes, tatuajes, etc) **sin el consentimiento de todas las partes**.
-* **NO ESTÁN PERMITIDOS LOS ROLES DE VIOLACIÓN.**
+* **Discriminación, roles Extremistas y actos Inapropiados**: No se tolera ninguna forma de discriminación (racismo, machismo, etc.). Los roles extremistas están permitidos hasta cierto punto pero en caso de duda se deberá consultar con la Administración.
+* **No** están permitidas las amputaciones, mutilaciones o realización de marcas (cortes, tatuajes, etc) **sin el consentimiento de todas las partes**.
 * **Roles sexuales**: Los roles sexuales están permitidos con la discreción del jugador. Las parejas podrán existir y se permitirá la representación de intimidad siempre que sea consensuada y manejada de forma discreta.
 * **Roles de suicidio:** Los roles de suicido están permitidos siempre y cuando tengan un sentido a nivel IC y sean muy infrecuentes. En caso de que un jugador hiciese este tipo de roles de una forma continua, se podría realizar un CK Médico.
 * Queda prohibido el uso de términos como **"Nigga"** o **"Maricón"** de manera IC y OOC.
@@ -259,7 +265,7 @@ Para la resolución de conflicto se debe ser acorde y actuar en proporción, si 
 
 
 {% hint style="danger" %}
-<mark style="color:red;">**RECUERDA**</mark> Queda totalmente <mark style="color:red;">**PROHIBIDO**</mark> cualquier comportamiento discriminatorio (racismo, machismo, etc.) o roles extremistas <mark style="color:red;">sin previa</mark> consulta y <mark style="color:red;">aprobación</mark> del equipo de <mark style="color:red;">administración</mark>. Las violaciones están estrictamente prohibidas bajo cualquier caso.
+<mark style="color:red;">**RECUERDA**</mark> Queda totalmente <mark style="color:red;">**PROHIBIDO**</mark> cualquier comportamiento discriminatorio (racismo, machismo, etc.) o roles extremistas <mark style="color:red;">**sin previa**</mark> consulta y <mark style="color:red;">**aprobación**</mark> del equipo de <mark style="color:red;">**administración. Las violaciones están estrictamente prohibidas bajo cualquier caso.**</mark>
 {% endhint %}
 
 ### <mark style="color:blue;">**7.3. Ajuste de Cuentas**</mark>
@@ -272,16 +278,16 @@ Para realizar un ajuste de cuentas, debe haber una justificación válida. Esto 
 
 ### <mark style="color:blue;">**8.1 Lugares considerados como zonas seguras**</mark>
 
-* Cajeros, bancos, tiendas de comida, peluquerías, tiendas comunes y tiendas de ropa ( Cualquier zona que implique tener un menu abierto)
+* Cajeros, bancos, tiendas de comida, peluquerías, tiendas comunes y tiendas de ropa ( Cualquier zona que implique tener un menú abierto)
 * No puedes usar máscaras en zonas seguras ni mostrar armas.
-* Si portas mascara en vias publicas deberas enviar un entorno de forma periodica.
+* Si portas mascara en vías publicas deberás enviar un entorno de forma periódica.
 
 {% hint style="info" %}
-Solo se podrá anular la condición de 'zona segura' por motivos de rol si previamente se ha solicitado a la administración y esta ha otorgado su aprobación. Cualquier incumplimiento será sancionado.
+Solo se podrá <mark style="color:blue;">**anular la condición de 'zona segura'**</mark> por motivos de rol si <mark style="color:blue;">**previamente se ha solicitado a la administración y esta ha otorgado su aprobación. Cualquier incumplimiento será sancionado.**</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-Cuando te encuentres en una zona segura, recuerda que no está permitido disparar, golpear o realizar cualquier tipo de actividad ilícita.
+Cuando te encuentres en una <mark style="color:yellow;">**zona segura**</mark>, recuerda que <mark style="color:yellow;">**no está permitido disparar, golpear o realizar cualquier tipo de actividad ilícita.**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
@@ -292,10 +298,10 @@ Las sanciones y sus magnitudes serán decididas por el equipo administrativo y s
 
 Esta normativa busca equilibrar la experiencia de juego, favoreciendo un entorno justo y realista para todos los jugadores. Cada norma está diseñada para mejorar la calidad del roleplay y asegurar que todos disfruten de una experiencia única y coherente.\
 \
-DistritoRoleplay como servidor privado dentro de FiveM se reserva el derecho de admisión pudiendo privar o retirar el acceso a usuarios si asi se cree conveniente.
+Distrito Reforged, como servidor privado dentro de FiveM se reserva el derecho de admisión pudiendo privar o retirar el acceso a usuarios si así se cree conveniente.
 
 {% hint style="danger" %}
-Buscar vacíos legales en la normativa será considerado como un incumplimiento total de las reglas. Esta práctica puede conllevar sanciones graves, ya que va en contra del espíritu del rol y la comunidad.
+<mark style="color:red;">**Buscar vacíos legales en la normativa será considerado como un incumplimiento total de las reglas. Esta práctica puede conllevar sanciones graves, ya que va en contra del espíritu del rol y la comunidad.**</mark>
 {% endhint %}
 
 > "La ignorancia no exime del cumplimiento de la ley (_ignorantia juris non excusat_) es un principio de Derecho que indica que **el desconocimiento o ignorancia de la ley no sirve de excusa para su cumplimiento**, porque rige la necesaria presunción de que si una ley ha sido promulgada, debe ser por todos conocida.
