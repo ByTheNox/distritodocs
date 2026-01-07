@@ -3,17 +3,17 @@ noIndex: true
 icon: basket-shopping-simple
 ---
 
-# Términos y Condiciones de la Tienda de Distrito Roleplay
+# Términos y Condiciones de la Tienda de Distrito Reforged
 
-La tienda de Distrito Roleplay se ha desarrollado para proporcionar una experiencia óptima y servicios exclusivos dentro del servidor. Al realizar una compra en esta tienda, aceptas los siguientes términos y condiciones. Estos términos están sujetos a cambios sin previo aviso, por lo que te recomendamos revisarlos periódicamente. El incumplimiento de estos términos podría conllevar la revocación de los derechos adquiridos en la tienda y sanciones adicionales.
+La tienda de Distrito Reforged se ha desarrollado para proporcionar una experiencia óptima y servicios exclusivos dentro del servidor. Al realizar una compra en esta tienda, aceptas los siguientes términos y condiciones. Estos términos están sujetos a cambios sin previo aviso, por lo que te recomendamos revisarlos periódicamente. El incumplimiento de estos términos podría conllevar la revocación de los derechos adquiridos en la tienda y sanciones adicionales.
 
 ## <mark style="color:purple;">1. Generalidades</mark>
 
 1.1. Acceso a la tienda:\
-Al realizar una compra en la tienda de Distrito Roleplay, confirmas que tienes la autorización necesaria para usar el método de pago seleccionado.
+Al realizar una compra en la tienda de Distrito Reforged, confirmas que tienes la autorización necesaria para usar el método de pago seleccionado.
 
 1.2. Restricción de uso:\
-Todos los beneficios adquiridos son exclusivos para el uso dentro del servidor de Distrito Roleplay y no pueden transferirse a otras plataformas, cuentas o servidores.
+Todos los beneficios adquiridos son exclusivos para el uso dentro del servidor de Distrito Reforged y no pueden transferirse a otras plataformas, cuentas o servidores.
 
 1.3. Modificaciones de los términos:\
 Nos reservamos el derecho de modificar estos términos en cualquier momento. Los usuarios serán notificados de los cambios más importantes a través de los canales oficiales del servidor.
@@ -85,7 +85,7 @@ Responsabilidad del comprador: Al adquirir una propiedad, el usuario acepta que 
 ## <mark style="color:purple;">6. Reembolsos</mark>
 
 6.1. Política de no reembolsos:\
-Todos los pagos realizados en la tienda de Distrito Roleplay son finales. No se efectuarán reembolsos una vez confirmada la compra.
+Todos los pagos realizados en la tienda de Distrito Reforged son finales. No se efectuarán reembolsos una vez confirmada la compra.
 
 6.2. Casos excepcionales:\
 En situaciones excepcionales, el equipo de administración se reserva el derecho de emitir créditos o descuentos en lugar de un reembolso directo.
@@ -135,7 +135,7 @@ Cualquier intento de transferir beneficios de una temporada a otra (después de 
 ## <mark style="color:purple;">12. Seguridad y Privacidad</mark>
 
 12.1. Protección de datos:\
-Los datos personales proporcionados al realizar compras serán gestionados de acuerdo con las políticas de privacidad de Tebex y Distrito Roleplay, sin ser compartidos con terceros.
+Los datos personales proporcionados al realizar compras serán gestionados de acuerdo con las políticas de privacidad de Tebex y Distrito Reforged, sin ser compartidos con terceros.
 
 12.2. Confidencialidad:\
 Cualquier intento de acceder a datos de otros usuarios o al sistema de la tienda sin autorización será reportado y sancionado.
@@ -154,7 +154,7 @@ Distrito Roleplay se reserva el derecho de corregir errores en los precios o con
 En caso de conflictos sobre compras o beneficios, los jugadores deberán contactar primero al soporte oficial.
 
 14.2. Decisión final:\
-La administración de Distrito Roleplay tendrá la última palabra en cualquier decisión relacionada con disputas.
+La administración de Distrito Reforged tendrá la última palabra en cualquier decisión relacionada con disputas.
 
 ## <mark style="color:purple;">15. Productos Limitados</mark>
 
@@ -162,4 +162,4 @@ La administración de Distrito Roleplay tendrá la última palabra en cualquier 
 Algunos paquetes o beneficios pueden estar limitados en cantidad o tiempo, y se asignarán en orden de compra.
 
 15.2. Reposición:\
-Distrito Roleplay no garantiza la reposición de productos limitados una vez agotados.
+Distrito Reforged no garantiza la reposición de productos limitados una vez agotados.
