@@ -179,8 +179,9 @@ Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entor
 
 ### <mark style="color:blue;">6.1. Rol de Entorno Favorable</mark>
 
-* Con el actual sistema de territorios el RDE favorable se aplica solo si se tiene el 100% de influencia en un territorio, este RDE favorable ayuda a que posibles llamados sobre actividades ilegales en esas zonas no ocurran y que personas ajenas a ese territorio deban ir con cuidado por esos territorios.
+* Con el actual sistema de territorios el RDE favorable se aplica solo si se tiene el 100% de influencia en un territorio. En el caso del barrio o sede de la banda, sera necesario contar al menos con el  50% de influencia sobre la zona. Este RDE favorable ayuda a que posibles llamados o actividades ilegales en dichas zonas no se vean afectadas por personas ajenas al territorio, los cuales deberán actuar con especial precaución en estos lugares.
 * Para realizar un rol agresivo en un territorio controlado por otra banda, deben participar al menos 5 miembros y existir motivos claros para tomar el riesgo.
+* Si un conflicto se inicia fuera del territorio de una banda, esta no podrá desplazarse a ninguno de sus territorios con RDE favorable para evitarlo. Hacerlo se considerará evasión de rol.
 
 ***
 
@@ -203,6 +204,8 @@ Se consideraran puntos calientes las siguientes zonas:
 * Zona de drogas.
 * Cualquier zona que implique un NPC con contenido ilegal.
 * Zona de crafteo de armas.
+
+Si una banda localiza una plantación, esa zona se considerará inmediatamente un punto caliente mientras la plantación permanezca activa, excepto en el caso de que se encuentre dentro de territorios controlados.
 
 En estas zonas no es necesario enviar un entorno al realizar un acto delictivo ni se necesita un rol previo. Al igual que no se podrá usar el /auxilio en estas zonas.
 
