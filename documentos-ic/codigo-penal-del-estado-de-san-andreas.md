@@ -94,7 +94,7 @@
 
 ***
 
-## <mark style="color:yellow;">**Capítulo III - Robos y Asaltos**</mark> <a href="#ne1due4b2fcc" id="ne1due4b2fcc"></a>
+## <mark style="color:yellow;">**Capítulo III - Delitos contra el patrimonio**</mark> <a href="#ne1due4b2fcc" id="ne1due4b2fcc"></a>
 
 **Artículo 1.** El robo de un vehículo será sancionado con una multa de 1.500 $ y hasta 5 meses de prisión. Este delito no incluirá cargos adicionales como "huir de la justicia" a menos que corresponda.
 
@@ -116,7 +116,7 @@
 (a) Robo en joyerías será sancionado con 20.000 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 8.**\
-(a) Robo en sucursales bancarias será sancionado con 17.500 $ y hasta 15meses de prisión. La multa será aplicada a cada participante.\
+(a) Robo en sucursales bancarias será sancionado con 17.500 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.\
 \
 (b) El robo en cajeros automáticos será sancionado con 5.000 $ y hasta 10 meses de prisión.\
 \
