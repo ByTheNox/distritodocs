@@ -50,6 +50,8 @@
 
 **Artículo 17.** La circulación por zonas no habilitadas para vehículos conlleva una multa de 300 $.
 
+**Artículo 18.** La participación en una carrera ilegal será sancionada con 1000 $.
+
 ***
 
 ## <mark style="color:yellow;">**Capítulo II - Delitos contra la libertad, Integridad física y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
@@ -111,14 +113,14 @@
 (a) Robo en armerías será sancionado con 8.300 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 7.**\
-(a) Robo en joyerías será sancionado con 20.000 $ y hasta 20 meses de prisión. La multa será aplicada a cada participante.
+(a) Robo en joyerías será sancionado con 20.000 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 8.**\
-(a) Robo en sucursales bancarias será sancionado con 17.500 $ y hasta 25 meses de prisión. La multa será aplicada a cada participante.\
+(a) Robo en sucursales bancarias será sancionado con 17.500 $ y hasta 15meses de prisión. La multa será aplicada a cada participante.\
 \
 (b) El robo en cajeros automáticos será sancionado con 5.000 $ y hasta 10 meses de prisión.\
 \
-(c) Robo en bancos principales será sancionado con 23.750 $ y hasta 30 meses de prisión. La multa será aplicada a cada participante.
+(c) Robo en bancos principales será sancionado con 23.750 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 9.**\
 \
