@@ -64,33 +64,31 @@
 
 **Artículo 5.** El daño al mobiliario urbano tendrá una multa variable entre 200 $ y 850 $, dependiendo de la magnitud de los daños ocasionados.
 
-**Artículo 6.** El uso excesivo del claxon con fines de provocación o sin justificación será multado con 250 $.
+**Artículo 6.** El intento de cometer una violación será sancionado con una multa de entre 150.000 $ y  500.000 $ con una condena de 25 años a cadena perpetua.
 
-**Artículo 7.** El intento de cometer una violación será sancionado con una multa de entre 150.000 $ y  500.000 $ con una condena de 25 años a cadena perpetua.
+**Artículo 7.** La consumación de una violación será sancionado entre 400.000 $ y 950.000 $ con una condena 25 años a cadena perpetua., en coherencia con la gravedad del acto.
 
-**Artículo 8.** La consumación de una violación será sancionado entre 400.000 $ y 950.000 $ con una condena 25 años a cadena perpetua., en coherencia con la gravedad del acto.
+**Artículo 8.** El acoso psicológico a otro civil será sancionado con 15.000 $ y hasta 15 meses de prisión.
 
-**Artículo 9.** El acoso psicológico a otro civil será sancionado con 15.000 $ y hasta 15 meses de prisión.
+**Artículo 9.** La suplantación de identidad será multada con 20.000 $ y castigada con hasta 20 meses de prisión.
 
-**Artículo 10.** La suplantación de identidad será multada con 20.000 $ y castigada con hasta 20 meses de prisión.
+**Artículo 10.** Formar parte de una organización criminal será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
-**Artículo 11.** Formar parte de una organización criminal será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
+**Artículo 11.** La circulación en la vía pública con el rostro oculto será sancionado con 1.000 $ y hasta 5 meses de prisión en caso de reincidencia.
 
-**Artículo 12.** La circulación en la vía pública con el rostro oculto será sancionado con 1.000 $ y hasta 5 meses de prisión en caso de reincidencia.
+**Artículo 12.** La circulación en la vía pública sin camiseta será sancionado con 200 $, conforme a las normas de decoro público.
 
-**Artículo 13.** La circulación en la vía pública sin camiseta será sancionado con 200 $, conforme a las normas de decoro público.
+**Artículo 13.** Cometer fraude o engaño será multado con 10.000 $ y hasta 15 meses de prisión.
 
-**Artículo 14.** Cometer fraude o engaño será multado con 10.000 $ y hasta 15 meses de prisión.
+**Artículo 14.** Cometer acoso sexual será sancionado con una multa de 45.000 $ y hasta 60 meses de prisión.
 
-**Artículo 15.** Cometer acoso sexual será sancionado con una multa de 45.000 $ y hasta 60 meses de prisión.
+**Artículo 15.** La violación de una orden de alejamiento dictada por sentencia firme será sancionado con 15.000 $ y hasta 15 meses de prisión.
 
-**Artículo 16.** La violación de una orden de alejamiento dictada por sentencia firme será sancionado con 15.000 $ y hasta 15 meses de prisión.
+**Artículo 16.** Negarse a identificarse ante las autoridades será sancionado con una multa de 1.500 $.
 
-**Artículo 17.** Negarse a identificarse ante las autoridades será sancionado con una multa de 1.500 $.
+**Artículo 17.** La obstrucción a la justicia será sancionado con 1.500 $ y hasta 10 meses de prisión.
 
-**Artículo 18.** La obstrucción a la justicia será sancionado con 1.500 $ y hasta 10 meses de prisión.
-
-**Artículo 19.** Sobrepasar un perímetro policial establecido será sancionado con 10.000 $.
+**Artículo 18.** Sobrepasar un perímetro policial establecido será sancionado con 10.000 $.
 
 ***
 
