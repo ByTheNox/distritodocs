@@ -105,36 +105,36 @@
 **Artículo 4.** Un asalto agravado a un civil, utilizando fuerza excesiva o causando daño significativo, será sancionado con 2.000 $ y hasta 8 meses de prisión.
 
 **Artículo 5.**\
-(a) Robo menor será sancionado con 3.000 $ y hasta 10 meses de prisión. La multa podrá dividirse entre los participantes del delito.\
+(a) Robo menor será sancionado con 1.500 $ y hasta 10 meses de prisión. La multa será aplicada a cada participante.\
 \
-(b) Robo en viviendas será sancionado con 5.000 $ y hasta 10 meses de prisión, con las mismas condiciones de división de la multa.
+(b) Robo en viviendas será sancionado con 2.500 $ y hasta 10 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 6.**\
-(a) Robo en armerías será sancionado con 25.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Robo en armerías será sancionado con 8.300 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 7.**\
-(a) Robo en joyerías será sancionado con 60.000 $ y hasta 10 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Robo en joyerías será sancionado con 20.000 $ y hasta 20 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 8.**\
-(a) Robo en sucursales bancarias será sancionado con 70.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.\
+(a) Robo en sucursales bancarias será sancionado con 17.500 $ y hasta 25 meses de prisión. La multa será aplicada a cada participante.\
 \
 (b) El robo en cajeros automáticos será sancionado con 5.000 $ y hasta 10 meses de prisión.\
 \
-(c) Robo en bancos principales será sancionado con 95.000 $ y hasta 20 meses de prisión. Las multas podrán dividirse entre los participantes.
+(c) Robo en bancos principales será sancionado con 23.750 $ y hasta 30 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 9.**\
 \
-(a) Robo en empresas será sancionado con 50.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Robo en empresas será sancionado con 12.500 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 10.**\
 \
-(a) Robo de furgonetas con químicos será sancionado con 30.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Robo de furgonetas con químicos será sancionado con 15.000 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 11.**\
-(a) Robo de embarcaciones será sancionado con 50.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Robo de embarcaciones será sancionado con 12.500 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 12.**\
-(a) Asalto a furgones policiales será sancionado con 35.000 $ y hasta 15 meses de prisión. Las multas podrán dividirse entre los participantes.
+(a) Asalto a furgones policiales será sancionado con 8.750 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
 
 
 
