@@ -48,9 +48,9 @@
 
 **Artículo 16.** La conducción bajo los efectos de drogas o alcohol será sancionado con 800 $. En caso de derivar en un delito penal, se aplicará una pena de hasta 10 meses de prisión.
 
-**Artículo 17.** La circulación por zonas no habilitadas para vehículos conlleva una multa de 300 $.
+**Artículo 17.** La participación en una carrera ilegal será sancionada con 1000 $.
 
-**Artículo 18.** La participación en una carrera ilegal será sancionada con 1000 $.
+**Artículo 18.** La circulación por zonas no habilitadas para vehículos conlleva una multa de 300 $.
 
 ***
 
