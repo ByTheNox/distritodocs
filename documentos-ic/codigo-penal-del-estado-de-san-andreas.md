@@ -52,7 +52,7 @@
 
 ***
 
-## <mark style="color:yellow;">**Capítulo II - Agresiones, Disturbios y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
+## <mark style="color:yellow;">**Capítulo II - Delitos contra la libertad, Integridad física y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
 
 **Artículo 1.** La alteración del orden público mediante comportamientos que generen caos o peligro será multado con 800 $.
 
