@@ -255,7 +255,7 @@
 
 **Artículo 11.** La huida de la justicia será sancionado con una multa de 1.500 $ y hasta 5 meses de prisión.
 
-**Artículo 12.\~**&#x45;l falso testimonio ante una autoridad será sancionado con 5.000 $ y hasta 5 meses de prisión.
+**Artículo 12.** El falso testimonio ante una autoridad será sancionado con 5.000 $ y hasta 5 meses de prisión.
 
 **Artículo 13.** La suplantación de identidad de un funcionario público será sancionada con una multa de 150.000 $ y hasta 50 meses de prisión.
 
@@ -327,7 +327,7 @@
 
 **Artículo 3.** La contaminación del medio ambiente mediante acciones deliberadas será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
-**Artículo 4.** La caza de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
+**Artículo 4.** La caza o pesca de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
 
 ***
 
