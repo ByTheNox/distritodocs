@@ -54,7 +54,7 @@
 
 ***
 
-## <mark style="color:yellow;">**Capítulo II - Delitos contra la libertad, Integridad física y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
+## <mark style="color:yellow;">**Capítulo II - Delitos Públicos y Conductas Erróneas**</mark> <a href="#o9da3mqnrwat" id="o9da3mqnrwat"></a>
 
 **Artículo 1.** La alteración del orden público mediante comportamientos que generen caos o peligro será multado con 800 $.
 
@@ -140,7 +140,7 @@
 
 ***
 
-## <mark style="color:yellow;">**Capítulo IV - Porte y Tenencia de Armas de Fuego y Objetos Ilegales**</mark> <a href="#lngzltpski3u" id="lngzltpski3u"></a>
+## <mark style="color:yellow;">**Capítulo IV - Porte y Tenencia de Armas de Fuego**</mark> <a href="#lngzltpski3u" id="lngzltpski3u"></a>
 
 **Artículo 1.** La posesión criminal de un arma blanca será sancionado con 1.000 $ y la retirada inmediata del arma. Se consideran armas ilegales aquellas que no se venden legalmente o cuyo uso contravenga la normativa.
 
