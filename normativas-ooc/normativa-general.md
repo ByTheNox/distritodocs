@@ -125,9 +125,8 @@ En el servidor <mark style="color:blue;">**no existe el PK ni el PKT**</mark>, p
 
 ### <mark style="color:blue;">**2.5 Uso de Vehículos Estatales**</mark>
 
-● Solo se pueden usar si perteneces a la facción correspondiente.
-
-● En caso de robo, debe ser última opción y se debe enviar entorno periódicamente.
+● Solo se pueden usar si perteneces a la facción correspondiente.\
+● En caso de robo, debe ser última opción y se debe enviar entorno periódicamente.
 
 ### <mark style="color:blue;">**2.6 Fairplay y Actitudes Competitivas**</mark>
 
