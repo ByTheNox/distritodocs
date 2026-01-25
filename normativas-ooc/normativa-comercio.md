@@ -1,4 +1,4 @@
-# 📘 Normativa COMERCIO
+# 📘 NORMATIVA COMERCIO
 
 ## <mark style="color:red;">INTRODUCCION</mark>
 
@@ -43,7 +43,7 @@ Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podr�
 
 * Los trabajadores tienen prohibido realizar actos ilegales en servicio o con el uniforme de trabajo.
 * No se podrá portar ni hacer uso de ningún tipo de arma estando de servicio.
-* Un miembro de banda no podra ser jefe de un local pero si podra trabajar en el,  sera necesario tener un testaferro regentando la gerencia del local en su nombre.
+* En caso de ser jefe o miembro de una banda abre ticket y consulta con administración para postular a un negocio.
 * Los locales regentados por bandas serán considerados territorio de la banda pudiendo ser asi utilizamos para la misma.
 * No está permitido utilizar un negocio para evadir un rol agresivo que ha comenzado fuera del mismo.
 
