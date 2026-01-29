@@ -35,6 +35,9 @@ description: Distrito Reforged Content Creator
 * **Prohibición de Actitudes Provocativas**: Está prohibido adoptar actitudes que fomenten indignación entre los espectadores, tales como comentarios negativos respecto a una situación de rol, berrinches, o cualquier expresión que transmita malestar innecesario.
 * **Uniformidad en el Comportamiento**: La normativa es aplicable a todos, sin excepciones, incluyendo al equipo de Administración.
 * **Obligación de Publicar Contenidos**: Es obligatorio que todos los videos que incluyan rol dentro del servidor se publiquen y permanezcan en la plataforma tanto tiempo como sea posible.
+* **Highlights**: Queda prohibido la creación y publicación de highlights dentro del servidor, este contenido fomenta la toxicidad y el pvp, cosa que no buscamos en DIstrito, buscamos un buen rol y ambiente sano.
+
+<br>
 
 ***
 
