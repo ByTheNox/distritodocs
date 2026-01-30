@@ -24,12 +24,7 @@ Los locales podrán establecer un máximo de cuatro convenios con otros comercio
 
 Es obligatorio para cada local realizar al menos dos eventos mensuales. En caso de no cumplir con esta obligación, el comercio podrá ser retirado. Los eventos pueden ser colaborativos, permitiendo la unión de varios locales para organizar actividades pero solo contabilizara al organizador principal como exposiciones de vehículos, sorteos, ferias temáticas, entre otros. Este tipo de iniciativas no solo enriquecen la experiencia de rol, sino que también ayudan a atraer más clientes y consolidar el prestigio del negocio.
 
-### <mark style="color:blue;">**2.3 Servicio de reparto**</mark>
 
-El servicio de reparto o 'delivery' es una función de los negocios de ocio y alimentación. Consiste en recibir pedidos de NPC y entragarlos a cambio de una propina. Este sistema tiene sus propias reglas;
-
-* Solamente los jefes y supervisores podrán realizar este servicio.
-* Debe haber mínimo 2 personas trabajando a la vez para poder ir a repartir, es decir, el local nunca se podrá dejar sin atender mientras haya alguien de servicio.
 
 ***
 
@@ -43,14 +38,15 @@ Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podr�
 
 * Los trabajadores tienen prohibido realizar actos ilegales en servicio o con el uniforme de trabajo.
 * No se podrá portar ni hacer uso de ningún tipo de arma estando de servicio.
-* En caso de ser jefe o miembro de una banda abre ticket y consulta con administración para postular a un negocio.
-* Los locales regentados por bandas serán considerados territorio de la banda pudiendo ser asi utilizamos para la misma.
-* No está permitido utilizar un negocio para evadir un rol agresivo que ha comenzado fuera del mismo.
+* En caso de ser jefe o miembro de una banda abre ticket y consulta con administración para adquirir o postular a un negocio.
+* Los locales regentados por bandas podrán ser considerados territorio de la banda pudiendo ser asi utilizamos para la misma. Además, podrían ser foco de investigaciones o redadas por parte de la autoridad policial.
+* No está permitido utilizar un negocio para evadir un rol agresivo que ha comenzado fuera del mismo y será motivo de sanción.
 
 ### <mark style="color:blue;">**3.3 Desempeño y obligaciones**</mark>
 
 * Es obligatorio que cada empleado pase por una entrevista inicial antes de ser contratado. Además, los gerentes no podrán quedarse de servicio cuando se encuentren negociando convenios con otros locales, debiendo salir de servicio para dichas actividades. Todo trabajador debe desempeñar sus funciones únicamente dentro de su local asignado.
-* Asi mismo, es OBLIGATORIO permanener al menos 30 minutos en el puesto de trabajo una vez iniciado el servicio.
+* Así mismo, es OBLIGATORIO permanener al menos 30 minutos en el puesto de trabajo una vez iniciado el servicio.
+* Está totalmente prohibido salir del lugar de trabajo estando de servicio, incluido el gerente del negocio.
 
 ***
 
@@ -60,11 +56,11 @@ Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podr�
 
 * **Neumáticos:** No se podrán colocar neumáticos off-road en vehículos deportivos en ningún caso.
 * **Artículos ilegales:** Está estrictamente prohibida la venta de placas falsas, drogas, armas o cualquier otro artículo ilegal en los locales, ya sean talleres, restaurantes u otros.
-* Maximo de ventas: La venta estara limitada a un maximo de 10 utiles de comida y 10 de bebida en cada local ( Es un limite por usuario)
+* **Máximo de ventas:** La venta estará limitada a un máximo de _**10 utiles de comida y 10 de bebida**_ en cada local (Es un limite por usuario) y un máximo diario de _**100 utiles de comida y 100 utiles de bebida**_ de una empresa a otra, únicamente pudiendo adquirir estas cantidades un jefe de local.
 
 ### <mark style="color:blue;">**4.2 Beneficios para empleados**</mark>
 
-Todos los empleados tendrán derecho a un descuento del 15% en los productos o servicios de su local. En el caso de restaurantes, se incluirá un menú gratuito diario para cada empleado. En talleres, este descuento se aplicará únicamente a reparaciones, pero no al tuneo de vehículos.
+Todos los empleados tendrán derecho a un descuento del 15% en los productos o servicios de su local. En el caso de restaurantes, se incluirá un menú gratuito diario para cada empleado. En talleres, este descuento se aplicará únicamente a reparaciones, pero **no** al tuneo de vehículos.
 
 ***
 
@@ -72,7 +68,7 @@ Todos los empleados tendrán derecho a un descuento del 15% en los productos o s
 
 ### <mark style="color:blue;">**5.1 Trabajos rápidos**</mark>
 
-Los jugadores desempleados podrán realizar trabajos temporales, como basurero u otras actividades. Sin embargo, si un jugador con empleo en un local realiza trabajos rápidos con el propósito de “farmear” dinero, será sancionado severamente.
+Los jugadores desempleados podrán realizar trabajos temporales, como minero u otras actividades. Sin embargo, si un jugador con empleo en un local realiza trabajos rápidos con el propósito de “farmear” dinero, será sancionado severamente.
 
 ### <mark style="color:blue;">**5.2 Penalizaciones por incumplimiento**</mark>
 
