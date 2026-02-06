@@ -327,7 +327,7 @@
 
 **Artículo 3.** La contaminación del medio ambiente mediante acciones deliberadas será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
-**Artículo 4.** La caza o pesca de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 20.000 $ y hasta 15 meses de prisión.
+**Artículo 4.** La caza o pesca de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 1500$ y hasta 10 meses de prisión.
 
 ***
 
