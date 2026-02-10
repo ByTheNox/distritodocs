@@ -73,3 +73,16 @@ Los jugadores desempleados podrán realizar trabajos temporales, como minero u o
 ### <mark style="color:blue;">**5.2 Penalizaciones por incumplimiento**</mark>
 
 El incumplimiento de cualquiera de estas normativas podrá llevar a sanciones IC y OOC, incluyendo la revocación del comercio o sanciones administrativas al jugador. Es responsabilidad de cada gerente y empleado asegurarse de cumplir con las normas establecidas para mantener la coherencia y el equilibrio en la economía del servidor.
+
+
+
+6. MULTIEMPLEO<br>
+
+6.1 MULTIPLES EMPLEOS
+
+Los jugadores pueden tener multiples empleos a excepcion de: Policia, EMS o Jefes de algun establecimiento. Policia y EMS podran ser dueños mediante postulacion previo pago IC.<br>
+
+6.2 EMPLEOS SIMULTANEOS
+
+Esta terminantemente prohibido realizar actividades ( pesca, agricultura, leñador ) Mientras estan de servicio en su/sus trabajos.\
+Es muy importante que los jugadores salgan de servicio para ir a otro trabajo, actividad o simplemente terminar la jornada.  En caso de ver que un jugador utiliza mal esta nueva mecanica, sera sancionado y se le podria limitar el uso del sistema de Multiempleo.
