@@ -74,15 +74,31 @@ Los jugadores desempleados podrán realizar trabajos temporales, como minero u o
 
 El incumplimiento de cualquiera de estas normativas podrá llevar a sanciones IC y OOC, incluyendo la revocación del comercio o sanciones administrativas al jugador. Es responsabilidad de cada gerente y empleado asegurarse de cumplir con las normas establecidas para mantener la coherencia y el equilibrio en la economía del servidor.
 
+***
 
+## <mark style="color:purple;">6. Multiempleo</mark>
 
-6. MULTIEMPLEO<br>
+### <mark style="color:blue;">**6.1 Múltiples empleos**</mark>
 
-6.1 MULTIPLES EMPLEOS
+Está permitido que los jugadores puedan tener múltiples empleos, con algunas excepciones:
 
-Los jugadores pueden tener multiples empleos a excepcion de: Policia, EMS o Jefes de algun establecimiento. Policia y EMS podran ser dueños mediante postulacion previo pago IC.<br>
+* Ningún miembro del SAPD o SAES podrá trabajar en otro trabajo.
+* El jefe de algún establecimiento no podrá trabajar en otro trabajo.
 
-6.2 EMPLEOS SIMULTANEOS
+{% hint style="success" %}
+**Cualquier EMS o Policía** <mark style="color:$success;">**podrá ser DUEÑO de un establecimiento previo pago IC**</mark>**&#x20;(El precio dependerá del local)**
+{% endhint %}
 
-Esta terminantemente prohibido realizar actividades ( pesca, agricultura, leñador ) Mientras estan de servicio en su/sus trabajos.\
-Es muy importante que los jugadores salgan de servicio para ir a otro trabajo, actividad o simplemente terminar la jornada.  En caso de ver que un jugador utiliza mal esta nueva mecanica, sera sancionado y se le podria limitar el uso del sistema de Multiempleo.
+### <mark style="color:blue;">**6.2 Empleos simultáneos**</mark>
+
+**Esta completamente PROHIBIDO realizar actividades (pesca, agricultura, leñador) mientras el jugador esté de servicio en su respectivo trabajo. Es muy importante que el jugador se asegure de salir de servicio antes de ir a una actividad, otro trabajo o simplemente finalizar su jornada.**
+
+{% hint style="warning" %}
+En caso de ver que un jugador utilice <mark style="color:yellow;">**de manera errónea**</mark> esta mecánica, <mark style="color:yellow;">**será sancionable y se podría limitar el uso del sistema de multiempleo.**</mark>
+{% endhint %}
+
+{% hint style="info" %}
+Un trabajador de un local podrá realizar los pedidos de su propio negocio, <mark style="color:blue;">**siempre y cuando dé prioridad y oportunidad de hacerlo a aquellos players que estén repartiendo de manera habitual.**</mark> \
+\
+**Administración puede ver en tiempo real ese dato, por lo que cualquier forma de farmeo mediante la actividad de repartidor podrá ser sancionada.**
+{% endhint %}
