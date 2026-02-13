@@ -7,7 +7,7 @@ description: Distrito Reforged Content Creator
 {% hint style="warning" %}
 <mark style="color:yellow;">📢</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Importante para Todos los Streamers**</mark>
 
-<mark style="color:yellow;">**Cualquier persona que haga directos, ya sea con o sin el rango de DTCC, debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.**</mark>
+<mark style="color:yellow;">**Cualquier persona que haga directos,  con el rango de DTCC, debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.**</mark>
 
 <mark style="color:yellow;">**Recuerden, el cumplimiento de la normativa es obligatorio para todos y garantiza que el contenido generado refleje el ambiente de rol justo y entretenido que todos deseamos.**</mark>&#x20;
 {% endhint %}
@@ -15,9 +15,10 @@ description: Distrito Reforged Content Creator
 {% hint style="info" %}
 <mark style="color:blue;">**Para solicitar el rango de DTCC debes de cumplir los siguientes requisitos:**</mark>
 
-* <mark style="color:blue;">**Debes tener un promedio de al menos 5 espectadores concurrentes en Twitch.**</mark>
+
+
 * <mark style="color:blue;">**Es necesario que tengas el estatus de afiliado en Twitch.**</mark>
-* <mark style="color:blue;">**Debes haber realizado al menos dos transmisiones de nuestro servidor antes de hacer la solicitud para el rango de Streamer.**</mark>
+* <mark style="color:blue;">**Debes haber realizado al menos 10 transmisiones en tu canal durante los ultimos 30 dias antes de hacer la solicitud para el rango de Streamer.**</mark>
 * <mark style="color:blue;">**Debes contar con al menos una semana de actividad regular en nuestro servidor.**</mark>
 * <mark style="color:blue;">**No se permite que los solicitantes tengan sanciones graves en su historial dentro del servidor.**</mark>
 * <mark style="color:blue;">**La calidad del canal es fundamental. Tus transmisiones deben ser de al menos 720p con 30 FPS o superior.**</mark>
