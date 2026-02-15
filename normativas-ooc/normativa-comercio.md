@@ -18,7 +18,7 @@ Actualmente existen dos vias para conseguir un negocio, o bien por donación de 
 
 ### <mark style="color:blue;">**2.1 Convenios**</mark>
 
-Los locales podrán establecer un máximo de cuatro convenios con otros comercios ( Estos no afectan entre locales del mismo gremio o eventos). Estos convenios permitirán, por ejemplo, ofrecer un descuento de hasta el 15% en talleres o en restaurantes para comida y bebida. Adicionalmente, a las fuerzas del orden (Policía/Sheriff) y EMS se les podrá otorgar un descuento especial del 30%. Estas colaboraciones están diseñadas para fomentar la interacción entre los locales y la comunidad, beneficiando tanto a los negocios como a los clientes.
+Los locales podrán establecer un máximo de cuatro convenios con otros comercios ( Estos no afectan entre locales del mismo gremio o eventos). Estos convenios permitirán, por ejemplo, ofrecer un descuento de hasta el 20% en talleres o en restaurantes para comida y bebida. Adicionalmente, a las fuerzas del orden (Policía/Sheriff) y EMS se les podrá otorgar un descuento especial del 30%. Estas colaboraciones están diseñadas para fomentar la interacción entre los locales y la comunidad, beneficiando tanto a los negocios como a los clientes.
 
 ### <mark style="color:blue;">**2.2 Eventos**</mark>
 
