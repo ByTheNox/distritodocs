@@ -188,6 +188,8 @@
 
 **Artículo 5.** El delito de Narcotráfico se aplicará a quienes porten 250 o más unidades de sustancias ilegales o las almacenen en propiedades o vehículos. Será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
+**Artículo 6.** La plantación de sustancias controladas, ya sea en suelo público o privado, será penada con una multa de 2.500 $.
+
 ***
 
 ## <mark style="color:yellow;">**Capítulo VI - Delitos contra la Integridad Física del Ciudadano**</mark> <a href="#wmttase05ait" id="wmttase05ait"></a>
