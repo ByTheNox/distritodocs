@@ -107,7 +107,7 @@
 **Artículo 5.**\
 (a) Robo menor será sancionado con 1.500 $ y hasta 10 meses de prisión. La multa será aplicada a cada participante.\
 \
-(b) Robo en viviendas será sancionado con 2.500 $ y hasta 10 meses de prisión. La multa será aplicada a cada participante.
+(b) Robo con allanamiento será sancionado con 2.500 $ y hasta 10 meses de prisión. La multa será aplicada a cada participante.
 
 **Artículo 6.**\
 (a) Robo en armerías será sancionado con 8.300 $ y hasta 15 meses de prisión. La multa será aplicada a cada participante.
@@ -149,11 +149,10 @@
 * Cuchillo
 * Bate
 * Palanca
-* Hacha
 
 **Artículo 3.** La posesión negligente de un arma de fuego legal utilizada con fines ilegales conllevará una sanción de 5.000 $ y la retirada inmediata de la licencia de armas.
 
-**Artículo 4.** La posesión criminal de un arma de fuego ilegal se sancionará acumulativamente según el calibre:
+**Artículo 4.** La posesión criminal de un arma de fuego se sancionará acumulativamente según el calibre:
 
 * Pistolas de bajo calibre: 5.000 $ y hasta 5 meses de prisión.
 * Armas automáticas de calibre medio: 10.000 $ y hasta 10 meses de prisión.
@@ -174,11 +173,11 @@
 **Artículo 1.** La posesión criminal de sustancias controladas será sancionada según las siguientes disposiciones:
 
 1. **Para consumo propio:**
-   * Hasta 4 unidades de porros son permitidos para consumo personal.
-   * Más de 10 unidades o bolsas de cualquier sustancia se considerará tráfico de drogas.
+   * Hasta 5 unidades de porros son permitidos para consumo personal.
+   * Más de 3 unidades o bolsas de cualquier sustancia se considerará tráfico de drogas.
 2. **Sanciones por cantidades superiores:**
-   * Drogas blandas: hasta 150 $ por unidad. Más de 15 bolsas: Pena de hasta 5 meses de prisión
-   * Drogas duras: hasta 250 $ por unidad. Más de 10 bolsas: pena de hasta 10 meses de prisión.
+   * Drogas blandas: hasta 150 $ por unidad.
+   * Drogas duras: hasta 250 $ por unidad.&#x20;
 
 **Artículo 2.** Las sustancias controladas destinadas exclusivamente para el consumo propio serán retiradas de forma inmediata por las autoridades sin cargos adicionales.
 
@@ -188,13 +187,17 @@
 
 **Artículo 5.** El delito de Narcotráfico se aplicará a quienes porten 250 o más unidades de sustancias ilegales o las almacenen en propiedades o vehículos. Será sancionado según lo dispuesto por un juez en aplicación de la Ley RICO.
 
-**Artículo 6.** La plantación de sustancias controladas, ya sea en suelo público o privado, será penada con una multa de 2.500 $.
+**Artículo 6.** La plantación de sustancias controladas, ya sea en suelo público o privado, será penada con una multa de 2.500 $.\
+\
+**Artículo 7.** La posesión criminal de estupefacientes blandos en cantidades superiores a tres gramos será sancionada con 150 $ por cada gramo adicional del permitido. En caso de encontrarse preparada para el consumo mezclada con tabaco el máximo asciende a cinco unidades permitidas.\
+\
+**Artículo 8.** La posesión criminal de estupefacientes duros será sancionada con 250 $ por gramo/unidad, no habiendo límite legal de estas.<br>
 
 ***
 
 ## <mark style="color:yellow;">**Capítulo VI - Delitos contra la Integridad Física del Ciudadano**</mark> <a href="#wmttase05ait" id="wmttase05ait"></a>
 
-**Artículo 1.** El intento de secuestro a un civil será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión. Este delito no incluirá cargos adicionales como "huir de la justicia" salvo circunstancias agravantes.
+**Artículo 1.** El intento de secuestro a un civil será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
 **Artículo 2.** El secuestro a un civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
 
@@ -206,7 +209,7 @@
 \
 (c) **Primer grado:** Actos premeditados para causar la muerte. Multa de 19.000 $ y hasta 30 meses de prisión.
 
-**Artículo 4.** El homicidio homicidio será sancionado de acuerdo con el grado del delito:\
+**Artículo 4.** El homicidio será sancionado de acuerdo con el grado del delito:\
 \
 (a) **Tercer grado:** Muerte causada sin intención directa. Multa de 15.000 $ y hasta 20 meses de prisión.\
 \
@@ -227,11 +230,9 @@
 
 ## <mark style="color:yellow;">**Capítulo VII - Delitos contra la Administración Pública**</mark> <a href="#y8xjsxb4n0bw" id="y8xjsxb4n0bw"></a>
 
-**Artículo 1.** Las amenazas, los insultos y las desobediencias a un funcionario público será sancionado según lo siguiente:\
-(a) Primera desobediencia: multa de 1.500 $.\
-(b) Por cada orden omitida adicional: incremento de hasta 5 meses de prisión.
+**Artículo 1.** Las amenazas, los insultos y las desobediencias a un funcionario público será sancionado con 1.500 $, siendo este cargo acumulable.
 
-**Artículo 2.** Los insultos a un funcionario público en el desempeño de sus funciones será sancionado con una multa de 750 $, siendo esta sanción acumulativa en función a la cantidad de insultos dirigidos hacia el agente.
+**Artículo 2.** Las faltas de respeto a un funcionario público en el desempeño de sus funciones será sancionado con una multa de 750 $, siendo esta sanción acumulativa en función a la cantidad de insultos dirigidos hacia el agente.
 
 **Artículo 3.** El daño a vehículos gubernamentales será sancionado con una multa de 750 $ y será acumulable según el nivel de los daños causados.
 
