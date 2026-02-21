@@ -77,7 +77,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
-* En los robos a Casas, se podrá abandonar la zona una vez conseguido el botín.
+* En los robos a Casas, se podrá abandonar la zona una vez conseguido el botín. Si llega la policia, se debera realizar una negociacion para salir con los rehenes que se encuentran "durmiendo" en su interior ( Unicamente se roleara 1 rehen )
 * En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
 
 {% hint style="warning" %}
@@ -117,7 +117,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periódica. \
   (2 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se deberá enviar un entorno.
-* Se podrá realizar venta de drogas con vehículos robados y vehículos personales.
+* Se podrá realizar venta de drogas con vehículos robados y vehículos personales siempre que no sean de alta gama.
 * En caso de encontrar una plantación controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
 
 {% hint style="danger" %}

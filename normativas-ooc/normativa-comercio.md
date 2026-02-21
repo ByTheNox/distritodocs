@@ -68,7 +68,8 @@ Todos los empleados tendrán derecho a un descuento del 15% en los productos o s
 
 ### <mark style="color:blue;">**5.1 Trabajos rápidos**</mark>
 
-Los jugadores desempleados podrán realizar trabajos temporales, como minero u otras actividades. Sin embargo, si un jugador con empleo en un local realiza trabajos rápidos con el propósito de “farmear” dinero, será sancionado severamente.
+* Los jugadores desempleados podrán realizar trabajos temporales, como minero u otras actividades. Sin embargo, si un jugador con empleo en un local realiza trabajos rápidos con el propósito de “farmear” dinero, será sancionado severamente.
+* Queda completamente prohibido utilizar las herramientas de los trabajos legales como armas ( hachas, picos, etc )<br>
 
 ### <mark style="color:blue;">**5.2 Penalizaciones por incumplimiento**</mark>
 
