@@ -7,7 +7,7 @@ description: Distrito Reforged Content Creator
 {% hint style="warning" %}
 <mark style="color:yellow;">📢</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Importante para Todos los Streamers**</mark>
 
-<mark style="color:yellow;">**Cualquier persona que haga directos,  con el rango de DTCC, debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.**</mark>
+<mark style="color:yellow;">**Cualquier persona que haga directos,  debe contar con el rango de DTCC y debe cumplir con la normativa de directos establecida por el servidor. El rango de DTCC no es una excepción a las reglas, sino un reconocimiento especial a quienes forman parte del grupo de streamers oficiales de nuestro servidor.**</mark>
 
 <mark style="color:yellow;">**Recuerden, el cumplimiento de la normativa es obligatorio para todos y garantiza que el contenido generado refleje el ambiente de rol justo y entretenido que todos deseamos.**</mark>&#x20;
 {% endhint %}
