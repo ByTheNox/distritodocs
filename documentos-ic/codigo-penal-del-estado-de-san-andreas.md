@@ -226,6 +226,8 @@
 
 **Artículo 7.** El terrorismo será sancionado con una multa de 400.000 $ y una condena de 25 años a cadena perpetua según sea considerado por un Juez. Se considerará terrorismo cualquier acto que emplee explosivos o vehículos contra edificios o personas con la intención de causar daño o sembrar el terror.
 
+**Artículo 8.** La participación en actividades de lucha o peleas de carácter ilegal será sancionada con 1000$.
+
 ***
 
 ## <mark style="color:yellow;">**Capítulo VII - Delitos contra la Administración Pública**</mark> <a href="#y8xjsxb4n0bw" id="y8xjsxb4n0bw"></a>
