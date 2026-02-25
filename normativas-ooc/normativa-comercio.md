@@ -57,6 +57,7 @@ Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podr�
 * **Neumáticos:** No se podrán colocar neumáticos off-road en vehículos deportivos en ningún caso.
 * **Artículos ilegales:** Está estrictamente prohibida la venta de placas falsas, drogas, armas o cualquier otro artículo ilegal en los locales, ya sean talleres, restaurantes u otros.
 * **Máximo de ventas:** La venta estará limitada a un máximo de _**10 utiles de comida y 10 de bebida**_ en cada local (Es un limite por usuario) y un máximo diario de _**100 utiles de comida y 100 utiles de bebida**_ de una empresa a otra, únicamente pudiendo adquirir estas cantidades un jefe de local.
+* Algunos locales seran habilitados por administracion para realizar blanqueo de capital a grupos ilegales. Este proceso debera buscarse ic y ser llevado con cabeza, de lo contratio, tendra graves consecuencias ic.
 
 ### <mark style="color:blue;">**4.2 Beneficios para empleados**</mark>
 
