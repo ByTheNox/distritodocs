@@ -87,7 +87,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería y Ammunations)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuentes y un máximo de 6 (Un mínimo de 3 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas hasta 8 agentes.
-* Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego por cada integrante, tan solo queda excluido de esta norma el jugador que realice el bloqueo en caso de hacer uno.
+* Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego 1 de los integrantes.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podrá abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
@@ -127,7 +127,7 @@ El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:
 ### <mark style="color:blue;">3.1. Miembros de la Organización</mark>
 
 {% hint style="warning" %}
-**Las bandas oficiales tendrán un mínimo de 5 integrantes y no existirá limite de miembros, las PDB tendran un mínimo de 5 miembros y limite de 15 miembros.**
+**Las bandas oficiales tendrán un mínimo de 5 integrantes y un maximo de 20, las PDB tendran un mínimo de 5 miembros y limite de 15 miembros.**
 {% endhint %}
 
 * **Proyectos de Banda (PDB):** Deben realizar una postulación a través del formulario disponible en discord.<br>
