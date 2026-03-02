@@ -87,7 +87,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería y Ammunations)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuentes y un máximo de 6 (Un mínimo de 3 dentro del local). La policía puede participar con un máximo de 3 patrullas y 1 helicóptero o 4 patrullas hasta 8 agentes.
-* Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar un arma de fuego 1 de los integrantes.
+* Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar mínimo un arma de fuego 1 de los integrantes y armas de filo cortante por parte de los demás.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podrá abandonar la zona hasta que acuda la policía.
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
