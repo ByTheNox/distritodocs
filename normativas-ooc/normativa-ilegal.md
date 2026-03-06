@@ -98,7 +98,13 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 
 * Está prohibido robar vehículos de organizaciones estatales o empresas, salvo en casos extremos donde sea imprescindible para la supervivencia del personaje.
 * Queda terminantemente prohibido el uso de vehículos para desguace / coches de importación para realizar cualquier acto ilegal.
-* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehículo.
+* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehículo.<br>
+
+### [<mark style="color:blue;">**2.3.1 Desguace de Vehículos**</mark>](#user-content-fn-1)[^1]
+
+* En esta actividad podran participar como máximos 2 jugadores.
+* Es obligatorio el uso del /entorno al robar el vehiculo y al desguazarlo
+* Se debera portar almenos 1 arma de filo cortante para dicha actividad.
 
 ### <mark style="color:blue;">2.4. Boosting</mark>
 
@@ -214,3 +220,5 @@ Las pawnshop, al igual que las zonas de desguace y tiendas legales de cultivos, 
 {% hint style="danger" %}
 Queda <mark style="color:red;">**completamente prohibido el campeo o control de cualquiera de estas zonas.**</mark>
 {% endhint %}
+
+[^1]: 
