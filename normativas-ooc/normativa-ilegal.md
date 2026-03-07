@@ -117,9 +117,10 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 ### <mark style="color:blue;">2.5. Venta de drogas y Plantaciones</mark>
 
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periódica. \
-  (2 minutos)
+  (1 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se deberá enviar un entorno.
 * Se podrá realizar venta de drogas con vehículos robados y vehículos personales siempre que no sean de alta gama respetando la interpretación del entorno en la zona correspondiente. (Ejemplo: No esta permitido vender en un coche en el paseo de la playa, lo correcto seria usar una bicicleta.)
+* Es OBLIGATORIO vender a un mínimo de 3 NPC antes de abandonar la zona, esta prohibido vender a un NPC e irse a otra zona.
 * En caso de encontrar una plantación controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
 
 {% hint style="danger" %}

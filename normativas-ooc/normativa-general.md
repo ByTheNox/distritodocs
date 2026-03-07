@@ -14,29 +14,29 @@ En Distrito Reforged, recordamos que, al final del día, todos somos personas y 
 
 ### <mark style="color:blue;">**1.1. Nombre del personaje e interpretación**</mark>
 
-● La interpretación del personaje es la norma principal del servidor.\
-● El nombre del personaje debe ser realista y acorde al entorno de rol. Evita nombres\
+\- La interpretación del personaje es la norma principal del servidor.\
+\- El nombre del personaje debe ser realista y acorde al entorno de rol. Evita nombres\
 de personajes famosos o referencias fuera de lugar.\
-● Todos los jugadores deben tener una correcta IDP y seguir el lore del servidor. Más\
+\- Todos los jugadores deben tener una correcta IDP y seguir el lore del servidor. Más\
 aún si pertenecen a una banda lore.
 
-● En caso de no cumplir el lore, la banda podrá ser retirada\
+\- En caso de no cumplir el lore, la banda podrá ser retirada\
 administrativamente sin previo aviso y se podrá aplicar un CK.\
-● Se podra realizar ck administrativo en caso de no cumplir alguno de los\
+\- Se podra realizar ck administrativo en caso de no cumplir alguno de los\
 anteriores puntos.
 
 ### <mark style="color:blue;">1.2. In Character (IC) y Out of Character (OOC)</mark>
 
-● IC: Toda interacción que realizamos con nuestro personaje en la ciudad.\
-● OOC: Todo lo que se habla desde nuestra persona fuera del personaje.<br>
+\- IC: Toda interacción que realizamos con nuestro personaje en la ciudad.\
+\- OOC: Todo lo que se habla desde nuestra persona fuera del personaje.<br>
 
 _**Prohibiciones:**_\
-● Usar programas externos como Discord, TeamSpeak3 o similares durante el rol.\
-● Realizar comentarios OOC y pseudo-OOC como “nube”, “tormenta”, “hablar en\
+\- Usar programas externos como Discord, TeamSpeak3 o similares durante el rol.\
+\- Realizar comentarios OOC y pseudo-OOC como “nube”, “tormenta”, “hablar en\
 chino”, etc.\
-● Usar accesorios como cascos, chalecos, paracaídas o cartucheras en vía pública sin\
+\- Usar accesorios como cascos, chalecos, paracaídas o cartucheras en vía pública sin\
 justificación.\
-● Usar términos como “músculo”, “mente”, o cortar roles mediante chat de voz OOC.
+\- Usar términos como “músculo”, “mente”, o cortar roles mediante chat de voz OOC.
 
 ### <mark style="color:blue;">**1.3. Uso del /me y /do**</mark>
 
@@ -51,14 +51,14 @@ Ejemplo:
 
 Con el objetivo de mantener una experiencia justa y equilibrada para todos los jugadores, queda ● Simula todo lo que nos rodea como si fuera una ciudad real.\
 \
-● Cámaras en establecimientos, ciudadanos mirando, etc., deben ser tenidos en\
+\- Cámaras en establecimientos, ciudadanos mirando, etc., deben ser tenidos en\
 cuenta.\
-● Está prohibido rolear cámaras "GoPro", GPS, localizadores o monitores vitales en el\
+\- Está prohibido rolear cámaras "GoPro", GPS, localizadores o monitores vitales en el\
 cuerpo.\
 \
 Uso obligatorio del comando /entorno:\
-● Para actos ilegales, portar armas, máscaras o cascos en público.\
-● En interacciones ilegales entre dos partes, la parte agresora debe enviarlo.\
+\- Para actos ilegales, portar armas, máscaras o cascos en público.\
+\- En interacciones ilegales entre dos partes, la parte agresora debe enviarlo.\
 <mark style="color:red;">Ejemplo:</mark> En un atraco, el atracador debe realizar el entorno detalladamente.
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
@@ -174,6 +174,8 @@ El CK supone la muerte definitiva del personaje junto con la pérdida de bienes 
 * Tras sufrir un CK debe de crearse un PJ completamente diferente, no esta permitido rolear de familiar, amigo o conocido de tu anterior personaje.
 * Antes de realizar / rolear un CK hacia otro jugador, este debe ser solicitado y aprobado anteriormente por la administración.
 * Tras abandonar una facción, ya sea bandas, policía o EMS, se deberá de esperar 1 semana para ingresar a una nueva facción.
+* Tras abandonar la policia se aplicara un ck salvo que sea para retirarse del cuerpo y dedicarse a una vida civil y legal.\
+  Si se le detiene en un acto ilícito por menor que sea o perteneciendo a una banda, recibirá cadena perpetua.<br>
 
 ### <mark style="color:blue;">**4.2 Tipos de CK**</mark>
 
