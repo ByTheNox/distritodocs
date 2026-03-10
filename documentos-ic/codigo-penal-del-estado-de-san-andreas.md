@@ -199,7 +199,7 @@
 
 **Artículo 1.** El intento de secuestro a un civil será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
-**Artículo 2.** El secuestro a un civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión.
+**Artículo 2.** El secuestro a un civil será sancionado con una multa de 15.000 $ y hasta 15 meses de prisión. El secuestro de 10 o más civiles de forma simultánea por la misma persona o grupo organizado será considerado Terrorismo.
 
 **Artículo 3.** El intento de homicidio a un civil será sancionado de acuerdo con la gravedad del acto:\
 \
