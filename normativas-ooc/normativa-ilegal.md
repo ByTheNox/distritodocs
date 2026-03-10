@@ -70,6 +70,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * No se podrán realizar robos 15 minutos antes y después del reinicio.
 * En todos los robos en el norte, se debe realizar al menos 15 minutos de persecución por el norte antes de bajar al sur.
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
+* Los agentes de policía caninos (K9) no serán contabilizados como agentes a la hora de aquellos robos con límite de policía debido a que no tienen independencia y dependen única y exclusivamente de su handler.
 
 ### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, Badulaques, Tiendas de Tattoo, Peluquerías)</mark>
 
