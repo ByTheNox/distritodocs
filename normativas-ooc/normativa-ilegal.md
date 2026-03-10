@@ -93,6 +93,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
 * Entre robo y robo deberán pasar mínimo 1 hora de margen.
 * NO se podrá rolear los rehenes ficticios o con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
+* Para realizar este robo, es necesario pertenecer a una BANDA OFICIAL
 
 ### <mark style="color:blue;">2.3. Robos de Vehículos</mark>
 
