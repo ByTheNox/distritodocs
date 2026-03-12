@@ -38,6 +38,7 @@ Cada local tiene la potestad de emplear un máximo de 15 personas. Solo se podr�
 
 * Los trabajadores tienen prohibido realizar actos ilegales en servicio o con el uniforme de trabajo.
 * No se podrá portar ni hacer uso de ningún tipo de arma estando de servicio.
+* El capital del establecimiento no podrá ser utilizado para beneficio de la banda o pdb.
 * En caso de ser jefe o miembro de una banda abre ticket y consulta con administración para adquirir o postular a un negocio.
 * Los locales regentados por bandas podrán ser considerados territorio de la banda pudiendo ser asi utilizamos para la misma. Además, podrían ser foco de investigaciones o redadas por parte de la autoridad policial.
 * No está permitido utilizar un negocio para evadir un rol agresivo que ha comenzado fuera del mismo y será motivo de sanción.
