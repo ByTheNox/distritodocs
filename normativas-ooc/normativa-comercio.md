@@ -105,3 +105,9 @@ Un trabajador de un local podrá realizar los pedidos de su propio negocio, <mar
 \
 **Administración puede ver en tiempo real ese dato, por lo que cualquier forma de farmeo mediante la actividad de repartidor podrá ser sancionada.**
 {% endhint %}
+
+## <mark style="color:purple;">7. Fondos del negocio</mark>
+
+### <mark style="color:blue;">**7.1 Renovación mensual**</mark>
+
+**Una vez finalizada la mensualidad de un local y no ser renovada, el dueño del negocio solo podrá retirar un 20% de los fondos que tenga el local en el banco a día de la finalización.**
