@@ -230,7 +230,7 @@ Ningún usuario se aprovechará de errores o exploits para beneficiarse. El incu
 Antes de que se cometa un acto delictivo se deberá enviar un comando /entorno describiendo los hechos. Las zonas de entorno deben ser valoradas de acuerdo al contexto (por ejemplo, una zona poco transitada en la montaña vs. una calle concurrida).
 
 {% hint style="info" %}
-<mark style="color:blue;">**Ejemplo:**</mark> <mark style="color:$info;">**/entorno Ayuda!! Un señor con una mascara de mono y vestido con ropa de color negra y amarilla esta robando el badulaque de alado de mi casa! Tiene un vehículo de 4 ruedas deportivo color azul en la puerta, no alcanzo a ver la matricula**</mark>
+**Ejemplo:** <mark style="color:blue;">**/entorno Ayuda!! Un señor con una mascara de mono y vestido con ropa de color negra y amarilla esta robando el badulaque de alado de mi casa! Tiene un vehículo de 4 ruedas deportivo color azul en la puerta, no alcanzo a ver la matricula**</mark>
 {% endhint %}
 
 ### <mark style="color:blue;">**6.2 Uso del /auxilio**</mark>
@@ -238,7 +238,7 @@ Antes de que se cometa un acto delictivo se deberá enviar un comando /entorno d
 El /auxilio se utilizará para enviar un aviso a los cuerpos médicos cuando sea necesario y siempre en áreas con movimiento de personas.
 
 {% hint style="info" %}
-<mark style="color:blue;">**Ejemplo**</mark>: <mark style="color:$info;">**/auxilio Estoy viendo desde mi ventana a un hombre desangrándose en el suelo, parece que le han atropellado, necesita una ambulancia seguro!**</mark>
+**Ejemplo**: <mark style="color:blue;">**/auxilio Estoy viendo desde mi ventana a un hombre desangrándose en el suelo, parece que le han atropellado, necesita una ambulancia seguro!**</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/asdas.png" alt=""><figcaption></figcaption></figure>
