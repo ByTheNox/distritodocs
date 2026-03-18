@@ -16,13 +16,14 @@ En Distrito Reforged, recordamos que, al final del día, todos somos personas y 
 
 \- La interpretación del personaje es la norma principal del servidor.\
 \- El nombre del personaje debe ser realista y acorde al entorno de rol. Evita nombres\
-de personajes famosos o referencias fuera de lugar.\
+de personajes famosos o referencias fuera de lugar.\
+\- No esta permitido crear personajes menores de edad, el mínimo de edad de un personaje debe ser de 18 años.\
 \- Todos los jugadores deben tener una correcta IDP y seguir el lore del servidor. Más\
 aún si pertenecen a una banda lore.
 
 \- En caso de no cumplir el lore, la banda podrá ser retirada\
 administrativamente sin previo aviso y se podrá aplicar un CK.\
-\- Se podra realizar ck administrativo en caso de no cumplir alguno de los\
+\- Se podrá realizar ck administrativo en caso de no cumplir alguno de los\
 anteriores puntos.
 
 ### <mark style="color:blue;">1.2. In Character (IC) y Out of Character (OOC)</mark>
