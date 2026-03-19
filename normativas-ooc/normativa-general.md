@@ -252,7 +252,9 @@ Ningún jugador podrá parar o evadir un rol en curso. Si se requiere asistencia
 
 No se atenderá ningún tipo de reporte o queja sobre roles si no es por el canal correspondiente.
 
-Para la resolución de conflicto se debe ser acorde y actuar en proporción, si te insultan verbalmente o agreden físicamente deberás actuar en consecuencia.
+Para la resolución de conflicto se debe ser acorde y actuar en proporción, si te insultan verbalmente o agreden físicamente deberás actuar en consecuencia.\
+\
+Queda prohibido meterse en rol ajeno, no esta permitido intervenir en un rol o acto delictivo de terceros hasta su finalizacion.
 
 ### <mark style="color:blue;">**7.2. Conducta en el Servidor**</mark>
 
