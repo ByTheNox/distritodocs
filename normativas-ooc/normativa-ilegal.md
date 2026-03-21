@@ -48,8 +48,10 @@ Un ajuste de cuentas, ya sea contra un individuo o una organización, deberá es
 
 ### <mark style="color:blue;">1.5. Territorios de Bandas</mark>
 
-* Se podrá disputar cualquier barrio en el que la banda dominante tenga menos del 100% de influencia en esa zona, menos el barrio principal que solo se podrá disputar en caso de guerra autorizada por administración.
-* En barrios conquistados que no sean el inicial de la banda se podrá aplicar CK a personas externas a dicho grupo siempre y cuando se tenga el 100% de influencia en ese barrio. Estos CK deberán ser grabados y enviados a administración mediante ticket para su aprobación.
+* Se podrá disputar cualquier barrio en que otra banda tenga influencia en esa zona, menos el barrio principal que solo se podrá disputar en caso de guerra autorizada por administración.
+* Únicamente se considera "territorio de banda" su propia sede, los territorios conquistados con el 100% de influencia, tendrán rol de entorno favorable , pero no se consideraran como "sede" o "barrio"
+
+
 
 ### <mark style="color:blue;">1.6. Drive-by</mark>
 
@@ -188,9 +190,9 @@ Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entor
 
 ### <mark style="color:blue;">6.1. Rol de Entorno Favorable</mark>
 
-* Con el actual sistema de territorios el RDE favorable se aplica solo si se tiene el 100% de influencia en un territorio. En el caso del barrio o sede de la banda, sera necesario contar al menos con el  50% de influencia sobre la zona. Este RDE favorable ayuda a que posibles llamados o actividades ilegales en dichas zonas no se vean afectadas por personas ajenas al territorio, los cuales deberán actuar con especial precaución en estos lugares.
-* Para realizar un rol agresivo en un territorio controlado por otra banda, deben participar al menos 5 miembros y existir motivos claros para tomar el riesgo.
-* Si un conflicto se inicia fuera del territorio de una banda, esta no podrá desplazarse a ninguno de sus territorios con RDE favorable para evitarlo. Hacerlo se considerará evasión de rol.
+* Con el actual sistema de territorios el RDE favorable se aplica solo si se tiene el 100% de influencia en un territorio. Este RDE favorable permite a los dueños de ese territorio no enviar entorno en ventas de droga o  secuestros de NPC . Se deberá enviar entorno igualmente si se realiza un rol agresivo.
+* Para realizar un rol agresivo ( no afecta a venta de drogas ) en un territorio controlado por otra banda, deben participar al menos 3 miembros y existir motivos claros para tomar el riesgo.
+* Si un conflicto se inicia fuera del territorio de una banda, esta no podrá desplazarse a ninguno de sus territorios con RDE favorable para evitarlo. Hacerlo se considerará evasión de rol y la otra banda podrá entrar igualmente al territorio.
 
 ***
 
