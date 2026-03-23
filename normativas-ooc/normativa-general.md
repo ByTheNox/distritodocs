@@ -100,7 +100,7 @@ Está <mark style="color:green;">**PERMITIDO**</mark> conducir vehículos por cu
 Para utilizar armas o violencia siempre debe haber un rol previo que lo justifique, salvo en las zonas ilegales o en las bases de bandas. En caso de amenaza con un arma, se debe permitir a la otra persona la oportunidad de acatar las peticiones antes de abrir fuego.
 
 * El cuerpo policial está autorizado a disparar a matar desde el helicóptero si han recibido fuego previamente mientras este se mantenga estático en el aire, nunca en movimiento y valorando el entorno en el que se encuentra.
-* Disparar desde un vehículo está permitido, pero el conductor del vehículo solo podrá disparar con el vehículo completamente detenido. Solo está permitido disparar a los neumáticos, NUNCA a los ocupantes.
+* No está permitido disparar desde un vehículo, independientemente del asiento o hacía donde vayan dirigidos los disparos.
 * No esta permitido disparar a matar a una persona en el interior de un vehículo, salvo que este se haya subido al vehículo durante un tiroteo.
 * No está permitido usar vehículos como arma contra jugadores a pie.
 * Escala de conflicto: Debe existe una escala de conflicto, no esta permitido por un insulto o un puñetazo, sacar un arma de fuego, debe existir una coherencia y proporcionalidad a la hora de desenvolver los conflictos de manera IC.
