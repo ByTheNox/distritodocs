@@ -87,7 +87,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 <mark style="color:yellow;">**No se permite utilizar vehículos de alta gama**</mark> para la realización de robos menores.
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería y Ammunations)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Farmacia y Ammunations)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuentes y un máximo de 5 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
 * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar mínimo un arma de fuego 1 de los integrantes y armas de filo cortante por parte de los demás.
