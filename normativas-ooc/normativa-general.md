@@ -95,6 +95,10 @@ El Powergaming también abarca acciones que no tendrían sentido o lógica en la
 Está <mark style="color:green;">**PERMITIDO**</mark> conducir vehículos por cualquier terreno y realizar saltos con ellos, siempre que tenga sentido dentro del contexto del rol.
 {% endhint %}
 
+{% hint style="danger" %}
+Introducirse en arbustos, ya sea durante un rol agresivo o no, será <mark style="color:$danger;">**CONSIDERADO PG y estará PROHIBIDO.**</mark>
+{% endhint %}
+
 ### <mark style="color:blue;">**2.3 Uso de Armas o Violencia**</mark>
 
 Para utilizar armas o violencia siempre debe haber un rol previo que lo justifique, salvo en las zonas ilegales o en las bases de bandas. En caso de amenaza con un arma, se debe permitir a la otra persona la oportunidad de acatar las peticiones antes de abrir fuego.
