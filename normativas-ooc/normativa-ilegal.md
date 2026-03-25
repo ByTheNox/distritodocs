@@ -87,10 +87,6 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 <mark style="color:yellow;">**No se permite utilizar vehículos de alta gama**</mark> para la realización de robos menores.
 {% endhint %}
 
-{% hint style="danger" %}
-Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color:$danger;">**MÁXIMO DE 30 MINUTOS para iniciar el robo.**</mark> En caso de cumplirse los 30 minutos será <mark style="color:$danger;">**desautorizado automáticamente.**</mark>
-{% endhint %}
-
 ### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Farmacia y Ammunations)</mark>
 
 * Deben realizarse con un mínimo de 3 delincuentes y un máximo de 5 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
@@ -101,6 +97,10 @@ Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color
 * Entre robo y robo deberán pasar mínimo 1 hora de margen.
 * NO se podrá rolear los rehenes ficticios o con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
 * Para realizar este robo, es necesario pertenecer a una BANDA OFICIAL
+
+{% hint style="danger" %}
+Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color:$danger;">**MÁXIMO DE 30 MINUTOS para iniciar el robo.**</mark> En caso de cumplirse los 30 minutos será <mark style="color:$danger;">**desautorizado automáticamente.**</mark>
+{% endhint %}
 
 ### <mark style="color:blue;">2.3. Robos de Vehículos</mark>
 
