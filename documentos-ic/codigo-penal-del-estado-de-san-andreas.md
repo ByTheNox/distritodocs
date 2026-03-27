@@ -268,6 +268,8 @@
 
 **Artículo 15.** La fuga de la custodia será sancionada con 3.000 $ y hasta 10 meses de prisión.
 
+**Artículo 16.** El impago de una factura médica será sancionado con 1.000$.
+
 ***
 
 ## <mark style="color:yellow;">**Capítulo VIII - Delitos de la Administración Pública**</mark> <a href="#eo17sg1e62qw" id="eo17sg1e62qw"></a>
