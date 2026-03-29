@@ -328,13 +328,15 @@
 
 ## <mark style="color:yellow;">**Capítulo X - Delitos contra el Medio Ambiente, Fauna y Flora**</mark> <a href="#s2f9tis0g3l7" id="s2f9tis0g3l7"></a>
 
-**Artículo 1.** El maltrato a animales será sancionado con una multa de 5.000 $ y hasta 10 meses de prisión.
+**Artículo 1.** El maltrato a animales será sancionado con una multa de 5.000 $ y hasta 10 meses de prisión. La utilización de animales para cometer actos delictivos será catalogada como maltrato animal.
 
 **Artículo 2.** El abandono de un animal será sancionado con una multa de 2.500 $.
 
 **Artículo 3.** La contaminación del medio ambiente mediante acciones deliberadas será sancionado con una multa de 10.000 $ y hasta 10 meses de prisión.
 
 **Artículo 4.** La caza o pesca de especies protegidas, como pumas, coyotes, ballenas, tiburones, tortugas y orcas, será sancionado con una multa de 1500$ y hasta 10 meses de prisión.
+
+**Artículo 5.** Cualquier animal que actúe de manera violenta hacia cualquier ciudadano o funcionario público podría ser sacrificado por parte del Estado de San Andreas.
 
 ***
 
