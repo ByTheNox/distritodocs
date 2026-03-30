@@ -218,10 +218,10 @@ El detenido deberá ser informado de los delitos de los que se le acusan tras su
 
 **Alerta Táctica Nivel 1.**
 
-1. Este nivel es el plan inicial de movilización de la S.A.S.F ante incidentes inusuales.
+1. Este nivel es el plan inicial de movilización del SAPD ante incidentes inusuales.
 2. Permite redistribuir el personal en servicio para atender un evento significativo.
 3. Autoriza a los agentes a realizar identificaciones cuando sea necesario.
-4. La alerta puede ser activada por el Comisionado de la S.A.S.F.
+4. La alerta puede ser activada por el Comisionado del SAPD.
 5. Los agentes podrán portar armas de largo calibre si la Jefatura lo aprueba.
 
 **Alerta Táctica Nivel 2.**
@@ -231,7 +231,7 @@ El detenido deberá ser informado de los delitos de los que se le acusan tras su
 3. Las patrullas se realizarán en formaciones ADAM con cobertura blindada.
 4. Los agentes tendrán potestad para cerrar negocios bajo autorización del Watch Commander de la zona.
 5. Podrá declararse un toque de queda con la aprobación del Alcalde y el Comisionado en conjunto.
-6. Esta alerta solo puede ser activada por la Jefatura de la S.A.S.F con autorización del Alcalde.
+6. Esta alerta solo puede ser activada por la Jefatura del SAPD con autorización del Alcalde.
 
 ***
 
@@ -264,7 +264,7 @@ El detenido deberá ser informado de los delitos de los que se le acusan tras su
 
 ## <mark style="color:yellow;">**TÍTULO XIII - Regulación de Armas**</mark> <a href="#id-3auhw4bccdhf" id="id-3auhw4bccdhf"></a>
 
-**Artículo 1.** Las armas de fuego son legales únicamente en el Condado de Blaine, bajo regulación estricta y previa obtención de un permiso expedido por las S.A.S.F.
+**Artículo 1.** Las armas de fuego son legales en el Estado de San Andreas, bajo regulación estricta y previa obtención de un permiso expedido por el SAPD.
 
 **Artículo 2.** Las armas autorizadas deberán ser usadas únicamente para defensa personal en domicilios, propiedades privadas o lugares de trabajo.
 
@@ -284,6 +284,6 @@ El detenido deberá ser informado de los delitos de los que se le acusan tras su
 4. **Número de serie de armas:** Identificador único grabado en las armas de fuego para registrar su propiedad y legalidad.
 5. **Presunción de veracidad:** Principio jurídico que establece que el testimonio de un funcionario público, en el ejercicio de sus funciones, se presume cierto salvo prueba en contrario.
 6. **Registro corporal:** Inspección superficial de una persona realizada por las autoridades para buscar objetos ilegales o evidencia.
-7. **S.A.S.F:** Siglas de las "San Andreas Security Forces", entidad policial que opera dentro del Estado de San Andreas y que incluye a los siguientes departamentos: Los Santos Police Department (LSPD), Blaine County Sheriff Office (BCSO) y San Andreas Highway Patrol (SAHP)
+7. **SAPD:** Siglas del "San Andreas Police Department", entidad policial que opera dentro del Estado de San Andreas y que incluye a los siguientes departamentos: Los Santos Police Department (LSPD), Blaine County Sheriff Office (BCSO) y San Andreas Highway Patrol (SAHP)
 8. **Subrepticio:** Acto realizado de manera oculta o disimulada, a menudo con la intención de evadir la atención.
 9. **Videovigilancia:** Sistema de grabación mediante cámaras para supervisar áreas públicas o privadas con fines de seguridad.
