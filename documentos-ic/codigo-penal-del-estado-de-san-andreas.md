@@ -322,7 +322,7 @@
 
 **Artículo 3.** La evasión de impuestos será sancionada con una multa de 20.000 $ y hasta 15 meses de prisión.\
 \
-**Artículo 4.** La posesión de más de 100.000 será considerada blanqueo de capitales y será sancionado con 50.000$ y 25 meses de prisión.
+**Artículo 4.** La posesión de más de 100.000$ será considerada blanqueo de capitales y será sancionado con 50.000$ y 25 meses de prisión, además de retirar la cantidad superior a 4.999$.
 
 ***
 
