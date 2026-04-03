@@ -66,6 +66,7 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 ### <mark style="color:blue;">2.1. Normativa General</mark>
 
 * No se permite realizar varios robos simultáneos por miembros de la misma banda en diferentes lugares.
+* Está terminantemente prohibido robar llaves de casas y coches sin justificación. Debe existir el permiso de administración.
 * Está prohibido realizar el mismo tipo de robo en un lapso de 15 minutos.
 * En caso de problemas de desincronización durante persecuciones, ambos bandos deberán volver al punto del error y continuar la persecución de manera justa.
 * No esta permitido el robo a jugadores sin motivo previo.
@@ -74,9 +75,9 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * No esta permitido utilizar a amigos, compañeros de banda o gente "aliada" como rehén en los robos.
 * Los agentes de policía caninos (K9) no serán contabilizados como agentes a la hora de aquellos robos con límite de policía debido a que no tienen independencia y dependen única y exclusivamente de su handler.
 
-### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, Badulaques, Tiendas de Tattoo, Peluquerías)</mark>
+### <mark style="color:blue;">2.2. Robos Menores (Robos a Casas, Badulaques, Tiendas de Tattoo, Farmacia y Peluquerías)</mark>
 
-* Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local). La policía puede participar con un máximo de 2 patrullas y hasta 4 agentes.
+* Deben realizarse con un mínimo de 1 delincuente y un máximo de 2 (todos dentro del local).
 * Para llevar a cabo estos robos, se deberá portar un arma melee como mínimo.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * En caso de que no acuda la policía al establecimiento, los atracadores podrán huir con el botín una vez pasados 10 minutos.
@@ -84,12 +85,12 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
 * En los robos menores, NO se podrá rolear los rehenes con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
 
 {% hint style="warning" %}
-<mark style="color:yellow;">**No se permite utilizar vehículos de alta gama**</mark> para la realización de robos menores.
+<mark style="color:yellow;">**Esta permitido el uso de vehiculos de cualquier gama. Deben ser de NPC, no podrán ser vehículos personales.**</mark>
 {% endhint %}
 
-### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería, Farmacia y Ammunations)</mark>
+### <mark style="color:blue;">2.2.1 Robos Medios (Robos a Joyería y Ammunations)</mark>
 
-* Deben realizarse con un mínimo de 3 delincuentes y un máximo de 5 (Un mínimo de 2 dentro del local). La policía puede participar con un máximo de 2 patrullas y 1 helicóptero o 3 patrullas hasta 6 agentes.
+* Deben realizarse con un mínimo de 2 delincuentes y un máximo de 6 (Un mínimo de 2 dentro del local).
 * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar mínimo un arma de fuego 1 de los integrantes y armas de filo cortante por parte de los demás.
 * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
 * No se podrá abandonar la zona hasta que acuda la policía.
@@ -106,7 +107,7 @@ Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color
 
 * Está prohibido robar vehículos de organizaciones estatales o empresas, salvo en casos extremos donde sea imprescindible para la supervivencia del personaje.
 * Queda terminantemente prohibido el uso de vehículos para desguace / coches de importación para realizar cualquier acto ilegal.
-* Es obligatorio enviar un entorno bien detallado al robar cualquier tipo de vehículo.<br>
+* Es obligatorio enviar un /forzar al robar cualquier tipo de vehículo.<br>
 
 ### [<mark style="color:blue;">**2.3.1 Desguace de Vehículos**</mark>](#user-content-fn-1)[^1]
 
@@ -116,18 +117,15 @@ Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color
 
 ### <mark style="color:blue;">2.4. Boosting</mark>
 
-* **Cantidad de participantes**: Se permite un mínimo de 1 y un máximo de 4 personas por robo.&#x20;
-* **Disponibilidad policial:** No es necesario solicitar disponibilidad previa para realizar el robo.&#x20;
+* **Cantidad de participantes**: Se permite un mínimo de 1 y un máximo de 6 personas por robo.&#x20;
 * **Armas obligatorias:** Todos los participantes deben portar un arma de manera OBLIGATORIA.
 * **Envío de entorno**: Es imprescindible enviar un entorno detallado al momento del robo
-* **Dispositivo de boosting**: Todos los integrantes deben portar el dispositivo de boosting correspondiente durante la realización del robo y estar en el mismo grupo.
 
 ### <mark style="color:blue;">2.5. Venta de drogas y Plantaciones</mark>
 
 * En caso de vender droga enmascarado, se debería enviar entorno de forma periódica. \
   (1 minutos)
 * Si es necesario agredir a un NPC a la hora de vender droga, se deberá enviar un entorno.
-* Se podrá realizar venta de drogas con vehículos robados y vehículos personales siempre que no sean de alta gama respetando la interpretación del entorno en la zona correspondiente. (Ejemplo: No esta permitido vender en un coche en el paseo de la playa, lo correcto seria usar una bicicleta.)
 * Es OBLIGATORIO vender a un mínimo de 3 NPC antes de abandonar la zona, esta prohibido vender a un NPC e irse a otra zona.
 * En caso de encontrar una plantación controlada por otro grupo esa zona pasará a ser punto caliente mientras esa plantación este activa.
 
@@ -151,8 +149,9 @@ El <mark style="color:red;">**/entorno**</mark> se debe usar <mark style="color:
 
 ### <mark style="color:blue;">3.2. Alianzas y Pacto de No Agresión</mark>
 
-* No están permitidas las alianzas entre bandas de ningún tipo.
 * Únicamente podrán realizar tratos de ventas o intercambio de información, siempre a cambio de dineros u otros productos.
+* Las bandas podrán realizar robos / boosting juntos siempre que tenga coherencia ic y no afecte a la idp del personaje y la banda. Siempre debe de respetarse el máximo de integrantes de cada robo ( El máximo es en conjunto de ambos grupos, no de forma individual).
+* Los problemas de una banda deberán ser resueltos por dicha banda. No podran involucrar a terceros para que realicen el trabajo por ellos, unicamente pedir información.
 * No podrán realizar alianzas entre Bandas y Racing-Crews, los miembros de una Racing Crew no podrán involucrar los conflictos internos de sus bandas mientras estén con la Racing Crew.
 * Queda **TOTALMENTE prohibido** regalar objetos o dinero a otra organización.
 
@@ -204,8 +203,10 @@ Es fundamental <mark style="color:red;">**detallar al máximo**</mark> los entor
 
 ### <mark style="color:blue;">7.1. Definición de Zonas Seguras</mark>
 
-* Algunas ubicaciones del servidor, como bancos, tiendas, negocios y áreas de servicios, son consideradas zonas seguras. No se permite cometer actos delictivos en estas áreas sin la aprobación explícita de la administración.
 * Las zonas seguras solo podrán perder esta condición bajo circunstancias justificadas y con aprobación administrativa.
+* Las únicas zonas seguras del servidor serán la comisaria y el hospital y no es posible refugiarse en ellos con un rol ya comenzado.
+* Menus: No esta permitido asaltar a un jugador si este tiene un menu abierto y no puede reaccionar.\
+  Ejemplo: Cambiandose de ropa, ingresando dinero en un ATM o comprando en una tienda.
 
 {% hint style="danger" %}
 Queda <mark style="color:red;">**terminantemente prohibido realizar roles agresivos en el hospital y sus inmediaciones**</mark>, salvo casos de fuerza mayor.
@@ -215,14 +216,12 @@ Queda <mark style="color:red;">**terminantemente prohibido realizar roles agresi
 
 Se consideraran puntos calientes las siguientes zonas:
 
-* Zonas de venta de armas ilegales o útiles para robos.
+* Zonas de venta de armas ilegales
 * Zona de drogas.
 * Cualquier zona que implique un NPC con contenido ilegal.
 * Zona de crafteo de armas.
 
-Si una banda localiza una plantación, esa zona se considerará inmediatamente un punto caliente mientras la plantación permanezca activa, excepto en el caso de que se encuentre dentro de territorios controlados.
-
-En estas zonas no es necesario enviar un entorno al realizar un acto delictivo ni se necesita un rol previo. Al igual que no se podrá usar el /auxilio en estas zonas.
+Si una banda localiza una plantación, esa zona se considerará inmediatamente un punto caliente mientras la plantación permanezca activa
 
 Las pawnshop, al igual que las zonas de desguace y tiendas legales de cultivos, no se consideran puntos calientes, por ende para realizar un acto delictivo en estas se necesita de un rol previo con su correspondiente /entorno y un motivo de peso.
 
