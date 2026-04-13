@@ -102,13 +102,14 @@ Tras realizarlo, se debe de abandonar la zona de forma inmediata enviado asi un 
     ### <mark style="color:blue;">2.2.2 Robos Grandes (Robos a Flecca)</mark>
 
     * Deben ser realizado por un máximo de 8 atracadores y un mínimo de 3
-    * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar mínimo un arma de fuego 1 automática o una escopeta por parte de los integrantes
+    * Para llevar a cabo estos robos la policía deberá dar el visto bueno por el comando /polidispo, se deberá portar mínimo un arma de fuego 1 automática o una escopeta por parte de 1 de los integrantes en el interior, uno de sus acompañantes debera portar como minimo una pistola.
     * No está permitido que otros jugadores, no involucrados directamente en el robo, asistan en la acción.
     * No se podrá abandonar la zona hasta que acuda la policía.
     * Antes de acudir a un bloqueo, deben pasar un mínimo de 10 minutos de persecución.
     * Entre robo y robo deberán pasar mínimo 1 hora de margen.
     * NO se podrá rolear los rehenes ficticios o con el comando /dados. Deben ser obligatoriamente jugadores o NPCs.
     * Para realizar este robo, es necesario pertenecer a una BANDA OFICIAL
+    * Este robo esta limitado a 2 por semana por cada banda.
 
 {% hint style="danger" %}
 Una vez el robo esté aprobado por la policía, se tendrá un <mark style="color:$danger;">**MÁXIMO DE 30 MINUTOS para iniciar el robo.**</mark> En caso de cumplirse los 30 minutos será <mark style="color:$danger;">**desautorizado automáticamente.**</mark>
