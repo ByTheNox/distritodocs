@@ -50,7 +50,7 @@ _**Enmienda 19.**_ Toda propiedad privada será protegida de registros o incauta
 
 _**Enmienda 20.**_ Se reconoce el derecho de asociación, siempre y cuando no se utilicen medios o fines tipificados como delito.
 
-_**Enmienda 21.**_ Todos los ciudadanos tienen derecho a la protección de la salud, siendo obligación del gobierno tutelar y organizar la sanidad pública.
+_**Enmienda 21.**_ Todos los ciudadanos tienen derecho a la protección de la salud, sin embargo, la sanidad es de carácter privada.
 
 _**Enmienda 22.**_ Ningún ciudadano americano será privado de su nacionalidad.
 
